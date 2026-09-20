@@ -1,17 +1,89 @@
 {
-  "lastUpdated": "2026-09-20T17:17:00+03:00",
+  "lastUpdated": "2026-09-20T23:17:00+03:00",
   "posts": [
     {
-      "id": "2101249852495552925",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس نيبال بمناسبة ذكرى يوم الدستور لبلاده.\n#واس",
-      "createdAt": "2026-09-19T09:59:38Z",
-      "topics": ["royal"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSkjk9xWoAAr8Va.jpg"}],
-      "likes": 306,
-      "views": 171025,
-      "reposts": 96,
+      "id": "2101756648503062955",
+      "handle": "KSAMOFA",
+      "text": "#بيان | تعرب وزارة الخارجية عن إدانة المملكة العربية السعودية واستنكارها بأشد العبارات اقتحام باحات المسجد الأقصى المبارك من قبل مسؤول في سلطات الاحتلال الإسرائيلي ومجموعة من المستوطنين المتطرفين تحت حماية قوات الاحتلال، والذي يُعد انتهاكاً صارخاً واستفزازاً للمسلمين حول العالم.",
+      "createdAt": "2026-09-20T19:33:28Z",
+      "topics": ["diplomacy", "security", "alert"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSrwh6GXsAAG7yW.jpg"}],
+      "likes": 1294,
+      "views": 198762,
+      "reposts": 496,
       "featured": true
+    },
+    {
+      "id": "2101757802276413531",
+      "handle": "SPAregions",
+      "text": "وزارة الخارجية: المملكة تدين وتستنكر بأشد العبارات اقتحام باحات المسجد الأقصى المبارك من قبل مسؤول في سلطات الاحتلال الإسرائيلي ومجموعة من المستوطنين المتطرفين تحت حماية قوات الاحتلال، والذي يُعد انتهاكًا صارخًا واستفزازًا للمسلمين حول العالم.\n#واس",
+      "createdAt": "2026-09-20T19:38:03Z",
+      "topics": ["diplomacy", "security", "alert"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSrxj6SWwAA2ywV.jpg"}],
+      "likes": 37,
+      "views": 22479,
+      "reposts": 32,
+      "featured": false
+    },
+    {
+      "id": "2101759457646489921",
+      "handle": "SPAregions",
+      "text": "برئاسة المملكة وبحضور وفود هيئات الإذاعة والتلفزيون العربية.. اتحاد الإذاعات يناقش التبادلات البرامجية وتوظيف الذكاء الاصطناعي.\nhttps://www.spa.gov.sa/ar/w2681098\n#واس",
+      "createdAt": "2026-09-20T19:44:38Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSrzC07XcAAIvGy.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSrzD_dWEAE-uZx.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSrzFCNXwAAi49h.jpg"}],
+      "likes": 2,
+      "views": 17045,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2101759074282922323",
+      "handle": "SPAregions",
+      "text": "بدعم مركز الملك سلمان للإغاثة.. مدرسة مكة بجنوب قطاع غزة تستقبل طلابها مع بداية العام الدراسي الجديد.\nhttps://www.spa.gov.sa/N2681159\n#واس",
+      "createdAt": "2026-09-20T19:43:06Z",
+      "topics": ["humanitarian"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSryrDMXEAA8CNZ.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSryrf3WYAA0rUD.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSryst0XoAEzQXv.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSryuCgW4AAr_tO.jpg"}],
+      "likes": 13,
+      "views": 17364,
+      "reposts": 8,
+      "featured": false
+    },
+    {
+      "id": "2101746379638849584",
+      "handle": "SPAregions",
+      "text": "نائب أمير حائل يستقبل مدير مكتب هيئة الصحة العامة \"وقاية\" بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2681144\n#واس",
+      "createdAt": "2026-09-20T18:52:40Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSrnL0LWkAAerpG.jpg"}],
+      "likes": 6,
+      "views": 25543,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2101733130545864764",
+      "handle": "SPAregions",
+      "text": "موجز #واس",
+      "createdAt": "2026-09-20T18:00:01Z",
+      "topics": ["local"],
+      "media": [{"kind": "video", "url": "https://video.twimg.com/amplify_video/2101712887190368256/vid/avc1/720x1280/8d_vhMnmGGO7q8Kx.mp4"}],
+      "likes": 12,
+      "views": 26911,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2101682349964415192",
+      "handle": "SPAregions",
+      "text": "سمو الأمير تركي بن محمد بن فهد يستقبل الوزير بمكتب رئيس الوزراء وزير الدفاع الثاني في سلطنة بروناي دار السلام.\nhttps://www.spa.gov.sa/N2681030\n#واس",
+      "createdAt": "2026-09-20T14:38:14Z",
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSqqyvlXMAAyEBx.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqqzhNXgAAHzgT.jpg"}],
+      "likes": 41,
+      "views": 53945,
+      "reposts": 14,
+      "featured": false
     },
     {
       "id": "2101672064847401196",
@@ -20,9 +92,9 @@
       "createdAt": "2026-09-20T13:57:22Z",
       "topics": ["security", "alert"],
       "media": [],
-      "likes": 4,
-      "views": 12960,
-      "reposts": 1,
+      "likes": 15,
+      "views": 37069,
+      "reposts": 6,
       "featured": false
     },
     {
@@ -32,9 +104,9 @@
       "createdAt": "2026-09-20T13:56:04Z",
       "topics": ["local"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSqjQboWMAAK1gT.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqjROvWEAAbgIx.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqjSzaWAAAmGpe.jpg"}],
-      "likes": 5,
-      "views": 13241,
-      "reposts": 5,
+      "likes": 35,
+      "views": 45238,
+      "reposts": 7,
       "featured": false
     },
     {
@@ -44,9 +116,9 @@
       "createdAt": "2026-09-20T13:45:16Z",
       "topics": ["local"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSqgyHVX0AAc8PP.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqgz3CXUAAPafI.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqg08OWQAEXKMV.jpg"}],
-      "likes": 4,
-      "views": 15439,
-      "reposts": 0,
+      "likes": 14,
+      "views": 34937,
+      "reposts": 4,
       "featured": false
     },
     {
@@ -56,9 +128,9 @@
       "createdAt": "2026-09-20T13:39:51Z",
       "topics": ["security"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSqff5AXoAA2ygs.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqfhbZWgAADuR5.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqfi3BX0AA0lZP.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HSqfk0LXEAADDOg.jpg"}],
-      "likes": 19,
-      "views": 20441,
-      "reposts": 14,
+      "likes": 132,
+      "views": 57217,
+      "reposts": 53,
       "featured": false
     },
     {
@@ -68,9 +140,9 @@
       "createdAt": "2026-09-20T13:45:00Z",
       "topics": ["security"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSqgbBjWYAApT9n.jpg"}],
-      "likes": 47,
-      "views": 24260,
-      "reposts": 34,
+      "likes": 177,
+      "views": 74456,
+      "reposts": 129,
       "featured": false
     },
     {
@@ -80,9 +152,9 @@
       "createdAt": "2026-09-20T12:19:35Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSqM2bTWQAAn5aw.jpg"}],
-      "likes": 38,
-      "views": 22270,
-      "reposts": 8,
+      "likes": 106,
+      "views": 57963,
+      "reposts": 21,
       "featured": false
     },
     {
@@ -92,9 +164,9 @@
       "createdAt": "2026-09-20T11:04:38Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSp7_EoXsAASBun.jpg"}],
-      "likes": 480,
-      "views": 176670,
-      "reposts": 205,
+      "likes": 622,
+      "views": 189137,
+      "reposts": 260,
       "featured": false
     },
     {
@@ -104,9 +176,9 @@
       "createdAt": "2026-09-20T10:00:01Z",
       "topics": ["security"],
       "media": [{"kind": "video", "url": "https://video.twimg.com/amplify_video/2101611108586971136/vid/avc1/1280x720/-evSb5aeoBSKefM3.mp4"}],
-      "likes": 89,
-      "views": 61752,
-      "reposts": 52,
+      "likes": 117,
+      "views": 86171,
+      "reposts": 66,
       "featured": false
     },
     {
@@ -143,6 +215,18 @@
       "likes": 70,
       "views": 40237,
       "reposts": 50,
+      "featured": false
+    },
+    {
+      "id": "2101249852495552925",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس نيبال بمناسبة ذكرى يوم الدستور لبلاده.\n#واس",
+      "createdAt": "2026-09-19T09:59:38Z",
+      "topics": ["royal"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HSkjk9xWoAAr8Va.jpg"}],
+      "likes": 311,
+      "views": 175684,
+      "reposts": 102,
       "featured": false
     }
   ]
