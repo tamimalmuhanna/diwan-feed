@@ -1,6 +1,138 @@
 {
-  "lastUpdated": "2026-09-30T08:10:00+03:00",
+  "lastUpdated": "2026-09-30T14:10:00+03:00",
   "posts": [
+    {
+      "id": "2105253880153923810",
+      "handle": "SPAregions",
+      "text": "نائب أمير عسير يستقبل مدير فرع هيئة حقوق الإنسان.\nhttps://www.spa.gov.sa/ar/w2689534\n#واس",
+      "createdAt": "2026-09-30T11:10:13Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTddIa9XsAAF3GC.jpg"}],
+      "likes": 0,
+      "views": 0,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2105253804853862451",
+      "handle": "SPAregions",
+      "text": "أمير حائل يستقبل مدير شرطة المنطقة.\nhttps://www.spa.gov.sa/ar/w2689527\n#واس",
+      "createdAt": "2026-09-30T11:09:55Z",
+      "topics": ["local", "security"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTddEibXsAA1tdr.jpg"}],
+      "likes": 0,
+      "views": 775,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2105253109656088580",
+      "handle": "SPAregions",
+      "text": "أمير منطقة الجوف يستقبل رئيس لجنة أصدقاء البيئة ويستعرض إنجازاتها.\nhttps://www.spa.gov.sa/ar/w2689535\n#واس",
+      "createdAt": "2026-09-30T11:07:09Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdcTr3X0AEJ_4T.jpg"}],
+      "likes": 1,
+      "views": 6383,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2105251983854559242",
+      "handle": "SPAregions",
+      "text": "زمزم.. عناية سعودية متواصلة تجسّد مسيرة العطاء من عهد المؤسس إلى الحاضر.\nhttps://www.spa.gov.sa/ar/w2689100\n#عزنا_بطبعنا | #اليوم_الوطني_السعودي\n#واس",
+      "createdAt": "2026-09-30T11:02:41Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdbXeeXkAAyuAc.jpg"}],
+      "likes": 3,
+      "views": 8326,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2105249248283398652",
+      "handle": "SPAregions",
+      "text": "نائب أمير المنطقة الشرقية يطّلع على جهود جمعية \"دارك\" للإسكان التنموي.\nhttps://www.spa.gov.sa/ar/w2689523\n#واس",
+      "createdAt": "2026-09-30T10:51:49Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdY-3cXMAAr_QK.jpg"}],
+      "likes": 8,
+      "views": 12643,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2105243415076274246",
+      "handle": "KSAMOFA",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية بوتسوانا بمناسبة ذكرى استقلال بلاده.",
+      "createdAt": "2026-09-30T10:28:38Z",
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdTuEiWsAEYFd7.jpg"}],
+      "likes": 47,
+      "views": 13904,
+      "reposts": 11,
+      "featured": false
+    },
+    {
+      "id": "2105243306011791393",
+      "handle": "SPAregions",
+      "text": "أمير جازان يقلّد مدير سجون المنطقة رتبته الجديدة.\nhttps://www.spa.gov.sa/ar/w2689502\n#واس",
+      "createdAt": "2026-09-30T10:28:12Z",
+      "topics": ["local", "security"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdTiXCXcAAPm-o.jpg"}],
+      "likes": 6,
+      "views": 16231,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2105242706049954208",
+      "handle": "SPAregions",
+      "text": "أمير المنطقة الشرقية يستقبل نائب وزير البيئة والمياه والزراعة.\nhttps://www.spa.gov.sa/ar/w2689499\n#واس",
+      "createdAt": "2026-09-30T10:25:49Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdS6uNW0AARwFE.jpg"}],
+      "likes": 5,
+      "views": 15827,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2105239360194871595",
+      "handle": "SPAregions",
+      "text": "أمير نجران يدشّن حملة لقاح الإنفلونزا الموسمية بالمنطقة.\nhttps://www.spa.gov.sa/N2689433\n#واس",
+      "createdAt": "2026-09-30T10:12:31Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTdP-CiXAAAK7h_.jpg"}],
+      "likes": 8,
+      "views": 18742,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2105221649654288615",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية بوتسوانا بمناسبة ذكرى استقلال بلاده.\n#واس",
+      "createdAt": "2026-09-30T09:02:09Z",
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTc_4U7XYAAXL4_.jpg"}],
+      "likes": 90,
+      "views": 54464,
+      "reposts": 31,
+      "featured": false
+    },
+    {
+      "id": "2105189675766067349",
+      "handle": "KSAMOFA",
+      "text": "#واشنطن | سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يلتقي رئيس لجنة العلاقات الخارجية في مجلس الشيوخ الأمريكي السيناتور جيم ريتش، ونائبة رئيس اللجنة السيناتور جين شاهين، وذلك خلال زيارة سموه الرسمية إلى الولايات المتحدة الأمريكية.",
+      "createdAt": "2026-09-30T06:55:05Z",
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTci2HDWgAAfZRF.jpg"}],
+      "likes": 230,
+      "views": 41269,
+      "reposts": 78,
+      "featured": false
+    },
     {
       "id": "2105146004974489700",
       "handle": "SPAregions",
@@ -14,111 +146,15 @@
       "featured": false
     },
     {
-      "id": "2105041253016428903",
-      "handle": "SPAregions",
-      "text": "رئيس مؤسسة البريد السعودي يرفع الشكر للقيادة بمناسبة تمديد خدمته مدة أربع سنوات.\nhttps://www.spa.gov.sa/N2688738\n#واس",
-      "createdAt": "2026-09-29T21:05:19Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTabeRoWEAArtuZ.jpg"}],
-      "likes": 20,
-      "views": 41242,
-      "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2105027337117155520",
-      "handle": "SPAregions",
-      "text": "أمير منطقة الجوف يشهد لقاء \"ليالي الجوف 70\".\nhttps://www.spa.gov.sa/N2689138\n#واس",
-      "createdAt": "2026-09-29T20:10:01Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTaPHrBWQAAwJZX.jpg"}],
-      "likes": 20,
-      "views": 37349,
-      "reposts": 8,
-      "featured": false
-    },
-    {
-      "id": "2105027132066066442",
-      "handle": "SPAregions",
-      "text": "محافظ حفر الباطن يرعى احتفال الجامعة بـ #اليوم_الوطني_السعودي.\nhttps://www.spa.gov.sa/N2689177\n#عزنا_بطبعنا | #واس",
-      "createdAt": "2026-09-29T20:09:12Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTaO09NXEAAe3TV.jpg"}],
-      "likes": 30,
-      "views": 40133,
-      "reposts": 7,
-      "featured": false
-    },
-    {
-      "id": "2105019102112973279",
-      "handle": "SPAregions",
-      "text": "الدكتور السبتي: ريادة \"النموذج السعودي لجودة التعليم والتدريب\" هي نتيجة للدعم الكبير من القيادة الرشيدة وإحدى ثمرات رؤية السعودية 2030.\nhttps://www.spa.gov.sa/N2689108\n#واس",
-      "createdAt": "2026-09-29T19:37:17Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTaHsDAWAAA4cri.jpg"}],
-      "likes": 20,
-      "views": 41816,
-      "reposts": 8,
-      "featured": false
-    },
-    {
-      "id": "2105009322841309409",
-      "handle": "SPAregions",
-      "text": "سمو وزير الدفاع ووزير الدفاع البلغاري يستعرضان هاتفيًا أوجه علاقات التعاون بين البلدين الصديقين في المجالات العسكرية والدفاعية وفرص تطويرها بما يخدم مصالحهما المشتركة، إضافة إلى بحث سبل تعزيز الأمن والاستقرار في المنطقة ومناقشة عدد من القضايا الإقليمية والدولية.\nhttps://www.spa.gov.sa/N2689050\n#واس",
-      "createdAt": "2026-09-29T18:58:26Z",
-      "topics": ["diplomacy", "security"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZ-dMtWcAE73QD.jpg"}],
-      "likes": 54,
-      "views": 36275,
-      "reposts": 21,
-      "featured": false
-    },
-    {
-      "id": "2105002342378864795",
-      "handle": "SPAregions",
-      "text": "المملكة تجدد التأكيد على أن حل الدولتين هو السبيل الوحيد لتحقيق السلام العادل والدائم.\nhttps://www.spa.gov.sa/N2688921\n#واس",
-      "createdAt": "2026-09-29T18:30:42Z",
-      "topics": ["diplomacy"],
-      "media": [],
-      "likes": 87,
-      "views": 51763,
-      "reposts": 44,
-      "featured": false
-    },
-    {
-      "id": "2105001980825378891",
-      "handle": "SPAregions",
-      "text": "غدًا.. الهيئة الملكية لمدينة الرياض تعلن نتائج التحقق من أهلية المتقدمين لبرنامج التوازن العقاري.\nhttps://www.spa.gov.sa/N2689039\n#واس",
-      "createdAt": "2026-09-29T18:29:15Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZ4IeSXoAAvmTf.jpg"}],
-      "likes": 11,
-      "views": 32922,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2104998730160087119",
-      "handle": "SPAregions",
-      "text": "نائب وزير الإعلام يلتقي مدير شركة Google في الشرق الأوسط وشمال أفريقيا ويبحث معه سبل تطوير الشراكة وتعزيز التعاون.\nhttps://www.spa.gov.sa/N2689004\n#واس",
-      "createdAt": "2026-09-29T18:16:20Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZ1EESXwAA8Ujw.jpg"}],
-      "likes": 53,
-      "views": 51375,
-      "reposts": 13,
-      "featured": false
-    },
-    {
       "id": "2104985064241271047",
       "handle": "KSAMOFA",
       "text": "#واشنطن | سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يلتقي رئيس لجنة الخدمات المسلحة في مجلس الشيوخ الأمريكي السيناتور روجر ويكر، ونائب رئيس اللجنة السيناتور جاك ريد، وذلك خلال زيارة سموه الرسمية إلى الولايات المتحدة الأمريكية.",
       "createdAt": "2026-09-29T17:22:02Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZowRCWYAAoiXX.jpg"}],
-      "likes": 476,
-      "views": 73432,
-      "reposts": 166,
+      "likes": 540,
+      "views": 89725,
+      "reposts": 184,
       "featured": false
     },
     {
@@ -131,30 +167,6 @@
       "likes": 438,
       "views": 65303,
       "reposts": 157,
-      "featured": false
-    },
-    {
-      "id": "2104972038175654050",
-      "handle": "KSAMOFA",
-      "text": "#مجلس_الوزراء يوافق على اتفاقية بين حكومة المملكة العربية السعودية وحكومة الجمهورية التركية بشأن الإعفاء المتبادل من متطلبات التأشيرة لحاملي جوازات السفر الدبلوماسية والخاصة.",
-      "createdAt": "2026-09-29T16:30:17Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZc6NzWMAAOKsh.jpg"}],
-      "likes": 247,
-      "views": 41815,
-      "reposts": 82,
-      "featured": false
-    },
-    {
-      "id": "2104971748454146554",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | برئاسة سمو #ولي_العهد.. الجانب السياسي من جلسة #مجلس_الوزراء 🇸🇦",
-      "createdAt": "2026-09-29T16:29:07Z",
-      "topics": ["royal", "diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZcpKBXoAAptdY.jpg"}],
-      "likes": 180,
-      "views": 41779,
-      "reposts": 81,
       "featured": false
     },
     {
@@ -176,9 +188,9 @@
       "createdAt": "2026-09-29T15:13:24Z",
       "topics": ["royal"],
       "media": [{"kind": "video", "url": "https://video.twimg.com/amplify_video/2104952589368315904/vid/avc1/1920x1080/XgR4q7f-EAniPRQI.mp4"}],
-      "likes": 1711,
-      "views": 1149282,
-      "reposts": 1017,
+      "likes": 1760,
+      "views": 1169069,
+      "reposts": 1047,
       "featured": true
     },
     {
@@ -188,9 +200,9 @@
       "createdAt": "2026-09-29T15:12:22Z",
       "topics": ["royal"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZLEUdWsAA5pvW.jpg"}],
-      "likes": 711,
-      "views": 619858,
-      "reposts": 425,
+      "likes": 735,
+      "views": 629162,
+      "reposts": 434,
       "featured": false
     },
     {
@@ -200,21 +212,9 @@
       "createdAt": "2026-09-29T15:12:01Z",
       "topics": ["royal"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZK_bMX0AId8zA.jpg"}],
-      "likes": 641,
-      "views": 566306,
-      "reposts": 382,
-      "featured": false
-    },
-    {
-      "id": "2104952118532829560",
-      "handle": "spagov",
-      "text": "#مجلس_الوزراء يُوجِّه بما يلزم بشأن عددٍ من الموضوعات المدرجة على جدول أعماله، من بينها تقارير سنوية للهيئة العامة للأوقاف، والهيئة السعودية للبحر الأحمر، والمركز الوطني لإدارة النفايات، ومركز دعم هيئات التطوير والمكاتب الإستراتيجية، وجامعة الملك عبدالعزيز.\n#واس",
-      "createdAt": "2026-09-29T15:11:07Z",
-      "topics": ["local"],
-      "media": [],
-      "likes": 289,
-      "views": 192348,
-      "reposts": 142,
+      "likes": 660,
+      "views": 571554,
+      "reposts": 391,
       "featured": false
     },
     {
@@ -224,9 +224,9 @@
       "createdAt": "2026-09-29T15:10:00Z",
       "topics": ["local"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZKhiDWkAEo24a.jpg"}],
-      "likes": 751,
-      "views": 611079,
-      "reposts": 389,
+      "likes": 768,
+      "views": 618948,
+      "reposts": 402,
       "featured": false
     },
     {
@@ -236,33 +236,9 @@
       "createdAt": "2026-09-29T15:09:16Z",
       "topics": ["local"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZKTvZXMAAzgVC.jpg"}],
-      "likes": 677,
-      "views": 620820,
-      "reposts": 346,
-      "featured": false
-    },
-    {
-      "id": "2104951450300559603",
-      "handle": "spagov",
-      "text": "#مجلس_الوزراء: استمرار مدة عضوية أعضاء المجلس الأعلى للقضاء، ومجلس القضاء الإداري، ومجلس النيابة العامة، ومجلس وحدة التحقيق والادعاء الجنائي بهيئة الرقابة ومكافحة الفساد، إلى أن يعيّن خلف لهم، وتعديل الأنظمة ذات الصلة.\n#واس",
-      "createdAt": "2026-09-29T15:08:28Z",
-      "topics": ["local"],
-      "media": [],
-      "likes": 309,
-      "views": 245713,
-      "reposts": 172,
-      "featured": false
-    },
-    {
-      "id": "2104951369044033939",
-      "handle": "spagov",
-      "text": "#مجلس_الوزراء: الموافقة على مذكرة تفاهم بين هيئة الرقابة ومكافحة الفساد في المملكة العربية السعودية والهيئة المركزية للرقابة والتفتيش في الجمهورية العربية السورية في مجال منع الفساد ومكافحته.\n#واس",
-      "createdAt": "2026-09-29T15:08:09Z",
-      "topics": ["diplomacy"],
-      "media": [],
-      "likes": 339,
-      "views": 199075,
-      "reposts": 158,
+      "likes": 693,
+      "views": 629397,
+      "reposts": 350,
       "featured": false
     },
     {
@@ -272,9 +248,9 @@
       "createdAt": "2026-09-29T14:30:01Z",
       "topics": ["security", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTZA7CJXwAEVTBN.jpg"}],
-      "likes": 157,
-      "views": 76102,
-      "reposts": 83,
+      "likes": 165,
+      "views": 86994,
+      "reposts": 86,
       "featured": false
     },
     {
@@ -296,9 +272,9 @@
       "createdAt": "2026-09-29T13:50:05Z",
       "topics": ["security", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTY2TT8b0AAc8ks.jpg"}],
-      "likes": 160,
-      "views": 83756,
-      "reposts": 78,
+      "likes": 165,
+      "views": 94380,
+      "reposts": 81,
       "featured": false
     },
     {
@@ -314,18 +290,6 @@
       "featured": false
     },
     {
-      "id": "2104541635002450131",
-      "handle": "MOISaudiArabia",
-      "text": "الوزارة تنفذ أكثر من (49) مليون عملية إلكترونية عبر منصة #أبشر خلال شهر أغسطس 2026.",
-      "createdAt": "2026-09-28T12:00:00Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTTNIfwXsAAmT0u.jpg"}],
-      "likes": 120,
-      "views": 100066,
-      "reposts": 57,
-      "featured": false
-    },
-    {
       "id": "2104628093638070606",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يعزيان رئيس جمهورية الكونغو الديمقراطية في ضحايا حادث تحطم طائرة غربي بلاده.\n#واس",
@@ -335,6 +299,18 @@
       "likes": 238,
       "views": 130606,
       "reposts": 82,
+      "featured": false
+    },
+    {
+      "id": "2104541635002450131",
+      "handle": "MOISaudiArabia",
+      "text": "الوزارة تنفذ أكثر من (49) مليون عملية إلكترونية عبر منصة #أبشر خلال شهر أغسطس 2026.",
+      "createdAt": "2026-09-28T12:00:00Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTTNIfwXsAAmT0u.jpg"}],
+      "likes": 121,
+      "views": 101739,
+      "reposts": 57,
       "featured": false
     }
   ]
