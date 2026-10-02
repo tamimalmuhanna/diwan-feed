@@ -1,208 +1,139 @@
 {
-  "lastUpdated": "2026-10-02T10:14:00+03:00",
+  "lastUpdated": "2026-10-02T17:05:00+03:00",
   "posts": [
     {
-      "id": "2105870394205020412",
+      "id": "2106019929468146100",
       "handle": "SPAregions",
-      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد على جازان، عسير، الباحة، مكة المكرمة، المدينة المنورة مع تكون الضباب كذلك على الأجزاء الساحلية من الشرقية. وهطول أمطار رعدية خفيفة إلى متوسطة على تبوك، الجوف، حائل، القصيم، الحدود الشمالية والشرقية مع رياح نشطة كذلك على الرياض.\n #واس",
-      "createdAt": "2026-10-02T04:00:01Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTlPcRjXkAEAKTk.jpg"
-        }
-      ],
-      "likes": 9,
-      "views": 20774,
-      "reposts": 3,
+      "text": "#الهيئة_الوطنية_للأمن_السيبراني تؤكد أهمية تقيّد مزاولي الأنشطة المتعلقة بالأمن السيبراني بالتسجيل لديها.\nhttps://www.spa.gov.sa/ar/w2691610\n#واس",
+      "createdAt": "2026-10-02T13:54:13Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HToV3gJW0AEKm4e.jpg"}],
+      "likes": 4,
+      "views": 8777,
+      "reposts": 4,
       "featured": false
     },
     {
-      "id": "2105838739830518138",
+      "id": "2105997164229050721",
       "handle": "SPAregions",
-      "text": "الكويت تدين استهداف منشأة كهربائية بالمدينة المنورة.\nhttps://www.spa.gov.sa/N2691296\n#واس",
-      "createdAt": "2026-10-02T01:54:14Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
+      "text": "موريتانيا تدين استهداف محطة \"طيبة\" وتؤكد تضامنها مع المملكة.\nhttps://www.spa.gov.sa/ar/w2691516\n#واس",
+      "createdAt": "2026-10-02T12:23:46Z",
+      "topics": ["local", "diplomacy"],
       "media": [],
-      "likes": 23,
-      "views": 30727,
-      "reposts": 14,
-      "featured": false
-    },
-    {
-      "id": "2105818582924107880",
-      "handle": "SPAregions",
-      "text": "التحالف: اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية الإرهابية باتجاه خميس مشيط.\n#واس",
-      "createdAt": "2026-10-02T00:34:09Z",
-      "topics": [
-        "local"
-      ],
-      "media": [],
-      "likes": 94,
-      "views": 38308,
-      "reposts": 45,
-      "featured": false
-    },
-    {
-      "id": "2105808469953786188",
-      "handle": "SPAregions",
-      "text": "من الصخور إلى المياه والمنحدرات.. تجربة الدفع الرباعي تحاكي تحديات القيادة الصحراوية في معرض الصقور والصيد.\nhttps://www.spa.gov.sa/N2691283\n#واس",
-      "createdAt": "2026-10-01T23:53:57Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTlVmSxWMAAqRUl.jpg"
-        }
-      ],
-      "likes": 7,
-      "views": 30434,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2105807968638034185",
-      "handle": "SPAregions",
-      "text": "سمو الرئيس التنفيذي لنادي سباقات الخيل: الخطاب الملكي يؤكد رسوخ الإرث الوطني ومواصلة مسيرة التنمية.\nhttps://www.spa.gov.sa/N2691261\n#واس",
-      "createdAt": "2026-10-01T23:51:58Z",
-      "topics": [
-        "royal",
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTlTEr8WkAAIF81.jpg"
-        }
-      ],
-      "likes": 20,
-      "views": 32491,
-      "reposts": 1,
-      "featured": false
-    },
-    {
-      "id": "2105799652981506223",
-      "handle": "SPAregions",
-      "text": "الجامعة العربية تدين استهداف ميليشيا الحوثي الإرهابية محطة توزيع كهرباء في المدينة المنورة.\nhttps://www.spa.gov.sa/N2691260\n#واس",
-      "createdAt": "2026-10-01T23:18:55Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 18,
-      "views": 31262,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2105795256255959491",
-      "handle": "SPAregions",
-      "text": "قطر تدين استهداف ميليشيا الحوثي الإرهابية محطة لتوزيع الكهرباء في المدينة المنورة.\nhttps://www.spa.gov.sa/N2691255\n#واس",
-      "createdAt": "2026-10-01T23:01:27Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 35,
-      "views": 36273,
-      "reposts": 11,
-      "featured": false
-    },
-    {
-      "id": "2105794508923261015",
-      "handle": "SPAregions",
-      "text": "مصر تدين استهداف محطة كهرباء بالمدينة المنورة.\nhttps://www.spa.gov.sa/N2691251\n#واس",
-      "createdAt": "2026-10-01T22:58:29Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 19,
-      "views": 38105,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2105790785958670663",
-      "handle": "SPAregions",
-      "text": "السفير الشمري يُقدم أوراق اعتماده سفيرًا غير مقيم لرئيسة جمهورية مولدوفا.\nhttps://www.spa.gov.sa/N2691245\n#واس",
-      "createdAt": "2026-10-01T22:43:41Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTlDq3GX0AAJnx9.jpg"
-        }
-      ],
-      "likes": 14,
-      "views": 23997,
+      "likes": 8,
+      "views": 19850,
       "reposts": 5,
       "featured": false
     },
     {
-      "id": "2105779991057244542",
+      "id": "2105990237365182520",
       "handle": "SPAregions",
-      "text": "صقر الحماد يحلق بـ 101 ألف ريال في أولى ليالي مزاد المركز الوطني للصقور 2026.\nhttps://www.spa.gov.sa/N2691131\n#واس",
-      "createdAt": "2026-10-01T22:00:48Z",
-      "topics": [
-        "local"
-      ],
+      "text": "المملكة تحصل على \"جائزة التميز البيئي العربي\" لجهودها في الحفاظ على البيئة وتنمية الغطاء النباتي واستدامته.\nhttps://www.spa.gov.sa/ar/w2691502\n#واس",
+      "createdAt": "2026-10-02T11:56:14Z",
+      "topics": ["local"],
       "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTk7tbRXYAEjCb4.jpg"
-        }
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HTn68gkWEAE8MEO.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HTn69OeXUAAuBm1.jpg"}
       ],
-      "likes": 18,
-      "views": 25552,
-      "reposts": 7,
+      "likes": 28,
+      "views": 21565,
+      "reposts": 17,
       "featured": false
     },
     {
-      "id": "2105773490691280931",
+      "id": "2105985877981995009",
       "handle": "SPAregions",
-      "text": "مركز الملك سلمان للإغاثة يوزّع (24.000) وجبة غذائية ساخنة في قطاع غزة.\nhttps://www.spa.gov.sa/N2691173\n#واس",
-      "createdAt": "2026-10-01T21:34:58Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTk1y5_XkAA9zop.jpg"
-        }
-      ],
-      "likes": 26,
-      "views": 24583,
+      "text": "كيف ارتبطت صخرةٌ في القصيم بقصة عنترة وعبلة؟\nhttps://www.spa.gov.sa/ar/w2691496\n#واس",
+      "createdAt": "2026-10-02T11:38:55Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTn28veWoAAyKkV.jpg"}],
+      "likes": 23,
+      "views": 23414,
       "reposts": 13,
       "featured": false
     },
     {
-      "id": "2105772032936087808",
+      "id": "2105984459195466189",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية غينيا رئيس الدولة، بمناسبة ذكرى استقلال بلاده.\n#واس",
+      "createdAt": "2026-10-02T11:33:17Z",
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTn1c1lWMAE74nh.jpg"}],
+      "likes": 112,
+      "views": 37233,
+      "reposts": 42,
+      "featured": false
+    },
+    {
+      "id": "2105980517300789704",
       "handle": "SPAregions",
-      "text": "الأمانة العامة لمجلس وزراء الداخلية العرب تعرب عن استنكارها للاعتداء الذي قامت به ميليشيا الحوثي الإرهابية على محطة كهرباء تابعة للمسجد النبوي.\nhttps://www.spa.gov.sa/N2691040\n#واس",
-      "createdAt": "2026-10-01T21:29:10Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
+      "text": "خطبة الجمعة من المسجد النبوي.\n#واس",
+      "createdAt": "2026-10-02T11:17:37Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTnyAJ4WcAAv8yD.jpg"}],
+      "likes": 26,
+      "views": 22929,
+      "reposts": 18,
+      "featured": false
+    },
+    {
+      "id": "2105980281689936062",
+      "handle": "SPAregions",
+      "text": "خطبة الجمعة من المسجد الحرام.\n#واس",
+      "createdAt": "2026-10-02T11:16:41Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTnxyFaXEAA-aO9.jpg"}],
+      "likes": 40,
+      "views": 21909,
+      "reposts": 20,
+      "featured": false
+    },
+    {
+      "id": "2105972972716761523",
+      "handle": "SPAregions",
+      "text": "الشيخ عبدالله البعيجان في خطبة الجمعة من المسجد النبوي: القناعة أعظم كنز يملكه الإنسان.\n#واس",
+      "createdAt": "2026-10-02T10:47:38Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTnrKFoXcAAERLa.jpg"}],
+      "likes": 26,
+      "views": 24368,
+      "reposts": 22,
+      "featured": false
+    },
+    {
+      "id": "2105972759977165097",
+      "handle": "SPAregions",
+      "text": "الشيخ الدكتور فيصل غزاوي في خطبة الجمعة من المسجد الحرام: ليس العيب أن يهفو المرء ويعثر، لكن العيب أن يمكث في الوحل وهو ينظر.\n#واس",
+      "createdAt": "2026-10-02T10:46:47Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTnq9LAXoAAiMkO.jpg"}],
+      "likes": 26,
+      "views": 22066,
+      "reposts": 25,
+      "featured": false
+    },
+    {
+      "id": "2105972422591517111",
+      "handle": "SPAregions",
+      "text": "السودان يدين بشدة هجوم الحوثيين على محطة لتوزيع الكهرباء في المدينة المنورة.\nhttps://www.spa.gov.sa/ar/w2691466\n#واس",
+      "createdAt": "2026-10-02T10:45:27Z",
+      "topics": ["local", "diplomacy"],
       "media": [],
-      "likes": 22,
-      "views": 23892,
-      "reposts": 7,
+      "likes": 16,
+      "views": 21850,
+      "reposts": 11,
+      "featured": false
+    },
+    {
+      "id": "2105967632407216618",
+      "handle": "SPAregions",
+      "text": "وزارة الخارجية اللبنانية تُدين اعتداء ميليشيا الحوثي الإرهابية على محطة كهرباء المدينة المنوّرة.\nhttps://www.spa.gov.sa/ar/w2691455\n#واس",
+      "createdAt": "2026-10-02T10:26:25Z",
+      "topics": ["local", "diplomacy"],
+      "media": [],
+      "likes": 26,
+      "views": 75425,
+      "reposts": 65,
       "featured": false
     },
     {
@@ -210,18 +141,11 @@
       "handle": "KSAMOFA",
       "text": "#روما | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يلتقي رئيس لجنة الصداقة البرلمانية الإيطالية السعودية السيد ماركو أوسناتو، وعددٍ من أعضاء مجلس الشيوخ والبرلمان الإيطالي، وذلك على هامش مشاركة سعادته في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم «داعش».",
       "createdAt": "2026-10-01T21:01:26Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTkuJdEWMAAoTI1.jpg"
-        }
-      ],
-      "likes": 96,
-      "views": 46687,
-      "reposts": 25,
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTkuJdEWMAAoTI1.jpg"}],
+      "likes": 146,
+      "views": 64948,
+      "reposts": 32,
       "featured": false
     },
     {
@@ -229,18 +153,11 @@
       "handle": "KSAMOFA",
       "text": "#روما | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يشارك في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم «داعش».",
       "createdAt": "2026-10-01T20:58:49Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTktjRtXoAA7kES.jpg"
-        }
-      ],
-      "likes": 69,
-      "views": 37403,
-      "reposts": 15,
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTktjRtXoAA7kES.jpg"}],
+      "likes": 101,
+      "views": 54306,
+      "reposts": 22,
       "featured": false
     },
     {
@@ -248,19 +165,11 @@
       "handle": "KSAMOFA",
       "text": "سمو #ولي_العهد‌: في سياق إسهاماتنا في تعزيز استقرار المنطقة، وتجنيبها تبعات التوتر والصراعات وتنسيق الجهود؛ تم إنشاء \"حلف مكة الدفاعي\"، بين المملكة والجمهورية التركية وجمهورية باكستان الإسلامية، انطلاقًا من جهودنا المشتركة للقيام بدورنا في تعزيز الأمن والاستقرار في المنطقة، وفي هذا الشأن نقدر وقوف الدول الشقيقة والصديقة إلى جانب المملكة، وإسهاماتها في تعزيز الأمن والاستقرار.\n\n#الخطاب_الملكي_في_الشورى",
       "createdAt": "2026-10-01T14:01:07Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjN8yvW0AEcz-q.jpg"
-        }
-      ],
-      "likes": 489,
-      "views": 160950,
-      "reposts": 184,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjN8yvW0AEcz-q.jpg"}],
+      "likes": 524,
+      "views": 162960,
+      "reposts": 204,
       "featured": false
     },
     {
@@ -268,19 +177,11 @@
       "handle": "KSAMOFA",
       "text": "سمو #ولي_العهد‌: نؤكد أننا نبذل كل جهد ممكن لخفض التصعيد ودعم الحلول الدبلوماسية من دون أدنى تهاون في حفظ أمننا، ولن نتردد بالرد الحازم على أي تهديد أو اعتداء يستهدف المساس به.\n\n#الخطاب_الملكي_في_الشورى",
       "createdAt": "2026-10-01T13:55:16Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjMnAiXcAAfXqO.jpg"
-        }
-      ],
-      "likes": 575,
-      "views": 173333,
-      "reposts": 213,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjMnAiXcAAfXqO.jpg"}],
+      "likes": 615,
+      "views": 175311,
+      "reposts": 232,
       "featured": false
     },
     {
@@ -288,39 +189,23 @@
       "handle": "KSAMOFA",
       "text": "سمو #ولي_العهد‌: ندين بكل قوة استمرار الاعتداءات الوحشية لسلطة الاحتلال على إخوتنا في فلسطين في قطاع غزة، وانتهاكاتها المتعددة للمسجد الأقصى، وندعو المجتمع الدولي ومجلس السلام على وجه الخصوص، لممارسة دوره المأمول للوصول إلى حل سياسي دائم.\n\n#الخطاب_الملكي_في_الشورى",
       "createdAt": "2026-10-01T13:51:48Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjL0KbXsAE72VI.jpg"
-        }
-      ],
-      "likes": 613,
-      "views": 175742,
-      "reposts": 264,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjL0KbXsAE72VI.jpg"}],
+      "likes": 677,
+      "views": 178298,
+      "reposts": 295,
       "featured": false
     },
     {
       "id": "2105656498097373574",
       "handle": "KSAMOFA",
-      "text": "سمو #ولي_العهد‌: إن الاعتداءات التي استهدفت جميع دول مجلس التعاون، تؤكد على أن الأمن والاستقرار الخليجي كل لا يتجزأ، ونعمل مع إخوتنا على صون الأمن الخليجي، والسعي إلى التعاون الإستراتيجي والتكامل الاقتصادي، والاستمرار في تنفيذ رؤية خادم الحرمين الشريفين، لتعزيز العمل المشترك بما يحقق أهداف المجلس ويلبي تطلعات مواطنيه. \n\n#الخطاب_الملكي_في_الشورى",
+      "text": "سمو #ولي_العهد‌: إن الاعتداءات التي استهدفت جميع دول مجلس التعاون، تؤكد على أن الأمن والاستقرار الخليجي كل لا يتجزأ، ونعمل مع إخوتنا على صون الأمن الخليجي، والسعي إلى التعاون الإستراتيجي والتكامل الاقتصادي، والاستمرار في تنفيذ رؤية خادم الحرمين الشريفين، لتعزيز العمل المشترك بما يحقق أهداف المجلس ويلبي تطلعات مواطنيه.\n\n#الخطاب_الملكي_في_الشورى",
       "createdAt": "2026-10-01T13:50:05Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjLa7FWcAAChBt.jpg"
-        }
-      ],
-      "likes": 554,
-      "views": 169929,
-      "reposts": 231,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjLa7FWcAAChBt.jpg"}],
+      "likes": 642,
+      "views": 174617,
+      "reposts": 251,
       "featured": false
     },
     {
@@ -328,18 +213,11 @@
       "handle": "KSAMOFA",
       "text": "سعادة سفير خادم الحرمين الشريفين لدى جمهورية رومانيا خالد بن عيد الشمري، يقدم أوراق اعتماده، سفيراً غير مقيم ومفوضاً فوق العادة لدى جمهورية مولدوفا إلى فخامة السيدة مايا ساندو رئيسة جمهورية مولدوفا.",
       "createdAt": "2026-10-01T12:59:54Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTi_7y5WoAAAATB.jpg"
-        }
-      ],
-      "likes": 101,
-      "views": 45696,
-      "reposts": 31,
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTi_7y5WoAAAATB.jpg"}],
+      "likes": 130,
+      "views": 53696,
+      "reposts": 38,
       "featured": false
     },
     {
@@ -347,18 +225,11 @@
       "handle": "KSAMOFA",
       "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير جمهورية مصر العربية المعيّن حديثاً لدى المملكة حاتم عبدالقادر، حيث رحّب سعادته بالسفير متمنيًا له التوفيق في مهام عمله الجديدة.",
       "createdAt": "2026-10-01T12:59:00Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTi_urkXUAA6IYD.jpg"
-        }
-      ],
-      "likes": 86,
-      "views": 56624,
-      "reposts": 16,
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTi_urkXUAA6IYD.jpg"}],
+      "likes": 117,
+      "views": 67477,
+      "reposts": 24,
       "featured": false
     },
     {
@@ -366,18 +237,11 @@
       "handle": "KSAMOFA",
       "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير مملكة هولندا لدى المملكة السيد هانز بيتر فان دير فودا، ويستعرضان العلاقات الثنائية بين البلدين، والموضوعات ذات الاهتمام المشترك.",
       "createdAt": "2026-10-01T11:23:15Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTipz_eXMAAAEMC.jpg"
-        }
-      ],
-      "likes": 77,
-      "views": 40693,
-      "reposts": 18,
+      "topics": ["diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTipz_eXMAAAEMC.jpg"}],
+      "likes": 93,
+      "views": 45789,
+      "reposts": 22,
       "featured": false
     },
     {
@@ -385,19 +249,11 @@
       "handle": "KSAMOFA",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية الصين الشعبية بمناسبة ذكرى اليوم الوطني لبلاده.",
       "createdAt": "2026-10-01T10:06:44Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiYTMWXEAA27xq.jpg"
-        }
-      ],
-      "likes": 135,
-      "views": 45929,
-      "reposts": 49,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiYTMWXEAA27xq.jpg"}],
+      "likes": 159,
+      "views": 50437,
+      "reposts": 56,
       "featured": false
     },
     {
@@ -405,19 +261,11 @@
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية الصين الشعبية بمناسبة ذكرى اليوم الوطني لبلاده.\n#واس",
       "createdAt": "2026-10-01T09:04:41Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiKF0NWkAERReG.jpg"
-        }
-      ],
-      "likes": 266,
-      "views": 155167,
-      "reposts": 89,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiKF0NWkAERReG.jpg"}],
+      "likes": 272,
+      "views": 162251,
+      "reposts": 92,
       "featured": false
     },
     {
@@ -425,19 +273,11 @@
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان الرئيس والقائد الأعلى للقوات المسلحة في جمهورية نيجيريا الاتحادية بمناسبة ذكرى استقلال بلاده.\n#واس",
       "createdAt": "2026-10-01T08:55:43Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiICSzXEAAYEEL.jpg"
-        }
-      ],
-      "likes": 188,
-      "views": 137940,
-      "reposts": 76,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiICSzXEAAYEEL.jpg"}],
+      "likes": 195,
+      "views": 143280,
+      "reposts": 79,
       "featured": false
     },
     {
@@ -445,19 +285,11 @@
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية قبرص بمناسبة ذكرى استقلال بلاده.\n#واس",
       "createdAt": "2026-10-01T08:42:27Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"
-        }
-      ],
-      "likes": 155,
-      "views": 139877,
-      "reposts": 55,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"}],
+      "likes": 164,
+      "views": 144881,
+      "reposts": 58,
       "featured": false
     },
     {
@@ -465,38 +297,23 @@
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية بالاو بمناسبة ذكرى استقلال بلاده.\n#واس",
       "createdAt": "2026-10-01T08:35:44Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"
-        }
-      ],
-      "likes": 167,
-      "views": 151641,
-      "reposts": 60,
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"}],
+      "likes": 173,
+      "views": 156777,
+      "reposts": 63,
       "featured": false
     },
     {
       "id": "2105332583202738178",
       "handle": "spagov",
-      "text": "نيابة عن #خادم_الحرمين_الشريفين.. \nسمو #ولي_العهد يلقي الخطاب الملكي السنوي خلال افتتاح أعمال السنة الثالثة من الدورة التاسعة لمجلس الشورى.\nhttps://www.spa.gov.sa/N2689799\n\n#الخطاب_الملكي_في_الشورى\n#واس",
+      "text": "نيابة عن #خادم_الحرمين_الشريفين..\nسمو #ولي_العهد يلقي الخطاب الملكي السنوي خلال افتتاح أعمال السنة الثالثة من الدورة التاسعة لمجلس الشورى.\nhttps://www.spa.gov.sa/N2689799\n\n#الخطاب_الملكي_في_الشورى\n#واس",
       "createdAt": "2026-09-30T16:22:57Z",
-      "topics": [
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "video",
-          "url": "https://video.twimg.com/amplify_video/2105330473287188480/vid/avc1/640x360/o0bmVCzs2UErAMWm.mp4"
-        }
-      ],
-      "likes": 8256,
-      "views": 3316381,
-      "reposts": 5336,
+      "topics": ["royal"],
+      "media": [{"kind": "video", "url": "https://video.twimg.com/amplify_video/2105330473287188480/vid/avc1/640x360/o0bmVCzs2UErAMWm.mp4"}],
+      "likes": 8311,
+      "views": 3379108,
+      "reposts": 5366,
       "featured": true
     }
   ]
