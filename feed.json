@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-10-02T17:05:00+03:00",
+  "lastUpdated": "2026-10-02T23:12:00+03:00",
   "posts": [
+    {
+      "id": "2106096981320090085",
+      "handle": "SPAregions",
+      "text": "الدفاع المدني: سقوط مقذوف معادٍ على مدرسة في مدينة نجران نتج عنه أضرار مادية.\nhttps://www.spa.gov.sa/N2691773\n#واس",
+      "createdAt": "2026-10-02T19:00:24Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTpb7niXwAAUFGk.jpg"}],
+      "likes": 139,
+      "views": 37318,
+      "reposts": 72,
+      "featured": false
+    },
+    {
+      "id": "2106084628910244137",
+      "handle": "SPAregions",
+      "text": "الجزائر تدين الاعتداء على محطة لتوزيع الكهرباء في المدينة المنورة.\nhttps://www.spa.gov.sa/N2691707\n#واس",
+      "createdAt": "2026-10-02T18:11:19Z",
+      "topics": ["local", "diplomacy"],
+      "media": [],
+      "likes": 16,
+      "views": 24762,
+      "reposts": 8,
+      "featured": false
+    },
+    {
+      "id": "2106079102579228845",
+      "handle": "SPAregions",
+      "text": "التحالف: اعتراض وتدمير عدد 3 صواريخ باليستية أطلقتها الميليشيا الحوثية الإرهابية باتجاه خميس مشيط.\n#واس",
+      "createdAt": "2026-10-02T17:49:21Z",
+      "topics": ["local"],
+      "media": [],
+      "likes": 208,
+      "views": 77396,
+      "reposts": 93,
+      "featured": false
+    },
+    {
+      "id": "2106048195520254293",
+      "handle": "SPAregions",
+      "text": "وزارة الداخلية: بواسطة الذكاء الاصطناعي.. منظومة تحمي الوطن على مدار الساعة.\n\n#معرض_الصقور_والصيد_السعودي_الدولي | #واس",
+      "createdAt": "2026-10-02T15:46:32Z",
+      "topics": ["local"],
+      "media": [{"kind": "video", "url": "https://video.twimg.com/amplify_video/2106047879408242688/vid/avc1/1280x720/RmI334fF4csrnzbo.mp4"}],
+      "likes": 23,
+      "views": 30531,
+      "reposts": 11,
+      "featured": false
+    },
     {
       "id": "2106019929468146100",
       "handle": "SPAregions",
@@ -8,9 +56,9 @@
       "createdAt": "2026-10-02T13:54:13Z",
       "topics": ["local"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HToV3gJW0AEKm4e.jpg"}],
-      "likes": 4,
-      "views": 8777,
-      "reposts": 4,
+      "likes": 13,
+      "views": 31059,
+      "reposts": 10,
       "featured": false
     },
     {
@@ -20,9 +68,9 @@
       "createdAt": "2026-10-02T12:23:46Z",
       "topics": ["local", "diplomacy"],
       "media": [],
-      "likes": 8,
-      "views": 19850,
-      "reposts": 5,
+      "likes": 15,
+      "views": 41713,
+      "reposts": 8,
       "featured": false
     },
     {
@@ -35,9 +83,9 @@
         {"kind": "photo", "url": "https://pbs.twimg.com/media/HTn68gkWEAE8MEO.jpg"},
         {"kind": "photo", "url": "https://pbs.twimg.com/media/HTn69OeXUAAuBm1.jpg"}
       ],
-      "likes": 28,
-      "views": 21565,
-      "reposts": 17,
+      "likes": 60,
+      "views": 40265,
+      "reposts": 29,
       "featured": false
     },
     {
@@ -47,9 +95,9 @@
       "createdAt": "2026-10-02T11:38:55Z",
       "topics": ["local"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTn28veWoAAyKkV.jpg"}],
-      "likes": 23,
-      "views": 23414,
-      "reposts": 13,
+      "likes": 45,
+      "views": 43360,
+      "reposts": 24,
       "featured": false
     },
     {
@@ -59,9 +107,9 @@
       "createdAt": "2026-10-02T11:33:17Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTn1c1lWMAE74nh.jpg"}],
-      "likes": 112,
-      "views": 37233,
-      "reposts": 42,
+      "likes": 208,
+      "views": 100414,
+      "reposts": 69,
       "featured": false
     },
     {
@@ -143,9 +191,9 @@
       "createdAt": "2026-10-01T21:01:26Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTkuJdEWMAAoTI1.jpg"}],
-      "likes": 146,
-      "views": 64948,
-      "reposts": 32,
+      "likes": 181,
+      "views": 79276,
+      "reposts": 36,
       "featured": false
     },
     {
@@ -155,9 +203,9 @@
       "createdAt": "2026-10-01T20:58:49Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTktjRtXoAA7kES.jpg"}],
-      "likes": 101,
-      "views": 54306,
-      "reposts": 22,
+      "likes": 120,
+      "views": 66180,
+      "reposts": 26,
       "featured": false
     },
     {
@@ -167,9 +215,9 @@
       "createdAt": "2026-10-01T14:01:07Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjN8yvW0AEcz-q.jpg"}],
-      "likes": 524,
-      "views": 162960,
-      "reposts": 204,
+      "likes": 534,
+      "views": 164178,
+      "reposts": 203,
       "featured": false
     },
     {
@@ -179,9 +227,9 @@
       "createdAt": "2026-10-01T13:55:16Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjMnAiXcAAfXqO.jpg"}],
-      "likes": 615,
-      "views": 175311,
-      "reposts": 232,
+      "likes": 622,
+      "views": 176498,
+      "reposts": 230,
       "featured": false
     },
     {
@@ -191,9 +239,9 @@
       "createdAt": "2026-10-01T13:51:48Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTjL0KbXsAE72VI.jpg"}],
-      "likes": 677,
-      "views": 178298,
-      "reposts": 295,
+      "likes": 690,
+      "views": 179395,
+      "reposts": 301,
       "featured": false
     },
     {
@@ -221,30 +269,6 @@
       "featured": false
     },
     {
-      "id": "2105643644472746435",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير جمهورية مصر العربية المعيّن حديثاً لدى المملكة حاتم عبدالقادر، حيث رحّب سعادته بالسفير متمنيًا له التوفيق في مهام عمله الجديدة.",
-      "createdAt": "2026-10-01T12:59:00Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTi_urkXUAA6IYD.jpg"}],
-      "likes": 117,
-      "views": 67477,
-      "reposts": 24,
-      "featured": false
-    },
-    {
-      "id": "2105619546598195661",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير مملكة هولندا لدى المملكة السيد هانز بيتر فان دير فودا، ويستعرضان العلاقات الثنائية بين البلدين، والموضوعات ذات الاهتمام المشترك.",
-      "createdAt": "2026-10-01T11:23:15Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTipz_eXMAAAEMC.jpg"}],
-      "likes": 93,
-      "views": 45789,
-      "reposts": 22,
-      "featured": false
-    },
-    {
       "id": "2105600293761409212",
       "handle": "KSAMOFA",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية الصين الشعبية بمناسبة ذكرى اليوم الوطني لبلاده.",
@@ -263,9 +287,9 @@
       "createdAt": "2026-10-01T09:04:41Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiKF0NWkAERReG.jpg"}],
-      "likes": 272,
-      "views": 162251,
-      "reposts": 92,
+      "likes": 274,
+      "views": 165351,
+      "reposts": 93,
       "featured": false
     },
     {
@@ -275,33 +299,9 @@
       "createdAt": "2026-10-01T08:55:43Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiICSzXEAAYEEL.jpg"}],
-      "likes": 195,
-      "views": 143280,
-      "reposts": 79,
-      "featured": false
-    },
-    {
-      "id": "2105579082008383780",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية قبرص بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:42:27Z",
-      "topics": ["royal", "diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"}],
-      "likes": 164,
-      "views": 144881,
-      "reposts": 58,
-      "featured": false
-    },
-    {
-      "id": "2105577391225704915",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية بالاو بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:35:44Z",
-      "topics": ["royal", "diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"}],
-      "likes": 173,
-      "views": 156777,
-      "reposts": 63,
+      "likes": 198,
+      "views": 145841,
+      "reposts": 80,
       "featured": false
     },
     {
