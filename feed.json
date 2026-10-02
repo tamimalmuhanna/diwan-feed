@@ -1,144 +1,44 @@
 {
-  "lastUpdated": "2026-10-01T21:06:00+03:00",
+  "lastUpdated": "2026-10-02T04:06:00+03:00",
   "posts": [
     {
-      "id": "2105720570864423411",
+      "id": "2105818582924107880",
       "handle": "SPAregions",
-      "text": "بيان توضيحي من مصدر مسؤول بوزارة الداخلية بشأن الهبوط الاضطراري لطائرة شركة (فلاي دبي) في مطار الأمير سلطان بن عبدالعزيز الدولي بمنطقة تبوك.\nhttps://www.spa.gov.sa/N2691008\n#واس",
-      "createdAt": "2026-10-01T18:04:41Z",
+      "text": "التحالف: اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية الإرهابية باتجاه خميس مشيط.\n#واس",
+      "createdAt": "2026-10-02T00:34:09Z",
+      "topics": [
+        "local"
+      ],
+      "media": [],
+      "likes": 20,
+      "views": 11903,
+      "reposts": 12,
+      "featured": false
+    },
+    {
+      "id": "2105808469953786188",
+      "handle": "SPAregions",
+      "text": "من الصخور إلى المياه والمنحدرات.. تجربة الدفع الرباعي تحاكي تحديات القيادة الصحراوية في معرض الصقور والصيد.\nhttps://www.spa.gov.sa/N2691283\n#واس",
+      "createdAt": "2026-10-01T23:53:57Z",
       "topics": [
         "local"
       ],
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTkFUMbXcAAqe7a.jpg"
+          "url": "https://pbs.twimg.com/media/HTlVmSxWMAAqRUl.jpg"
         }
       ],
-      "likes": 6,
-      "views": 5742,
-      "reposts": 4,
-      "featured": false
-    },
-    {
-      "id": "2105719401496371362",
-      "handle": "SPAregions",
-      "text": "موجز #واس",
-      "createdAt": "2026-10-01T18:00:02Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "video",
-          "url": "https://video.twimg.com/amplify_video/2105699887870246912/vid/avc1/720x1280/C7pOALCtxtdmfM3g.mp4"
-        }
-      ],
-      "likes": 4,
-      "views": 8048,
-      "reposts": 3,
-      "featured": false
-    },
-    {
-      "id": "2105715231167062462",
-      "handle": "SPAregions",
-      "text": "سمو وزير الدفاع ووزير الحرب الأمريكي يستعرضان هاتفيًا الشراكة الإستراتيجية الدفاعية السعودية الأمريكية، إضافة إلى بحث تنسيق جهود البلدين الصديقين الرامية لتعزيز الأمن والاستقرار في المنطقة، ومناقشة عدد من القضايا الإقليمية والدولية ذات الاهتمام المشترك.\nhttps://www.spa.gov.sa/N2690995\n#واس",
-      "createdAt": "2026-10-01T17:43:28Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTkAnAEXIAAecUy.jpg"
-        }
-      ],
-      "likes": 18,
-      "views": 13526,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2105714475001168272",
-      "handle": "SPAregions",
-      "text": "أمير حائل يرعى مهرجان المنتجات الموسمية الزراعية بالمنطقة.\nhttps://www.spa.gov.sa/N2690953\n#واس",
-      "createdAt": "2026-10-01T17:40:27Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTkAChFWYAAPe6O.jpg"
-        }
-      ],
-      "likes": 8,
-      "views": 13636,
+      "likes": 3,
+      "views": 16503,
       "reposts": 2,
       "featured": false
     },
     {
-      "id": "2105713964881506418",
+      "id": "2105807968638034185",
       "handle": "SPAregions",
-      "text": "سمو وزير الدفاع يجري اتصالًا هاتفيًا بوزيرة القوات المسلحة الفرنسية تم خلاله استعراض آفاق التعاون الثنائي بين البلدين الصديقين في المجال الدفاعي، وبحث التحديات التي تواجه المنطقة والمساعي المبذولة تجاهها؛ بما يحافظ على الأمن والسلم الدوليين، ومناقشة القضايا ذات الاهتمام المشترك.\nhttps://t.co/mr8CLqXye1\n#واس",
-      "createdAt": "2026-10-01T17:38:26Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTj_hCzWoAEBpwo.jpg"
-        }
-      ],
-      "likes": 20,
-      "views": 13882,
-      "reposts": 8,
-      "featured": false
-    },
-    {
-      "id": "2105699159739125819",
-      "handle": "SPAregions",
-      "text": "انطلاق معرض الصقور والصيد السعودي الدولي 2026 في الرياض.\nhttps://www.spa.gov.sa/ar/w2690861\n#واس",
-      "createdAt": "2026-10-01T16:39:36Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjyKYsWUAAyr2z.jpg"
-        }
-      ],
-      "likes": 12,
-      "views": 21221,
-      "reposts": 8,
-      "featured": false
-    },
-    {
-      "id": "2105695183228575837",
-      "handle": "SPAregions",
-      "text": "المتحدث الرسمي باسم قوات التحالف: وقوع هجوم إرهابي عند الساعة ( 05:11) فجر يوم الثلاثاء 29 سبتمبر 2026م على محطة (طيبة) لتوزيع الكهرباء بالمدينة المنورة، وأثبتت نتائج التحقيق والاستدلال من الجهات المختصة تورط الميليشيا الحوثية الإرهابية بالتخطيط والتنفيذ لهذا العمل الإرهابي الجبان من خلال المراجعة العملياتية وبقايا حطام المسيّرة المستخدمة.\nhttps://t.co/P7Hv43JmiP\n#واس",
-      "createdAt": "2026-10-01T16:23:48Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjuTG3W0AAzDXW.jpg"
-        }
-      ],
-      "likes": 1036,
-      "views": 156559,
-      "reposts": 601,
-      "featured": false
-    },
-    {
-      "id": "2105687794123207079",
-      "handle": "SPAregions",
-      "text": "رئيس \"كاكست\"، الخطاب الملكي يؤكد أهمية المعرفة والابتكار في بناء اقتصاد المستقبل.\nhttps://www.spa.gov.sa/N2690846 \n#واس",
-      "createdAt": "2026-10-01T15:54:26Z",
+      "text": "سمو الرئيس التنفيذي لنادي سباقات الخيل: الخطاب الملكي يؤكد رسوخ الإرث الوطني ومواصلة مسيرة التنمية.\nhttps://www.spa.gov.sa/N2691261\n#واس",
+      "createdAt": "2026-10-01T23:51:58Z",
       "topics": [
         "royal",
         "local"
@@ -146,50 +46,167 @@
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjn3CUXkAAA888.jpg"
+          "url": "https://pbs.twimg.com/media/HTlTEr8WkAAIF81.jpg"
         }
       ],
+      "likes": 8,
+      "views": 15193,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2105799652981506223",
+      "handle": "SPAregions",
+      "text": "الجامعة العربية تدين استهداف ميليشيا الحوثي الإرهابية محطة توزيع كهرباء في المدينة المنورة.\nhttps://www.spa.gov.sa/N2691260\n#واس",
+      "createdAt": "2026-10-01T23:18:55Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
       "likes": 10,
-      "views": 17973,
-      "reposts": 3,
+      "views": 18545,
+      "reposts": 5,
       "featured": false
     },
     {
-      "id": "2105677546465497195",
+      "id": "2105795256255959491",
       "handle": "SPAregions",
-      "text": "الأمير عبدالعزيز بن سعود يزور معرض الصقور والصيد السعودي الدولي 2026.\nhttps://www.spa.gov.sa/ar/w2690824\n#واس",
-      "createdAt": "2026-10-01T15:13:43Z",
+      "text": "قطر تدين استهداف ميليشيا الحوثي الإرهابية محطة لتوزيع الكهرباء في المدينة المنورة.\nhttps://www.spa.gov.sa/N2691255\n#واس",
+      "createdAt": "2026-10-01T23:01:27Z",
       "topics": [
-        "local"
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 19,
+      "views": 21652,
+      "reposts": 6,
+      "featured": false
+    },
+    {
+      "id": "2105794508923261015",
+      "handle": "SPAregions",
+      "text": "مصر تدين استهداف محطة كهرباء بالمدينة المنورة.\nhttps://www.spa.gov.sa/N2691251\n#واس",
+      "createdAt": "2026-10-01T22:58:29Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 13,
+      "views": 20717,
+      "reposts": 6,
+      "featured": false
+    },
+    {
+      "id": "2105790785958670663",
+      "handle": "SPAregions",
+      "text": "السفير الشمري يُقدم أوراق اعتماده سفيرًا غير مقيم لرئيسة جمهورية مولدوفا.\nhttps://www.spa.gov.sa/N2691245\n#واس",
+      "createdAt": "2026-10-01T22:43:41Z",
+      "topics": [
+        "diplomacy"
       ],
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjeNcqW8AA_XnG.jpg"
-        }
-      ],
-      "likes": 35,
-      "views": 24589,
-      "reposts": 12,
-      "featured": false
-    },
-    {
-      "id": "2105676296428630199",
-      "handle": "SPAregions",
-      "text": "نائب أمير المنطقة الشرقية يرعى ملتقى الشراكة والاستثمار السعودي البرتغالي.\nhttps://www.spa.gov.sa/ar/w2690738\n#واس",
-      "createdAt": "2026-10-01T15:08:45Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjdVNAXwAE8d5h.jpg"
+          "url": "https://pbs.twimg.com/media/HTlDq3GX0AAJnx9.jpg"
         }
       ],
       "likes": 14,
-      "views": 25374,
-      "reposts": 3,
+      "views": 23997,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2105779991057244542",
+      "handle": "SPAregions",
+      "text": "صقر الحماد يحلق بـ 101 ألف ريال في أولى ليالي مزاد المركز الوطني للصقور 2026.\nhttps://www.spa.gov.sa/N2691131\n#واس",
+      "createdAt": "2026-10-01T22:00:48Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTk7tbRXYAEjCb4.jpg"
+        }
+      ],
+      "likes": 18,
+      "views": 25552,
+      "reposts": 7,
+      "featured": false
+    },
+    {
+      "id": "2105773490691280931",
+      "handle": "SPAregions",
+      "text": "مركز الملك سلمان للإغاثة يوزّع (24.000) وجبة غذائية ساخنة في قطاع غزة.\nhttps://www.spa.gov.sa/N2691173\n#واس",
+      "createdAt": "2026-10-01T21:34:58Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTk1y5_XkAA9zop.jpg"
+        }
+      ],
+      "likes": 26,
+      "views": 24583,
+      "reposts": 13,
+      "featured": false
+    },
+    {
+      "id": "2105772032936087808",
+      "handle": "SPAregions",
+      "text": "الأمانة العامة لمجلس وزراء الداخلية العرب تعرب عن استنكارها للاعتداء الذي قامت به ميليشيا الحوثي الإرهابية على محطة كهرباء تابعة للمسجد النبوي.\nhttps://www.spa.gov.sa/N2691040\n#واس",
+      "createdAt": "2026-10-01T21:29:10Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 22,
+      "views": 23892,
+      "reposts": 7,
+      "featured": false
+    },
+    {
+      "id": "2105765051571261471",
+      "handle": "KSAMOFA",
+      "text": "#روما | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يلتقي رئيس لجنة الصداقة البرلمانية الإيطالية السعودية السيد ماركو أوسناتو، وعددٍ من أعضاء مجلس الشيوخ والبرلمان الإيطالي، وذلك على هامش مشاركة سعادته في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم «داعش».",
+      "createdAt": "2026-10-01T21:01:26Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTkuJdEWMAAoTI1.jpg"
+        }
+      ],
+      "likes": 59,
+      "views": 32746,
+      "reposts": 15,
+      "featured": false
+    },
+    {
+      "id": "2105764395292713404",
+      "handle": "KSAMOFA",
+      "text": "#روما | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يشارك في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم «داعش».",
+      "createdAt": "2026-10-01T20:58:49Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTktjRtXoAA7kES.jpg"
+        }
+      ],
+      "likes": 49,
+      "views": 27967,
+      "reposts": 10,
       "featured": false
     },
     {
@@ -207,9 +224,9 @@
           "url": "https://pbs.twimg.com/media/HTjN8yvW0AEcz-q.jpg"
         }
       ],
-      "likes": 395,
-      "views": 154057,
-      "reposts": 151,
+      "likes": 469,
+      "views": 159548,
+      "reposts": 178,
       "featured": false
     },
     {
@@ -227,9 +244,9 @@
           "url": "https://pbs.twimg.com/media/HTjMnAiXcAAfXqO.jpg"
         }
       ],
-      "likes": 439,
-      "views": 167210,
-      "reposts": 166,
+      "likes": 549,
+      "views": 172189,
+      "reposts": 208,
       "featured": false
     },
     {
@@ -247,9 +264,9 @@
           "url": "https://pbs.twimg.com/media/HTjL0KbXsAE72VI.jpg"
         }
       ],
-      "likes": 444,
-      "views": 169613,
-      "reposts": 201,
+      "likes": 562,
+      "views": 174448,
+      "reposts": 247,
       "featured": false
     },
     {
@@ -267,9 +284,9 @@
           "url": "https://pbs.twimg.com/media/HTjLa7FWcAAChBt.jpg"
         }
       ],
-      "likes": 430,
-      "views": 164679,
-      "reposts": 169,
+      "likes": 554,
+      "views": 169929,
+      "reposts": 231,
       "featured": false
     },
     {
@@ -286,9 +303,9 @@
           "url": "https://pbs.twimg.com/media/HTi_7y5WoAAAATB.jpg"
         }
       ],
-      "likes": 70,
-      "views": 30012,
-      "reposts": 22,
+      "likes": 101,
+      "views": 45696,
+      "reposts": 31,
       "featured": false
     },
     {
@@ -305,9 +322,9 @@
           "url": "https://pbs.twimg.com/media/HTi_urkXUAA6IYD.jpg"
         }
       ],
-      "likes": 57,
-      "views": 33870,
-      "reposts": 13,
+      "likes": 86,
+      "views": 56624,
+      "reposts": 16,
       "featured": false
     },
     {
@@ -324,9 +341,9 @@
           "url": "https://pbs.twimg.com/media/HTipz_eXMAAAEMC.jpg"
         }
       ],
-      "likes": 62,
-      "views": 31218,
-      "reposts": 13,
+      "likes": 77,
+      "views": 40693,
+      "reposts": 18,
       "featured": false
     },
     {
@@ -344,49 +361,9 @@
           "url": "https://pbs.twimg.com/media/HTiYTMWXEAA27xq.jpg"
         }
       ],
-      "likes": 98,
-      "views": 36777,
-      "reposts": 38,
-      "featured": false
-    },
-    {
-      "id": "2105599939501838430",
-      "handle": "KSAMOFA",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان الرئيس والقائد الأعلى للقوات المسلحة في جمهورية نيجيريا الاتحادية بمناسبة ذكرى استقلال بلاده.",
-      "createdAt": "2026-10-01T10:05:20Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiX-44XQAANCsW.jpg"
-        }
-      ],
-      "likes": 77,
-      "views": 28147,
-      "reposts": 26,
-      "featured": false
-    },
-    {
-      "id": "2105594911852560800",
-      "handle": "KSAMOFA",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية قبرص بمناسبة ذكرى استقلال بلاده.",
-      "createdAt": "2026-10-01T09:45:21Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiTaHeXMAAh4p7.jpg"
-        }
-      ],
-      "likes": 63,
-      "views": 31160,
-      "reposts": 20,
+      "likes": 135,
+      "views": 45929,
+      "reposts": 49,
       "featured": false
     },
     {
@@ -404,9 +381,9 @@
           "url": "https://pbs.twimg.com/media/HTiKF0NWkAERReG.jpg"
         }
       ],
-      "likes": 184,
-      "views": 102864,
-      "reposts": 64,
+      "likes": 245,
+      "views": 142230,
+      "reposts": 83,
       "featured": false
     },
     {
@@ -424,9 +401,9 @@
           "url": "https://pbs.twimg.com/media/HTiICSzXEAAYEEL.jpg"
         }
       ],
-      "likes": 141,
-      "views": 95184,
-      "reposts": 61,
+      "likes": 179,
+      "views": 130023,
+      "reposts": 72,
       "featured": false
     },
     {
@@ -444,9 +421,9 @@
           "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"
         }
       ],
-      "likes": 120,
-      "views": 97355,
-      "reposts": 41,
+      "likes": 148,
+      "views": 131319,
+      "reposts": 52,
       "featured": false
     },
     {
@@ -464,15 +441,15 @@
           "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"
         }
       ],
-      "likes": 101,
-      "views": 103577,
-      "reposts": 40,
+      "likes": 145,
+      "views": 142972,
+      "reposts": 55,
       "featured": false
     },
     {
       "id": "2105332583202738178",
       "handle": "spagov",
-      "text": "نيابة عن #خادم_الحرمين_الشريفين.. \nسمو #ولي_العهد يلقي الخطاب الملكي السنوي خلال افتتاح أعمال السنة الثالثة من الدورة التاسعة لمجلس الشورى.\nhttps://www.spa.gov.sa/N2689799 \n\n#الخطاب_الملكي_في_الشورى\n#واس",
+      "text": "نيابة عن #خادم_الحرمين_الشريفين.. \nسمو #ولي_العهد يلقي الخطاب الملكي السنوي خلال افتتاح أعمال السنة الثالثة من الدورة التاسعة لمجلس الشورى.\nhttps://www.spa.gov.sa/N2689799\n\n#الخطاب_الملكي_في_الشورى\n#واس",
       "createdAt": "2026-09-30T16:22:57Z",
       "topics": [
         "royal"
@@ -483,29 +460,10 @@
           "url": "https://video.twimg.com/amplify_video/2105330473287188480/vid/avc1/640x360/o0bmVCzs2UErAMWm.mp4"
         }
       ],
-      "likes": 8019,
-      "views": 3156034,
-      "reposts": 5213,
+      "likes": 8189,
+      "views": 3276122,
+      "reposts": 5305,
       "featured": true
-    },
-    {
-      "id": "2105326353515987146",
-      "handle": "spagov",
-      "text": "#الخطاب_الملكي_في_الشورى\n#واس",
-      "createdAt": "2026-09-30T15:58:12Z",
-      "topics": [
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTefH1RWgAApIef.jpg"
-        }
-      ],
-      "likes": 1380,
-      "views": 2442744,
-      "reposts": 368,
-      "featured": false
     }
   ]
 }
