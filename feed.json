@@ -1,72 +1,92 @@
 {
-  "lastUpdated": "2026-10-04T13:12:00+03:00",
+  "lastUpdated": "2026-10-04T20:08:00+03:00",
   "posts": [
     {
-      "id": "2106685828873498795",
+      "id": "2106771325758881804",
       "handle": "SPAregions",
-      "text": "نائب أمير المنطقة الشرقية يستقبل أمين محافظة الأحساء.\nhttps://www.spa.gov.sa/N2692396\n#واس",
-      "createdAt": "2026-10-04T10:00:16Z",
+      "text": "وزير العدل يشارك في الاجتماع الـ36 لوزراء العدل بدول مجلس التعاون.\nhttps://www.spa.gov.sa/N2692722\n#واس",
+      "createdAt": "2026-10-04T15:40:00Z",
       "topics": [
         "local"
       ],
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxzjKTWYAAmy5q.jpg"
-        }
-      ],
-      "likes": 5,
-      "views": 9915,
-      "reposts": 3,
-      "featured": false
-    },
-    {
-      "id": "2106685295978594627",
-      "handle": "SPAregions",
-      "text": "أمير الشرقية يقلّد مدير سجون المنطقة رتبته الجديدة.\nhttps://www.spa.gov.sa/N2692387\n#واس",
-      "createdAt": "2026-10-04T09:58:09Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxzG3qX0AAdUYY.jpg"
-        }
-      ],
-      "likes": 7,
-      "views": 10283,
-      "reposts": 3,
-      "featured": false
-    },
-    {
-      "id": "2106684609367032292",
-      "handle": "SPAregions",
-      "text": "أمير نجران يتسلّم التقرير السنوي لهيئة حقوق الإنسان.\nhttps://www.spa.gov.sa/ar/w2692363\n#واس",
-      "createdAt": "2026-10-04T09:55:25Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxyaQlXoAAWxmP.jpg"
+          "url": "https://pbs.twimg.com/media/HTzBRtAWAAAXoZl.jpg"
         },
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxybszXwAA0g5X.jpg"
+          "url": "https://pbs.twimg.com/media/HTzBSXqW4AA3Krh.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTzBTLFWMAAO6L2.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTzBUo_WoAA7qe_.jpg"
         }
       ],
-      "likes": 2,
-      "views": 10965,
-      "reposts": 0,
+      "likes": 21,
+      "views": 23156,
+      "reposts": 4,
       "featured": false
     },
     {
-      "id": "2106679508174504123",
+      "id": "2106761751018512581",
       "handle": "SPAregions",
-      "text": "مُحافظ جدة يستقبل القنصل العام لجمهورية غينيا.\nhttps://www.spa.gov.sa/N2692372\n#واس",
-      "createdAt": "2026-10-04T09:35:09Z",
+      "text": "نائب أمير منطقة الباحة يرعى فعالية اليوم العالمي للقهوة.\nhttps://www.spa.gov.sa/N2692703\n#واس",
+      "createdAt": "2026-10-04T15:01:57Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTy4e39XoAAoOYv.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTy4fjcX0AAQSRq.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTy4g8CW0AE7vuf.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTy4ixuXoAA3SRu.jpg"
+        }
+      ],
+      "likes": 12,
+      "views": 20946,
+      "reposts": 4,
+      "featured": false
+    },
+    {
+      "id": "2106739560457904553",
+      "handle": "SPAregions",
+      "text": "محافظ الطائف يطّلع على سير المشروعات والأعمال البلدية بالمحافظة.\nhttps://www.spa.gov.sa/N2692621\n#واس",
+      "createdAt": "2026-10-04T13:33:47Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTykch2XoAA8rUl.jpg"
+        }
+      ],
+      "likes": 18,
+      "views": 25695,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2106734283968729431",
+      "handle": "SPAregions",
+      "text": "الأمير عبدالعزيز بن سعود يستقبل سفير روسيا الاتحادية لدى المملكة.\nhttps://www.spa.gov.sa/N2692600\n#واس",
+      "createdAt": "2026-10-04T13:12:49Z",
       "topics": [
         "local",
         "diplomacy"
@@ -74,127 +94,294 @@
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxto7HWEAA4Mwb.jpg"
+          "url": "https://pbs.twimg.com/media/HTyfl_RW4AEqn-2.jpg"
         },
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxtsPWXwAA9Obr.jpg"
+          "url": "https://pbs.twimg.com/media/HTyfnBLXIAAH1-C.jpg"
         },
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxtuBaW0AA8bIV.jpg"
+          "url": "https://pbs.twimg.com/media/HTyfn0jWoAEnv_t.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyfowkWYAAPtkA.jpg"
         }
       ],
-      "likes": 7,
-      "views": 16111,
-      "reposts": 3,
+      "likes": 46,
+      "views": 32974,
+      "reposts": 14,
       "featured": false
     },
     {
-      "id": "2106661712548254112",
-      "handle": "SPAregions",
-      "text": "الأمير تركي بن هذلول يطّلع على مُنجزات جامعة نجران البحثية والابتكارية.\nhttps://www.spa.gov.sa/N2692323\n#واس",
-      "createdAt": "2026-10-04T08:24:26Z",
+      "id": "2106734069195399438",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين يبعث دعوة لأمير دولة قطر للمشاركة في القمة الخليجية الأوروبية الثانية.\nhttps://www.spa.gov.sa/N2692603\n#واس",
+      "createdAt": "2026-10-04T13:11:57Z",
       "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxak8UWMAEAlu9.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxamEeWMAAAASX.jpg"
-        }
-      ],
-      "likes": 23,
-      "views": 24276,
-      "reposts": 6,
-      "featured": false
-    },
-    {
-      "id": "2106639374058438759",
-      "handle": "SPAregions",
-      "text": "النائب العام يُمثِّل المملكة في الاجتماع الرابع والعشرين للنواب العموم للدول الأعضاء في منظمة \"شنغهاي للتعاون\" في روسيا الاتحادية.\nhttps://www.spa.gov.sa/N2692292\n#واس",
-      "createdAt": "2026-10-04T06:55:40Z",
-      "topics": [
-        "local",
+        "royal",
         "diplomacy"
       ],
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxJVD1WoAAXVnj.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxJI2yWoAA2WGB.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxJL-VXMAAyhip.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTxJOslW4AA6O8B.jpg"
+          "url": "https://pbs.twimg.com/media/HTyfVTIXAAAWxlY.jpg"
         }
       ],
-      "likes": 38,
-      "views": 29284,
-      "reposts": 10,
+      "likes": 524,
+      "views": 209531,
+      "reposts": 233,
       "featured": false
     },
     {
-      "id": "2106595467639275970",
+      "id": "2106732224079143390",
+      "handle": "spagov",
+      "text": "تحت رعاية #خادم_الحرمين_الشريفين..\nالرياض تستضيف النسخة السادسة من مؤتمر التعدين الدولي يناير 2027.\nhttps://www.spa.gov.sa/N2692594\n#واس",
+      "createdAt": "2026-10-04T13:04:38Z",
+      "topics": [
+        "royal",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyddMTWgAADGIZ.jpg"
+        }
+      ],
+      "likes": 183,
+      "views": 62083,
+      "reposts": 96,
+      "featured": false
+    },
+    {
+      "id": "2106731544404701472",
+      "handle": "spagov",
+      "text": "بتوجيهات القيادة.. المملكة تقدم أكثر من 224 مليون ريال سعودي دفعة جديدة لدعم الموازنة اليمنية لتغطية النفقات التشغيلية والرواتب.\nhttps://www.spa.gov.sa/N2692590\n#واس",
+      "createdAt": "2026-10-04T13:01:56Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyc10bWAAEefcV.jpg"
+        }
+      ],
+      "likes": 2334,
+      "views": 555850,
+      "reposts": 1272,
+      "featured": false
+    },
+    {
+      "id": "2106728443081883802",
       "handle": "SPAregions",
-      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد على جازان، عسير، الباحة، مكة المكرمة، المدينة المنورة، وتكون خفيفة إلى متوسطة على تبوك، الجوف، حائل، القصيم، الحدود الشمالية والشرقية مع رياح نشطة، كذلك على نجران، وتكون الضباب على الأجزاء الساحلية من الشرقية ومكة المكرمة.\n#واس",
-      "createdAt": "2026-10-04T04:01:12Z",
+      "text": "التحالف الإسلامي العسكري يختتم برنامج \"إعلاميو السلام\" في \"داكار\" ويؤهّل 40 إعلاميًّا.\nhttps://www.spa.gov.sa/ar/N2692537\n#واس",
+      "createdAt": "2026-10-04T12:49:36Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyaWZOW4AAMsC1.jpg"
+        }
+      ],
+      "likes": 20,
+      "views": 25602,
+      "reposts": 9,
+      "featured": false
+    },
+    {
+      "id": "2106727147394187486",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يستقبل سعادة سفير الجمهورية الإسلامية الموريتانية لدى المملكة المختار ولد داهي، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
+      "createdAt": "2026-10-04T12:44:27Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyZJq7XcAAtbtF.jpg"
+        }
+      ],
+      "likes": 61,
+      "views": 32418,
+      "reposts": 14,
+      "featured": false
+    },
+    {
+      "id": "2106722735116239094",
+      "handle": "SPAregions",
+      "text": "نائب أمير الشرقية يرأس الاجتماع الـ65 للجنة التنفيذية لهيئة تطوير المنطقة.\nhttps://www.spa.gov.sa/ar/w2692547\n#واس",
+      "createdAt": "2026-10-04T12:26:55Z",
       "topics": [
         "local"
       ],
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTwhZc7X0AAWKnO.jpg"
+          "url": "https://pbs.twimg.com/media/HTyVGO0W0AA5iDk.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyVHPiXMAAjDHd.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyVIFJW0AA8zO_.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyVJALXYAAm2BA.jpg"
         }
       ],
-      "likes": 34,
-      "views": 35027,
-      "reposts": 8,
+      "likes": 11,
+      "views": 27353,
+      "reposts": 3,
       "featured": false
     },
     {
-      "id": "2106477870075793745",
+      "id": "2106721159458783245",
       "handle": "SPAregions",
-      "text": "تعليم جازان: تحويل الدراسة غدًا الأحد إلى نظام التعليم عن بُعد عبر منصة \"مدرستي\"، في جميع مدارس المنطقة ومحافظاتها؛ بناءً على التقارير الصادرة عن المركز الوطني للأرصاد.\nhttps://www.spa.gov.sa/N2692190\n#واس",
-      "createdAt": "2026-10-03T20:13:55Z",
+      "text": "انطلاق أعمال النسخة الثانية من الملتقى الدولي للمسؤولية الاجتماعية غدًا في الرياض.\nhttps://www.spa.gov.sa/N2692543\n#واس",
+      "createdAt": "2026-10-04T12:20:40Z",
       "topics": [
         "local"
       ],
       "media": [],
-      "likes": 77,
-      "views": 60441,
-      "reposts": 39,
+      "likes": 18,
+      "views": 27138,
+      "reposts": 5,
       "featured": false
     },
     {
-      "id": "2106474315004674230",
+      "id": "2106718586421080515",
       "handle": "SPAregions",
-      "text": "وزارة الداخلية تطلق غدًا مبادرة بلاغ؛ لتعزيز الوعي الأمني وترسيخ ثقافة الإبلاغ، دعمًا لأمن المجتمع وسلامته.\nhttps://www.spa.gov.sa/N2692186\n#واس",
-      "createdAt": "2026-10-03T19:59:47Z",
+      "text": "أمير المنطقة الشرقية يستقبل أمين الأحساء ويطّلع على منجزات الأمانة ومشاريع تطوير الطرق والنقل.\nhttps://www.spa.gov.sa/ar/w2692530\n#واس",
+      "createdAt": "2026-10-04T12:10:26Z",
       "topics": [
         "local"
       ],
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTuymEGWwAAS2KC.jpg"
+          "url": "https://pbs.twimg.com/media/HTyRSAxWsAA-u9k.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyRVPuX0AAHGqr.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyRW_lWUAEPsbM.jpg"
         }
       ],
-      "likes": 122,
-      "views": 60643,
-      "reposts": 99,
+      "likes": 16,
+      "views": 29356,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2106716502753673611",
+      "handle": "SPAregions",
+      "text": "أمير الرياض يستقبل مدير مركز العمليات الأمنية الموحدة بالمنطقة.\nhttps://www.spa.gov.sa/N2692465\n#واس",
+      "createdAt": "2026-10-04T12:02:09Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyPS4eWkAA3ii1.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyPUl0XgAAkFcx.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyPVy6WwAARTRA.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyPXQIXAAAwEN8.jpg"
+        }
+      ],
+      "likes": 77,
+      "views": 44034,
+      "reposts": 19,
+      "featured": false
+    },
+    {
+      "id": "2106715830046384145",
+      "handle": "SPAregions",
+      "text": "أمير القصيم يقلّد مدير سجون المنطقة رتبته الجديدة.\nhttps://www.spa.gov.sa/ar/w2692504\n#واس",
+      "createdAt": "2026-10-04T11:59:29Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyOrQuWYAAnaWo.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyOugRWQAAEz72.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyOwCkXMAA3Jwo.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyOxU8XAAAKCkk.jpg"
+        }
+      ],
+      "likes": 17,
+      "views": 31669,
+      "reposts": 4,
+      "featured": false
+    },
+    {
+      "id": "2106708314314727781",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | معالي نائب وزير الخارجية #وليد_الخريجي @W_Elkhereiji يستقبل سعادة سفيرة مملكة الدنمارك المعّينة حديثاً لدى المملكة السيدة ميريته يول، حيث رحّب معاليه بسعادة السفيرة متمنيًا لها التوفيق في مهام عملها الجديد.",
+      "createdAt": "2026-10-04T11:29:37Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyH_ixXoAAq6d-.jpg"
+        }
+      ],
+      "likes": 109,
+      "views": 39620,
+      "reposts": 21,
+      "featured": false
+    },
+    {
+      "id": "2106707854975438858",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | معالي نائب وزير الخارجية #وليد_الخريجي @W_Elkhereiji يستقبل سعادة سفير اليابان لدى المملكة السيد ياسوناري مورينو.",
+      "createdAt": "2026-10-04T11:27:48Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTyHUv_W0AE89WF.jpg"
+        }
+      ],
+      "likes": 84,
+      "views": 37602,
+      "reposts": 20,
       "featured": false
     },
     {
@@ -212,9 +399,9 @@
           "url": "https://pbs.twimg.com/media/HTswFIbXMAAjp9x.jpg"
         }
       ],
-      "likes": 310,
-      "views": 167192,
-      "reposts": 101,
+      "likes": 322,
+      "views": 176006,
+      "reposts": 103,
       "featured": false
     },
     {
@@ -239,9 +426,9 @@
           "url": "https://pbs.twimg.com/media/HTqEB3yWIAA4RSC.jpg"
         }
       ],
-      "likes": 279,
-      "views": 113754,
-      "reposts": 56,
+      "likes": 283,
+      "views": 115357,
+      "reposts": 57,
       "featured": false
     },
     {
@@ -259,8 +446,8 @@
           "url": "https://pbs.twimg.com/media/HTn1c1lWMAE74nh.jpg"
         }
       ],
-      "likes": 312,
-      "views": 177132,
+      "likes": 313,
+      "views": 180806,
       "reposts": 97,
       "featured": false
     },
@@ -279,7 +466,7 @@
         }
       ],
       "likes": 213,
-      "views": 87308,
+      "views": 87942,
       "reposts": 47,
       "featured": false
     },
@@ -298,7 +485,7 @@
         }
       ],
       "likes": 143,
-      "views": 75516,
+      "views": 76168,
       "reposts": 35,
       "featured": false
     },
@@ -318,7 +505,7 @@
         }
       ],
       "likes": 560,
-      "views": 167366,
+      "views": 167702,
       "reposts": 137,
       "featured": false
     },
@@ -338,7 +525,7 @@
         }
       ],
       "likes": 645,
-      "views": 179157,
+      "views": 179424,
       "reposts": 168,
       "featured": false
     },
@@ -357,86 +544,9 @@
           "url": "https://pbs.twimg.com/media/HTjL0KbXsAE72VI.jpg"
         }
       ],
-      "likes": 728,
-      "views": 181907,
+      "likes": 729,
+      "views": 182142,
       "reposts": 246,
-      "featured": false
-    },
-    {
-      "id": "2105656498097373574",
-      "handle": "KSAMOFA",
-      "text": "سمو #ولي_العهد‌: إن الاعتداءات التي استهدفت جميع دول مجلس التعاون، تؤكد على أن الأمن والاستقرار الخليجي كل لا يتجزأ، ونعمل مع إخوتنا على صون الأمن الخليجي، والسعي إلى التعاون الإستراتيجي والتكامل الاقتصادي، والاستمرار في تنفيذ رؤية خادم الحرمين الشريفين، لتعزيز العمل المشترك بما يحقق أهداف المجلس ويلبي تطلعات مواطنيه.\n\n#الخطاب_الملكي_في_الشورى",
-      "createdAt": "2026-10-01T13:50:05Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjLa7FWcAAChBt.jpg"
-        }
-      ],
-      "likes": 674,
-      "views": 178317,
-      "reposts": 199,
-      "featured": false
-    },
-    {
-      "id": "2105643870336008466",
-      "handle": "KSAMOFA",
-      "text": "سعادة سفير خادم الحرمين الشريفين لدى جمهورية رومانيا خالد بن عيد الشمري، يقدم أوراق اعتماده، سفيراً غير مقيم ومفوضاً فوق العادة لدى جمهورية مولدوفا إلى فخامة السيدة مايا ساندو رئيسة جمهورية مولدوفا.",
-      "createdAt": "2026-10-01T12:59:54Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTi_7y5WoAAAATB.jpg"
-        }
-      ],
-      "likes": 148,
-      "views": 57905,
-      "reposts": 43,
-      "featured": false
-    },
-    {
-      "id": "2105643644472746435",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير جمهورية مصر العربية المعيّن حديثاً لدى المملكة حاتم عبدالقادر، حيث رحّب سعادته بالسفير متمنيًا له التوفيق في مهام عمله الجديدة.",
-      "createdAt": "2026-10-01T12:59:00Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTi_urkXUAA6IYD.jpg"
-        }
-      ],
-      "likes": 127,
-      "views": 70665,
-      "reposts": 27,
-      "featured": false
-    },
-    {
-      "id": "2105619546598195661",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير مملكة هولندا لدى المملكة السيد هانز بيتر فان دير فودا، ويستعرضان العلاقات الثنائية بين البلدين، والموضوعات ذات الاهتمام المشترك.",
-      "createdAt": "2026-10-01T11:23:15Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTipz_eXMAAAEMC.jpg"
-        }
-      ],
-      "likes": 101,
-      "views": 48271,
-      "reposts": 23,
       "featured": false
     },
     {
@@ -455,7 +565,7 @@
         }
       ],
       "likes": 289,
-      "views": 175079,
+      "views": 177281,
       "reposts": 99,
       "featured": false
     },
@@ -475,67 +585,8 @@
         }
       ],
       "likes": 210,
-      "views": 154157,
+      "views": 156107,
       "reposts": 86,
-      "featured": false
-    },
-    {
-      "id": "2105579082008383780",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية قبرص بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:42:27Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"
-        }
-      ],
-      "likes": 183,
-      "views": 154630,
-      "reposts": 65,
-      "featured": false
-    },
-    {
-      "id": "2105577391225704915",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية بالاو بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:35:44Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"
-        }
-      ],
-      "likes": 186,
-      "views": 166124,
-      "reposts": 69,
-      "featured": false
-    },
-    {
-      "id": "2105332583202738178",
-      "handle": "spagov",
-      "text": "نيابة عن #خادم_الحرمين_الشريفين..\nسمو #ولي_العهد يلقي الخطاب الملكي السنوي خلال افتتاح أعمال السنة الثالثة من الدورة التاسعة لمجلس الشورى.\nhttps://www.spa.gov.sa/N2689799\n\n#الخطاب_الملكي_في_الشورى\n#واس",
-      "createdAt": "2026-09-30T16:22:57Z",
-      "topics": [
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "video",
-          "url": "https://video.twimg.com/amplify_video/2105330473287188480/vid/avc1/640x360/o0bmVCzs2UErAMWm.mp4"
-        }
-      ],
-      "likes": 8396,
-      "views": 3522621,
-      "reposts": 5414,
       "featured": false
     }
   ]
