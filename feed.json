@@ -1,6 +1,240 @@
 {
-  "lastUpdated": "2026-10-04T20:10:00+03:00",
+  "lastUpdated": "2026-10-05T02:12:00+03:00",
   "posts": [
+    {
+      "id": "2106862985301893215",
+      "handle": "SPAregions",
+      "text": "مركز الملك سلمان للإغاثة يوقّع اتفاقية تعاون مشترك لرعاية الأيتام في سوريا.\nhttps://www.spa.gov.sa/ar/w2692811\n#واس",
+      "createdAt": "2026-10-04T21:44:13Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0UpOLXMAA9Q83.jpg"
+        }
+      ],
+      "likes": 22,
+      "views": 18621,
+      "reposts": 9,
+      "featured": false
+    },
+    {
+      "id": "2106862785707827468",
+      "handle": "SPAregions",
+      "text": "نائب أمير الحدود الشمالية يتسلّم التقرير السنوي لسجون المنطقة.\nhttps://www.spa.gov.sa/ar/w2692987\n#واس",
+      "createdAt": "2026-10-04T21:43:26Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0UdKLWgAAzqjb.jpg"
+        }
+      ],
+      "likes": 6,
+      "views": 17265,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2106861004453707975",
+      "handle": "SPAregions",
+      "text": "كورنيش جدة يستقطب زوار \"#خليجي27\" ويقدم تجربة متكاملة على ساحل البحر الأحمر.\nhttps://www.spa.gov.sa/ar/w2692916\n#أهلًا_بالخليج | #واس",
+      "createdAt": "2026-10-04T21:36:21Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0StywWgAAjcoH.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0SvpXWcAALKEG.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0Sxd0WkAAKLYc.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0S0PrXwAE-aLZ.jpg"
+        }
+      ],
+      "likes": 17,
+      "views": 18956,
+      "reposts": 8,
+      "featured": false
+    },
+    {
+      "id": "2106858992689377526",
+      "handle": "SPAregions",
+      "text": "مركز الملك سلمان للإغاثة يوقّع اتفاقية تعاون مشترك لإنشاء وتشغيل مدرسة الرياض النموذجية في قطاع غزة.\nhttps://www.spa.gov.sa/ar/w2692817\n#واس",
+      "createdAt": "2026-10-04T21:28:22Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0RCrDW8AA6kLo.jpg"
+        }
+      ],
+      "likes": 13,
+      "views": 18335,
+      "reposts": 7,
+      "featured": false
+    },
+    {
+      "id": "2106858729182507424",
+      "handle": "SPAregions",
+      "text": "نائب أمير حائل يستقبل رئيس لجنة تراحم بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2692968\n#واس",
+      "createdAt": "2026-10-04T21:27:19Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0QwgpXQAAdPlX.jpg"
+        }
+      ],
+      "likes": 5,
+      "views": 18327,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2106858488555303091",
+      "handle": "SPAregions",
+      "text": "أمير الحدود الشمالية يطّلع على مراحل تحقيق معايير برنامج المدن الصحية بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2692588\n#واس",
+      "createdAt": "2026-10-04T21:26:21Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0Qf-gWwAAp3Zy.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0Qhh2WUAAxKv_.jpg"
+        }
+      ],
+      "likes": 7,
+      "views": 18034,
+      "reposts": 3,
+      "featured": false
+    },
+    {
+      "id": "2106852829705150711",
+      "handle": "SPAregions",
+      "text": "صقران بـ350 ألف ريال في الليلة الثانية لمزاد الصقور المنغولية بمعرض الصقور والصيد.\nhttps://www.spa.gov.sa/ar/w2692952\n#واس",
+      "createdAt": "2026-10-04T21:03:52Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0LVw2WwAENLhB.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0LW6dXwAAx3M4.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT0LYGaXQAEV-PL.jpg"
+        }
+      ],
+      "likes": 20,
+      "views": 22181,
+      "reposts": 3,
+      "featured": false
+    },
+    {
+      "id": "2106837069121135045",
+      "handle": "SPAregions",
+      "text": "مركز الملك سلمان للإغاثة يوزّع 46 حقيبة إيوائية في مديرية البريقة بمحافظة عدن.\nhttps://www.spa.gov.sa/N2692857\n#واس",
+      "createdAt": "2026-10-04T20:01:15Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTz9F0GX0AAqIHp.jpg"
+        }
+      ],
+      "likes": 33,
+      "views": 25653,
+      "reposts": 15,
+      "featured": false
+    },
+    {
+      "id": "2106821839955665000",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية العراق بمناسبة ذكرى اليوم الوطني لبلاده.\n#واس",
+      "createdAt": "2026-10-04T19:00:44Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTzvKYVWUAE9cDd.jpg"
+        }
+      ],
+      "likes": 166,
+      "views": 70409,
+      "reposts": 66,
+      "featured": true
+    },
+    {
+      "id": "2106812670770811305",
+      "handle": "SPAregions",
+      "text": "قيادة القوات المشتركة للتحالف: عمليات التحالف مستمرة لدعم الحكومة اليمنية الشرعية والقوات المسلحة اليمنية في كافة المسارات لاستعادة الدولة وإنهاء الانقلاب الحوثي.\nhttps://www.spa.gov.sa/N2692840\n#واس",
+      "createdAt": "2026-10-04T18:24:18Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTzm9LIXwAEx8LT.jpg"
+        }
+      ],
+      "likes": 355,
+      "views": 35008,
+      "reposts": 200,
+      "featured": true
+    },
+    {
+      "id": "2106806895839248748",
+      "handle": "KSAMOFA",
+      "text": "المملكة توسّع نطاق #التأشيرة_السياحية إلكترونياً لتشمل جمهورية كوسوفا وجمهورية غيانا التعاونية",
+      "createdAt": "2026-10-04T18:01:21Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTzhtCfXwAA09lx.jpg"
+        }
+      ],
+      "likes": 110,
+      "views": 39022,
+      "reposts": 48,
+      "featured": false
+    },
     {
       "id": "2106771325758881804",
       "handle": "SPAregions",
@@ -106,9 +340,9 @@
           "url": "https://pbs.twimg.com/media/HTyfVTIXAAAWxlY.jpg"
         }
       ],
-      "likes": 526,
-      "views": 209921,
-      "reposts": 233,
+      "likes": 729,
+      "views": 317490,
+      "reposts": 322,
       "featured": true
     },
     {
@@ -125,9 +359,9 @@
           "url": "https://pbs.twimg.com/media/HTyddMTWgAADGIZ.jpg"
         }
       ],
-      "likes": 183,
-      "views": 62179,
-      "reposts": 96,
+      "likes": 282,
+      "views": 107677,
+      "reposts": 141,
       "featured": true
     },
     {
@@ -145,9 +379,9 @@
           "url": "https://pbs.twimg.com/media/HTyc10bWAAEefcV.jpg"
         }
       ],
-      "likes": 2336,
-      "views": 556392,
-      "reposts": 1273,
+      "likes": 2665,
+      "views": 637288,
+      "reposts": 1439,
       "featured": true
     },
     {
@@ -183,9 +417,9 @@
           "url": "https://pbs.twimg.com/media/HTyZJq7XcAAtbtF.jpg"
         }
       ],
-      "likes": 61,
-      "views": 32567,
-      "reposts": 14,
+      "likes": 94,
+      "views": 51480,
+      "reposts": 19,
       "featured": false
     },
     {
@@ -235,23 +469,9 @@
           "url": "https://pbs.twimg.com/media/HTyH_ixXoAAq6d-.jpg"
         }
       ],
-      "likes": 109,
-      "views": 39725,
-      "reposts": 21,
-      "featured": false
-    },
-    {
-      "id": "2106707859010650329",
-      "handle": "KSAMOFA",
-      "text": "وجرى خلال الاستقبال، استعراض العلاقات الثنائية بين البلدين، ومناقشة التطورات على الساحتين الإقليمية والدولية، والجهود المبذولة بشأنها.",
-      "createdAt": "2026-10-04T11:27:48Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 15,
-      "views": 6481,
-      "reposts": 4,
+      "likes": 147,
+      "views": 59012,
+      "reposts": 31,
       "featured": false
     },
     {
@@ -268,9 +488,9 @@
           "url": "https://pbs.twimg.com/media/HTyHUv_W0AE89WF.jpg"
         }
       ],
-      "likes": 85,
-      "views": 37742,
-      "reposts": 20,
+      "likes": 103,
+      "views": 55693,
+      "reposts": 26,
       "featured": false
     },
     {
@@ -288,42 +508,9 @@
           "url": "https://pbs.twimg.com/media/HTswFIbXMAAjp9x.jpg"
         }
       ],
-      "likes": 322,
-      "views": 176024,
+      "likes": 329,
+      "views": 179666,
       "reposts": 103,
-      "featured": false
-    },
-    {
-      "id": "2106140968391258518",
-      "handle": "KSAMOFA",
-      "text": "وجرى خلال اللقاء، استعراض العلاقات الثنائية بين المملكة العربية السعودية والجمهورية الإيطالية، وبحث سبل تعزيز التعاون والتنسيق بين البلدين في المجالات ذات الاهتمام المشترك، والتأكيد على أهمية مواصلة التنسيق والتشاور في المحافل الدولية تجاه القضايا والتحديات المشتركة، بما يدعم الأمن والاستقرار الإقليمي والدولي.",
-      "createdAt": "2026-10-02T21:55:11Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 26,
-      "views": 13994,
-      "reposts": 12,
-      "featured": false
-    },
-    {
-      "id": "2106140963106324698",
-      "handle": "KSAMOFA",
-      "text": "#روما | سعادة وكيل وزارة الخارجية للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يلتقي الأمين العام لوزارة الخارجية والتعاون الدولي الإيطالية السفير ريكاردو غوارليا، وذلك على هامش مشاركة سعادته في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم \"داعش\".",
-      "createdAt": "2026-10-02T21:55:10Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTqEB3zWwAA-l4N.jpg"
-        }
-      ],
-      "likes": 283,
-      "views": 115360,
-      "reposts": 57,
       "featured": false
     },
     {
@@ -342,149 +529,8 @@
         }
       ],
       "likes": 313,
-      "views": 180818,
+      "views": 182704,
       "reposts": 97,
-      "featured": false
-    },
-    {
-      "id": "2105765059196604542",
-      "handle": "KSAMOFA",
-      "text": "وجرى خلال اللقاء استعراض العلاقات الثنائية بين المملكة العربية السعودية والجمهورية الإيطالية، وسبل تعزيزها بما يسهم في دعم العلاقات بين البلدين الصديقين، إضافة إلى بحث عدد من القضايا الإقليمية، والجهود المبذولة حيالها.",
-      "createdAt": "2026-10-01T21:01:27Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 27,
-      "views": 13206,
-      "reposts": 7,
-      "featured": false
-    },
-    {
-      "id": "2105765051571261471",
-      "handle": "KSAMOFA",
-      "text": "#روما | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يلتقي رئيس لجنة الصداقة البرلمانية الإيطالية السعودية السيد ماركو أوسناتو، وعددٍ من أعضاء مجلس الشيوخ والبرلمان الإيطالي، وذلك على هامش مشاركة سعادته في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم «داعش».",
-      "createdAt": "2026-10-01T21:01:26Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTkuJdEWMAAoTI1.jpg"
-        }
-      ],
-      "likes": 213,
-      "views": 87945,
-      "reposts": 47,
-      "featured": false
-    },
-    {
-      "id": "2105764411348812056",
-      "handle": "KSAMOFA",
-      "text": "كما ناقش الاجتماع أهمية مواصلة العمل الدولي المشترك للتصدي للإرهاب والتطرف، وتجفيف مصادر تمويل التنظيمات الإرهابية، وتعزيز الجهود الرامية إلى منع عودة التنظيمات الإرهابية وانتشارها، بما يسهم في دعم الأمن والاستقرار الإقليمي والدولي.",
-      "createdAt": "2026-10-01T20:58:53Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 18,
-      "views": 8703,
-      "reposts": 3,
-      "featured": false
-    },
-    {
-      "id": "2105764403312476312",
-      "handle": "KSAMOFA",
-      "text": "وجرى خلال الاجتماع استعراض مستجدات الجهود الدولية المشتركة في مواجهة تنظيم «داعش» والتنظيمات الإرهابية والحد من التهديدات التي تمثلها، ومناقشة التطورات الأمنية والسياسية المرتبطة بجهود التحالف، إلى جانب بحث سبل تعزيز التنسيق وتبادل المعلومات والخبرات بين الدول الأعضاء.",
-      "createdAt": "2026-10-01T20:58:51Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [],
-      "likes": 33,
-      "views": 11994,
-      "reposts": 7,
-      "featured": false
-    },
-    {
-      "id": "2105584676454732213",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية الصين الشعبية بمناسبة ذكرى اليوم الوطني لبلاده.\n#واس",
-      "createdAt": "2026-10-01T09:04:41Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiKF0NWkAERReG.jpg"
-        }
-      ],
-      "likes": 289,
-      "views": 177287,
-      "reposts": 99,
-      "featured": false
-    },
-    {
-      "id": "2105582418526699820",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان الرئيس والقائد الأعلى للقوات المسلحة في جمهورية نيجيريا الاتحادية بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:55:43Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiICSzXEAAYEEL.jpg"
-        }
-      ],
-      "likes": 210,
-      "views": 156111,
-      "reposts": 86,
-      "featured": false
-    },
-    {
-      "id": "2105579082008383780",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية قبرص بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:42:27Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"
-        }
-      ],
-      "likes": 183,
-      "views": 156271,
-      "reposts": 65,
-      "featured": false
-    },
-    {
-      "id": "2105577391225704915",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية بالاو بمناسبة ذكرى استقلال بلاده.\n#واس",
-      "createdAt": "2026-10-01T08:35:44Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"
-        }
-      ],
-      "likes": 186,
-      "views": 167651,
-      "reposts": 69,
       "featured": false
     }
   ]
