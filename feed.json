@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T20:08:00+03:00",
+  "lastUpdated": "2026-10-04T20:10:00+03:00",
   "posts": [
     {
       "id": "2106771325758881804",
@@ -7,7 +7,8 @@
       "text": "وزير العدل يشارك في الاجتماع الـ36 لوزراء العدل بدول مجلس التعاون.\nhttps://www.spa.gov.sa/N2692722\n#واس",
       "createdAt": "2026-10-04T15:40:00Z",
       "topics": [
-        "local"
+        "local",
+        "diplomacy"
       ],
       "media": [
         {
@@ -28,7 +29,7 @@
         }
       ],
       "likes": 21,
-      "views": 23156,
+      "views": 23279,
       "reposts": 4,
       "featured": false
     },
@@ -44,22 +45,10 @@
         {
           "kind": "photo",
           "url": "https://pbs.twimg.com/media/HTy4e39XoAAoOYv.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTy4fjcX0AAQSRq.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTy4g8CW0AE7vuf.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTy4ixuXoAA3SRu.jpg"
         }
       ],
       "likes": 12,
-      "views": 20946,
+      "views": 21041,
       "reposts": 4,
       "featured": false
     },
@@ -78,7 +67,7 @@
         }
       ],
       "likes": 18,
-      "views": 25695,
+      "views": 25739,
       "reposts": 2,
       "featured": false
     },
@@ -95,22 +84,10 @@
         {
           "kind": "photo",
           "url": "https://pbs.twimg.com/media/HTyfl_RW4AEqn-2.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyfnBLXIAAH1-C.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyfn0jWoAEnv_t.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyfowkWYAAPtkA.jpg"
         }
       ],
-      "likes": 46,
-      "views": 32974,
+      "likes": 47,
+      "views": 33057,
       "reposts": 14,
       "featured": false
     },
@@ -129,10 +106,10 @@
           "url": "https://pbs.twimg.com/media/HTyfVTIXAAAWxlY.jpg"
         }
       ],
-      "likes": 524,
-      "views": 209531,
+      "likes": 526,
+      "views": 209921,
       "reposts": 233,
-      "featured": false
+      "featured": true
     },
     {
       "id": "2106732224079143390",
@@ -140,8 +117,7 @@
       "text": "تحت رعاية #خادم_الحرمين_الشريفين..\nالرياض تستضيف النسخة السادسة من مؤتمر التعدين الدولي يناير 2027.\nhttps://www.spa.gov.sa/N2692594\n#واس",
       "createdAt": "2026-10-04T13:04:38Z",
       "topics": [
-        "royal",
-        "local"
+        "royal"
       ],
       "media": [
         {
@@ -150,9 +126,9 @@
         }
       ],
       "likes": 183,
-      "views": 62083,
+      "views": 62179,
       "reposts": 96,
-      "featured": false
+      "featured": true
     },
     {
       "id": "2106731544404701472",
@@ -169,10 +145,10 @@
           "url": "https://pbs.twimg.com/media/HTyc10bWAAEefcV.jpg"
         }
       ],
-      "likes": 2334,
-      "views": 555850,
-      "reposts": 1272,
-      "featured": false
+      "likes": 2336,
+      "views": 556392,
+      "reposts": 1273,
+      "featured": true
     },
     {
       "id": "2106728443081883802",
@@ -189,7 +165,7 @@
         }
       ],
       "likes": 20,
-      "views": 25602,
+      "views": 25623,
       "reposts": 9,
       "featured": false
     },
@@ -208,7 +184,7 @@
         }
       ],
       "likes": 61,
-      "views": 32418,
+      "views": 32567,
       "reposts": 14,
       "featured": false
     },
@@ -224,22 +200,10 @@
         {
           "kind": "photo",
           "url": "https://pbs.twimg.com/media/HTyVGO0W0AA5iDk.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyVHPiXMAAjDHd.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyVIFJW0AA8zO_.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyVJALXYAAm2BA.jpg"
         }
       ],
       "likes": 11,
-      "views": 27353,
+      "views": 27379,
       "reposts": 3,
       "featured": false
     },
@@ -252,98 +216,9 @@
         "local"
       ],
       "media": [],
-      "likes": 18,
-      "views": 27138,
+      "likes": 19,
+      "views": 27213,
       "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2106718586421080515",
-      "handle": "SPAregions",
-      "text": "أمير المنطقة الشرقية يستقبل أمين الأحساء ويطّلع على منجزات الأمانة ومشاريع تطوير الطرق والنقل.\nhttps://www.spa.gov.sa/ar/w2692530\n#واس",
-      "createdAt": "2026-10-04T12:10:26Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyRSAxWsAA-u9k.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyRVPuX0AAHGqr.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyRW_lWUAEPsbM.jpg"
-        }
-      ],
-      "likes": 16,
-      "views": 29356,
-      "reposts": 2,
-      "featured": false
-    },
-    {
-      "id": "2106716502753673611",
-      "handle": "SPAregions",
-      "text": "أمير الرياض يستقبل مدير مركز العمليات الأمنية الموحدة بالمنطقة.\nhttps://www.spa.gov.sa/N2692465\n#واس",
-      "createdAt": "2026-10-04T12:02:09Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyPS4eWkAA3ii1.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyPUl0XgAAkFcx.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyPVy6WwAARTRA.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyPXQIXAAAwEN8.jpg"
-        }
-      ],
-      "likes": 77,
-      "views": 44034,
-      "reposts": 19,
-      "featured": false
-    },
-    {
-      "id": "2106715830046384145",
-      "handle": "SPAregions",
-      "text": "أمير القصيم يقلّد مدير سجون المنطقة رتبته الجديدة.\nhttps://www.spa.gov.sa/ar/w2692504\n#واس",
-      "createdAt": "2026-10-04T11:59:29Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyOrQuWYAAnaWo.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyOugRWQAAEz72.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyOwCkXMAA3Jwo.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTyOxU8XAAAKCkk.jpg"
-        }
-      ],
-      "likes": 17,
-      "views": 31669,
-      "reposts": 4,
       "featured": false
     },
     {
@@ -361,8 +236,22 @@
         }
       ],
       "likes": 109,
-      "views": 39620,
+      "views": 39725,
       "reposts": 21,
+      "featured": false
+    },
+    {
+      "id": "2106707859010650329",
+      "handle": "KSAMOFA",
+      "text": "وجرى خلال الاستقبال، استعراض العلاقات الثنائية بين البلدين، ومناقشة التطورات على الساحتين الإقليمية والدولية، والجهود المبذولة بشأنها.",
+      "createdAt": "2026-10-04T11:27:48Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 15,
+      "views": 6481,
+      "reposts": 4,
       "featured": false
     },
     {
@@ -379,8 +268,8 @@
           "url": "https://pbs.twimg.com/media/HTyHUv_W0AE89WF.jpg"
         }
       ],
-      "likes": 84,
-      "views": 37602,
+      "likes": 85,
+      "views": 37742,
       "reposts": 20,
       "featured": false
     },
@@ -400,8 +289,22 @@
         }
       ],
       "likes": 322,
-      "views": 176006,
+      "views": 176024,
       "reposts": 103,
+      "featured": false
+    },
+    {
+      "id": "2106140968391258518",
+      "handle": "KSAMOFA",
+      "text": "وجرى خلال اللقاء، استعراض العلاقات الثنائية بين المملكة العربية السعودية والجمهورية الإيطالية، وبحث سبل تعزيز التعاون والتنسيق بين البلدين في المجالات ذات الاهتمام المشترك، والتأكيد على أهمية مواصلة التنسيق والتشاور في المحافل الدولية تجاه القضايا والتحديات المشتركة، بما يدعم الأمن والاستقرار الإقليمي والدولي.",
+      "createdAt": "2026-10-02T21:55:11Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 26,
+      "views": 13994,
+      "reposts": 12,
       "featured": false
     },
     {
@@ -416,18 +319,10 @@
         {
           "kind": "photo",
           "url": "https://pbs.twimg.com/media/HTqEB3zWwAA-l4N.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTqEB34WYAARtln.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTqEB3yWIAA4RSC.jpg"
         }
       ],
       "likes": 283,
-      "views": 115357,
+      "views": 115360,
       "reposts": 57,
       "featured": false
     },
@@ -447,8 +342,22 @@
         }
       ],
       "likes": 313,
-      "views": 180806,
+      "views": 180818,
       "reposts": 97,
+      "featured": false
+    },
+    {
+      "id": "2105765059196604542",
+      "handle": "KSAMOFA",
+      "text": "وجرى خلال اللقاء استعراض العلاقات الثنائية بين المملكة العربية السعودية والجمهورية الإيطالية، وسبل تعزيزها بما يسهم في دعم العلاقات بين البلدين الصديقين، إضافة إلى بحث عدد من القضايا الإقليمية، والجهود المبذولة حيالها.",
+      "createdAt": "2026-10-01T21:01:27Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 27,
+      "views": 13206,
+      "reposts": 7,
       "featured": false
     },
     {
@@ -466,87 +375,36 @@
         }
       ],
       "likes": 213,
-      "views": 87942,
+      "views": 87945,
       "reposts": 47,
       "featured": false
     },
     {
-      "id": "2105764395292713404",
+      "id": "2105764411348812056",
       "handle": "KSAMOFA",
-      "text": "#روما | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يشارك في اجتماع المدراء السياسيين للتحالف الدولي لهزيمة تنظيم «داعش».",
-      "createdAt": "2026-10-01T20:58:49Z",
+      "text": "كما ناقش الاجتماع أهمية مواصلة العمل الدولي المشترك للتصدي للإرهاب والتطرف، وتجفيف مصادر تمويل التنظيمات الإرهابية، وتعزيز الجهود الرامية إلى منع عودة التنظيمات الإرهابية وانتشارها، بما يسهم في دعم الأمن والاستقرار الإقليمي والدولي.",
+      "createdAt": "2026-10-01T20:58:53Z",
       "topics": [
         "diplomacy"
       ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTktjRtXoAA7kES.jpg"
-        }
-      ],
-      "likes": 143,
-      "views": 76168,
-      "reposts": 35,
+      "media": [],
+      "likes": 18,
+      "views": 8703,
+      "reposts": 3,
       "featured": false
     },
     {
-      "id": "2105659278866481388",
+      "id": "2105764403312476312",
       "handle": "KSAMOFA",
-      "text": "سمو #ولي_العهد‌: في سياق إسهاماتنا في تعزيز استقرار المنطقة، وتجنيبها تبعات التوتر والصراعات وتنسيق الجهود؛ تم إنشاء \"حلف مكة الدفاعي\"، بين المملكة والجمهورية التركية وجمهورية باكستان الإسلامية، انطلاقًا من جهودنا المشتركة للقيام بدورنا في تعزيز الأمن والاستقرار في المنطقة، وفي هذا الشأن نقدر وقوف الدول الشقيقة والصديقة إلى جانب المملكة، وإسهاماتها في تعزيز الأمن والاستقرار.\n\n#الخطاب_الملكي_في_الشورى",
-      "createdAt": "2026-10-01T14:01:07Z",
+      "text": "وجرى خلال الاجتماع استعراض مستجدات الجهود الدولية المشتركة في مواجهة تنظيم «داعش» والتنظيمات الإرهابية والحد من التهديدات التي تمثلها، ومناقشة التطورات الأمنية والسياسية المرتبطة بجهود التحالف، إلى جانب بحث سبل تعزيز التنسيق وتبادل المعلومات والخبرات بين الدول الأعضاء.",
+      "createdAt": "2026-10-01T20:58:51Z",
       "topics": [
-        "royal",
         "diplomacy"
       ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjN8yvW0AEcz-q.jpg"
-        }
-      ],
-      "likes": 560,
-      "views": 167702,
-      "reposts": 137,
-      "featured": false
-    },
-    {
-      "id": "2105657806678290492",
-      "handle": "KSAMOFA",
-      "text": "سمو #ولي_العهد‌: نؤكد أننا نبذل كل جهد ممكن لخفض التصعيد ودعم الحلول الدبلوماسية من دون أدنى تهاون في حفظ أمننا، ولن نتردد بالرد الحازم على أي تهديد أو اعتداء يستهدف المساس به.\n\n#الخطاب_الملكي_في_الشورى",
-      "createdAt": "2026-10-01T13:55:16Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjMnAiXcAAfXqO.jpg"
-        }
-      ],
-      "likes": 645,
-      "views": 179424,
-      "reposts": 168,
-      "featured": false
-    },
-    {
-      "id": "2105656931570299260",
-      "handle": "KSAMOFA",
-      "text": "سمو #ولي_العهد‌: ندين بكل قوة استمرار الاعتداءات الوحشية لسلطة الاحتلال على إخوتنا في فلسطين في قطاع غزة، وانتهاكاتها المتعددة للمسجد الأقصى، وندعو المجتمع الدولي ومجلس السلام على وجه الخصوص، لممارسة دوره المأمول للوصول إلى حل سياسي دائم.\n\n#الخطاب_الملكي_في_الشورى",
-      "createdAt": "2026-10-01T13:51:48Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HTjL0KbXsAE72VI.jpg"
-        }
-      ],
-      "likes": 729,
-      "views": 182142,
-      "reposts": 246,
+      "media": [],
+      "likes": 33,
+      "views": 11994,
+      "reposts": 7,
       "featured": false
     },
     {
@@ -565,7 +423,7 @@
         }
       ],
       "likes": 289,
-      "views": 177281,
+      "views": 177287,
       "reposts": 99,
       "featured": false
     },
@@ -585,8 +443,48 @@
         }
       ],
       "likes": 210,
-      "views": 156107,
+      "views": 156111,
       "reposts": 86,
+      "featured": false
+    },
+    {
+      "id": "2105579082008383780",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية قبرص بمناسبة ذكرى استقلال بلاده.\n#واس",
+      "createdAt": "2026-10-01T08:42:27Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTiE_Q8XcAA9JQy.jpg"
+        }
+      ],
+      "likes": 183,
+      "views": 156271,
+      "reposts": 65,
+      "featured": false
+    },
+    {
+      "id": "2105577391225704915",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يُهنئان رئيس جمهورية بالاو بمناسبة ذكرى استقلال بلاده.\n#واس",
+      "createdAt": "2026-10-01T08:35:44Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HTiDaj_XYAAMFIm.jpg"
+        }
+      ],
+      "likes": 186,
+      "views": 167651,
+      "reposts": 69,
       "featured": false
     }
   ]
