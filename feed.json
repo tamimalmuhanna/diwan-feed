@@ -1,6 +1,254 @@
 {
-  "lastUpdated": "2026-10-05T09:04:00+03:00",
+  "lastUpdated": "2026-10-05T15:25:00+03:00",
   "posts": [
+    {
+      "id": "2107083456505323643",
+      "handle": "SPAregions",
+      "text": "أمير منطقة القصيم يستقبل الرئيس التنفيذي للمؤسسة العامة للري.\nhttps://www.spa.gov.sa/N2693402\n#واس",
+      "createdAt": "2026-10-05T12:20:18Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3c4PqWAAAp-QK.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3c66YW8AAoFx0.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3c9h5XYAAyaKg.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3dOM1XgAAQakS.jpg"}
+      ],
+      "likes": 2,
+      "views": 7376,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2107082720954237379",
+      "handle": "SPAregions",
+      "text": "أمير الحدود الشمالية يستقبل سفير جمهورية ألمانيا الاتحادية لدى المملكة.\nhttps://www.spa.gov.sa/ar/w2693329\n#واس",
+      "createdAt": "2026-10-05T12:17:23Z",
+      "topics": ["local", "diplomacy"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3cfh5WIAEdstt.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3chysXwAAum_U.jpg"}
+      ],
+      "likes": 4,
+      "views": 8686,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2107081600856998127",
+      "handle": "SPAregions",
+      "text": "أمير منطقة القصيم يدشّن أعمال جائزة \"شقائق الرجال\" ويتسلّم تقريرًا عن مسيرتها ومنجزاتها.\nhttps://www.spa.gov.sa/ar/w2693371\n#واس",
+      "createdAt": "2026-10-05T12:12:55Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3bHD8W0AIx8Au.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3bHlMWgAAF7t8.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3bNbGWkAAb6Oj.jpg"}
+      ],
+      "likes": 5,
+      "views": 10132,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2107080904661250098",
+      "handle": "SPAregions",
+      "text": "أمير منطقة حائل يستقبل الرئيس التنفيذي لتجمع حائل الصحي ويدشن حملة \"دربك وردي\".\nhttps://www.spa.gov.sa/ar/w2693423\n#واس",
+      "createdAt": "2026-10-05T12:10:09Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3a3UnW8AAvCvH.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3a43hWUAAQpDi.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3a6cXXsAAETax.jpg"}
+      ],
+      "likes": 5,
+      "views": 10734,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2107076079491883324",
+      "handle": "spagov",
+      "text": "سمو #ولي_العهد يجتمع مع عضو لجنتي العلاقات الخارجية والاعتمادات في مجلس الشيوخ الأمريكي السيناتور كريس مورفي ويتبادلان الأحاديث حول علاقات الصداقة بين البلدين، وتطورات الأوضاع الإقليمية والدولية والقضايا ذات الاهتمام المشترك.\nhttps://www.spa.gov.sa/N2693411\n#واس",
+      "createdAt": "2026-10-05T11:50:59Z",
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT3V5TTWAAAfTn-.jpg"}],
+      "likes": 551,
+      "views": 198854,
+      "reposts": 288,
+      "featured": true
+    },
+    {
+      "id": "2107073264828944704",
+      "handle": "SPAregions",
+      "text": "الأمير سعود بن نايف يدشن حملة \"الشرقية وردية 18\".\nhttps://www.spa.gov.sa/N2693390\n#واس",
+      "createdAt": "2026-10-05T11:39:48Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3TSR5XgAApBsT.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3Td8dWkAAem34.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3Ti55WUAAWypd.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3Tm3IW0AAHv3D.jpg"}
+      ],
+      "likes": 9,
+      "views": 17158,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2107071111674691958",
+      "handle": "SPAregions",
+      "text": "الأمير فهد بن محمد يستقبل مدير جمعية إنسان بمحافظة الخرج.\nhttps://www.spa.gov.sa/ar/w2693389\n#واس",
+      "createdAt": "2026-10-05T11:31:15Z",
+      "topics": ["local"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT3R_SNWUAAe6E6.jpg"}],
+      "likes": 10,
+      "views": 18251,
+      "reposts": 3,
+      "featured": false
+    },
+    {
+      "id": "2107070648531247322",
+      "handle": "SPAregions",
+      "text": "نائب أمير المنطقة الشرقية يستقبل رئيس وأعضاء مجلس إدارة جمعية السرطان السعودية.\nhttps://www.spa.gov.sa/ar/w2693377\n#واس",
+      "createdAt": "2026-10-05T11:29:24Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3RfVSWMAAIxH0.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3RgX_XwAA7VMN.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3Ri5-W4AAwyAL.jpg"}
+      ],
+      "likes": 9,
+      "views": 17359,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2107069754976682460",
+      "handle": "SPAregions",
+      "text": "الأمير فيصل بن بندر يستقبل رئيس وأعضاء مجلس إدارة الجمعية التعاونية للإسكان بالرياض.\nhttps://www.spa.gov.sa/N2693369\n#واس",
+      "createdAt": "2026-10-05T11:25:51Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3QL_oXAAAkGhc.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3QNcpWwAAdTTv.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3QOgTW8AEKYYX.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3QQGDW4AAfHg1.jpg"}
+      ],
+      "likes": 6,
+      "views": 18460,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2107062487312900234",
+      "handle": "SPAregions",
+      "text": "نائب أمير المنطقة الشرقية يستقبل وزير الاستثمار.\nhttps://www.spa.gov.sa/ar/w2693343\n#واس",
+      "createdAt": "2026-10-05T10:56:58Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3J82MWYAA4oBZ.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3J-dKXAAAX2RV.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3KADlXAAAChIs.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3KBPRW8AAPSmE.jpg"}
+      ],
+      "likes": 8,
+      "views": 21939,
+      "reposts": 3,
+      "featured": false
+    },
+    {
+      "id": "2107059407926284584",
+      "handle": "SPAregions",
+      "text": "أمير نجران يشهد توقيع اتفاقية تعاون بين إمارة المنطقة ومركز \"المبدعون\".\nhttps://www.spa.gov.sa/ar/w2693228\n#واس",
+      "createdAt": "2026-10-05T10:44:44Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3HV4SXYAAP5WT.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3HXFxXAAA7i6T.jpg"}
+      ],
+      "likes": 10,
+      "views": 20511,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2107058784057331745",
+      "handle": "SPAregions",
+      "text": "أمير المنطقة الشرقية يستقبل وزير العدل.\nhttps://www.spa.gov.sa/ar/w2693323\n#واس",
+      "createdAt": "2026-10-05T10:42:16Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3Gj2JWQAAzqAh.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3GnWbXMAAnwAJ.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3Go6rXUAAHWKC.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3GudMW0AA0kIt.jpg"}
+      ],
+      "likes": 13,
+      "views": 22474,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2107058105561264541",
+      "handle": "SPAregions",
+      "text": "أمير المنطقة الشرقية يستقبل وزير الاستثمار.\nhttps://www.spa.gov.sa/ar/w2693325\n#واس",
+      "createdAt": "2026-10-05T10:39:34Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3GCkOWQAA-l6A.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3GEf9WoAAZxjY.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3GIPpWYAEzy3S.jpg"}
+      ],
+      "likes": 13,
+      "views": 20706,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2107051510638997838",
+      "handle": "SPAregions",
+      "text": "أمير الجوف يستقبل المدير العام لفرع وزارة البيئة والمياه والزراعة بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2693285\n#واس",
+      "createdAt": "2026-10-05T10:13:21Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT2_99pWIAAgMCU.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT2__WPX0AABsAY.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3AD98XoAAXuWJ.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT3AFrGWUAA0nCD.jpg"}
+      ],
+      "likes": 12,
+      "views": 23549,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2107048450785468750",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان سلطان بروناي دار السلام بمناسبة ذكرى توليه مقاليد الحكم في بلاده.\n#واس",
+      "createdAt": "2026-10-05T10:01:12Z",
+      "topics": ["royal", "diplomacy"],
+      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT29W8bX0AAvWCl.jpg"}],
+      "likes": 147,
+      "views": 60323,
+      "reposts": 63,
+      "featured": true
+    },
+    {
+      "id": "2107040969761931323",
+      "handle": "SPAregions",
+      "text": "مُحافظ جدة يدشّن حملة \"دربك وردي\" للتوعية بسرطان الثدي.\nhttps://www.spa.gov.sa/ar/w2693237\n#واس",
+      "createdAt": "2026-10-05T09:31:28Z",
+      "topics": ["local"],
+      "media": [
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT22hKHXAAAo02e.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT22i2IXEAAbdPV.jpg"},
+        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT22laBWYAAu_Ee.jpg"}
+      ],
+      "likes": 19,
+      "views": 25023,
+      "reposts": 1,
+      "featured": false
+    },
     {
       "id": "2106957580434071984",
       "handle": "SPAregions",
@@ -14,123 +262,15 @@
       "featured": true
     },
     {
-      "id": "2106862985301893215",
-      "handle": "SPAregions",
-      "text": "مركز الملك سلمان للإغاثة يوقّع اتفاقية تعاون مشترك لرعاية الأيتام في سوريا.\nhttps://www.spa.gov.sa/ar/w2692811\n#واس",
-      "createdAt": "2026-10-04T21:44:13Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT0UpOLXMAA9Q83.jpg"}],
-      "likes": 61,
-      "views": 35947,
-      "reposts": 22,
-      "featured": false
-    },
-    {
-      "id": "2106862785707827468",
-      "handle": "SPAregions",
-      "text": "نائب أمير الحدود الشمالية يتسلّم التقرير السنوي لسجون المنطقة.\nhttps://www.spa.gov.sa/ar/w2692987\n#واس",
-      "createdAt": "2026-10-04T21:43:26Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT0UdKLWgAAzqjb.jpg"}],
-      "likes": 24,
-      "views": 43918,
-      "reposts": 3,
-      "featured": false
-    },
-    {
-      "id": "2106861004453707975",
-      "handle": "SPAregions",
-      "text": "كورنيش جدة يستقطب زوار \"#خليجي27\" ويقدم تجربة متكاملة على ساحل البحر الأحمر.\nhttps://www.spa.gov.sa/ar/w2692916\n#أهلًا_بالخليج | #واس",
-      "createdAt": "2026-10-04T21:36:21Z",
-      "topics": ["local"],
-      "media": [
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0StywWgAAjcoH.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0SvpXWcAALKEG.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0Sxd0WkAAKLYc.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0S0PrXwAE-aLZ.jpg"}
-      ],
-      "likes": 40,
-      "views": 37772,
-      "reposts": 19,
-      "featured": false
-    },
-    {
-      "id": "2106858992689377526",
-      "handle": "SPAregions",
-      "text": "مركز الملك سلمان للإغاثة يوقّع اتفاقية تعاون مشترك لإنشاء وتشغيل مدرسة الرياض النموذجية في قطاع غزة.\nhttps://www.spa.gov.sa/ar/w2692817\n#واس",
-      "createdAt": "2026-10-04T21:28:22Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT0RCrDW8AA6kLo.jpg"}],
-      "likes": 18,
-      "views": 30537,
-      "reposts": 13,
-      "featured": false
-    },
-    {
-      "id": "2106858729182507424",
-      "handle": "SPAregions",
-      "text": "نائب أمير حائل يستقبل رئيس لجنة تراحم بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2692968\n#واس",
-      "createdAt": "2026-10-04T21:27:19Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HT0QwgpXQAAdPlX.jpg"}],
-      "likes": 17,
-      "views": 32067,
-      "reposts": 2,
-      "featured": false
-    },
-    {
-      "id": "2106858488555303091",
-      "handle": "SPAregions",
-      "text": "أمير الحدود الشمالية يطّلع على مراحل تحقيق معايير برنامج المدن الصحية بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2692588\n#واس",
-      "createdAt": "2026-10-04T21:26:21Z",
-      "topics": ["local"],
-      "media": [
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0Qf-gWwAAp3Zy.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0Qhh2WUAAxKv_.jpg"}
-      ],
-      "likes": 16,
-      "views": 30731,
-      "reposts": 6,
-      "featured": false
-    },
-    {
-      "id": "2106852829705150711",
-      "handle": "SPAregions",
-      "text": "صقران بـ350 ألف ريال في الليلة الثانية لمزاد الصقور المنغولية بمعرض الصقور والصيد.\nhttps://www.spa.gov.sa/ar/w2692952\n#واس",
-      "createdAt": "2026-10-04T21:03:52Z",
-      "topics": ["local"],
-      "media": [
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0LVw2WwAENLhB.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0LW6dXwAAx3M4.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HT0LYGaXQAEV-PL.jpg"}
-      ],
-      "likes": 37,
-      "views": 43936,
-      "reposts": 6,
-      "featured": false
-    },
-    {
-      "id": "2106837069121135045",
-      "handle": "SPAregions",
-      "text": "مركز الملك سلمان للإغاثة يوزّع 46 حقيبة إيوائية في مديرية البريقة بمحافظة عدن.\nhttps://www.spa.gov.sa/N2692857\n#واس",
-      "createdAt": "2026-10-04T20:01:15Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTz9F0GX0AAqIHp.jpg"}],
-      "likes": 58,
-      "views": 34212,
-      "reposts": 25,
-      "featured": false
-    },
-    {
       "id": "2106821839955665000",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية العراق بمناسبة ذكرى اليوم الوطني لبلاده.\n#واس",
       "createdAt": "2026-10-04T19:00:44Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTzvKYVWUAE9cDd.jpg"}],
-      "likes": 224,
-      "views": 108896,
-      "reposts": 83,
+      "likes": 263,
+      "views": 149987,
+      "reposts": 102,
       "featured": true
     },
     {
@@ -152,62 +292,9 @@
       "createdAt": "2026-10-04T18:01:21Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTzhtCfXwAA09lx.jpg"}],
-      "likes": 140,
-      "views": 50709,
-      "reposts": 65,
-      "featured": false
-    },
-    {
-      "id": "2106771325758881804",
-      "handle": "SPAregions",
-      "text": "وزير العدل يشارك في الاجتماع الـ36 لوزراء العدل بدول مجلس التعاون.\nhttps://www.spa.gov.sa/N2692722\n#واس",
-      "createdAt": "2026-10-04T15:40:00Z",
-      "topics": ["local", "diplomacy"],
-      "media": [
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HTzBRtAWAAAXoZl.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HTzBSXqW4AA3Krh.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HTzBTLFWMAAO6L2.jpg"},
-        {"kind": "photo", "url": "https://pbs.twimg.com/media/HTzBUo_WoAA7qe_.jpg"}
-      ],
-      "likes": 21,
-      "views": 23279,
-      "reposts": 4,
-      "featured": false
-    },
-    {
-      "id": "2106761751018512581",
-      "handle": "SPAregions",
-      "text": "نائب أمير منطقة الباحة يرعى فعالية اليوم العالمي للقهوة.\nhttps://www.spa.gov.sa/N2692703\n#واس",
-      "createdAt": "2026-10-04T15:01:57Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTy4e39XoAAoOYv.jpg"}],
-      "likes": 12,
-      "views": 21041,
-      "reposts": 4,
-      "featured": false
-    },
-    {
-      "id": "2106739560457904553",
-      "handle": "SPAregions",
-      "text": "محافظ الطائف يطّلع على سير المشروعات والأعمال البلدية بالمحافظة.\nhttps://www.spa.gov.sa/N2692621\n#واس",
-      "createdAt": "2026-10-04T13:33:47Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTykch2XoAA8rUl.jpg"}],
-      "likes": 18,
-      "views": 25739,
-      "reposts": 2,
-      "featured": false
-    },
-    {
-      "id": "2106734283968729431",
-      "handle": "SPAregions",
-      "text": "الأمير عبدالعزيز بن سعود يستقبل سفير روسيا الاتحادية لدى المملكة.\nhttps://www.spa.gov.sa/N2692600\n#واس",
-      "createdAt": "2026-10-04T13:12:49Z",
-      "topics": ["local", "diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyfl_RW4AEqn-2.jpg"}],
-      "likes": 47,
-      "views": 33057,
-      "reposts": 14,
+      "likes": 153,
+      "views": 64810,
+      "reposts": 71,
       "featured": false
     },
     {
@@ -217,9 +304,9 @@
       "createdAt": "2026-10-04T13:11:57Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyfVTIXAAAWxlY.jpg"}],
-      "likes": 796,
-      "views": 346446,
-      "reposts": 336,
+      "likes": 840,
+      "views": 373358,
+      "reposts": 346,
       "featured": true
     },
     {
@@ -229,9 +316,9 @@
       "createdAt": "2026-10-04T13:04:38Z",
       "topics": ["royal"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyddMTWgAADGIZ.jpg"}],
-      "likes": 324,
-      "views": 130465,
-      "reposts": 152,
+      "likes": 354,
+      "views": 155453,
+      "reposts": 161,
       "featured": true
     },
     {
@@ -241,22 +328,10 @@
       "createdAt": "2026-10-04T13:01:56Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyc10bWAAEefcV.jpg"}],
-      "likes": 2767,
-      "views": 677456,
-      "reposts": 1427,
+      "likes": 2940,
+      "views": 723362,
+      "reposts": 1467,
       "featured": true
-    },
-    {
-      "id": "2106728443081883802",
-      "handle": "SPAregions",
-      "text": "التحالف الإسلامي العسكري يختتم برنامج \"إعلاميو السلام\" في \"داكار\" ويؤهّل 40 إعلاميًّا.\nhttps://www.spa.gov.sa/ar/N2692537\n#واس",
-      "createdAt": "2026-10-04T12:49:36Z",
-      "topics": ["diplomacy"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyaWZOW4AAMsC1.jpg"}],
-      "likes": 20,
-      "views": 25623,
-      "reposts": 9,
-      "featured": false
     },
     {
       "id": "2106727147394187486",
@@ -265,33 +340,9 @@
       "createdAt": "2026-10-04T12:44:27Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyZJq7XcAAtbtF.jpg"}],
-      "likes": 114,
-      "views": 57256,
+      "likes": 121,
+      "views": 65215,
       "reposts": 22,
-      "featured": false
-    },
-    {
-      "id": "2106722735116239094",
-      "handle": "SPAregions",
-      "text": "نائب أمير الشرقية يرأس الاجتماع الـ65 للجنة التنفيذية لهيئة تطوير المنطقة.\nhttps://www.spa.gov.sa/ar/w2692547\n#واس",
-      "createdAt": "2026-10-04T12:26:55Z",
-      "topics": ["local"],
-      "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyVGO0W0AA5iDk.jpg"}],
-      "likes": 11,
-      "views": 27379,
-      "reposts": 3,
-      "featured": false
-    },
-    {
-      "id": "2106721159458783245",
-      "handle": "SPAregions",
-      "text": "انطلاق أعمال النسخة الثانية من الملتقى الدولي للمسؤولية الاجتماعية غدًا في الرياض.\nhttps://www.spa.gov.sa/N2692543\n#واس",
-      "createdAt": "2026-10-04T12:20:40Z",
-      "topics": ["local"],
-      "media": [],
-      "likes": 19,
-      "views": 27213,
-      "reposts": 5,
       "featured": false
     },
     {
@@ -301,9 +352,9 @@
       "createdAt": "2026-10-04T11:29:37Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyH_ixXoAAq6d-.jpg"}],
-      "likes": 165,
-      "views": 65510,
-      "reposts": 35,
+      "likes": 176,
+      "views": 72597,
+      "reposts": 36,
       "featured": false
     },
     {
@@ -313,8 +364,8 @@
       "createdAt": "2026-10-04T11:27:48Z",
       "topics": ["diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTyHUv_W0AE89WF.jpg"}],
-      "likes": 116,
-      "views": 61999,
+      "likes": 121,
+      "views": 67849,
       "reposts": 29,
       "featured": false
     },
@@ -325,9 +376,9 @@
       "createdAt": "2026-10-03T10:26:58Z",
       "topics": ["royal", "diplomacy"],
       "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HTswFIbXMAAjp9x.jpg"}],
-      "likes": 330,
-      "views": 181224,
-      "reposts": 104,
+      "likes": 332,
+      "views": 183084,
+      "reposts": 105,
       "featured": false
     }
   ]
