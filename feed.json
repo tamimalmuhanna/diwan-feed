@@ -1,6 +1,256 @@
 {
-  "lastUpdated": "2026-10-07T12:13:22+03:00",
+  "lastUpdated": "2026-10-07T19:05:33+03:00",
   "posts": [
+    {
+      "id": "2107860149205446773",
+      "handle": "SPAregions",
+      "text": "وزير الشؤون الإسلامية والدعوة والإرشاد في حديث عن مؤتمر آسيان الرابع \"خير أمة\".\n#واس",
+      "createdAt": "2026-10-07T15:46:36Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2107860044851101696/vid/avc1/1280x720/PsJ5J_MJRa1ieDdA.mp4"
+        }
+      ],
+      "likes": 5,
+      "views": 5629,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2107859856304869755",
+      "handle": "SPAregions",
+      "text": "أمير حائل يستقبل مدير مركز تلفزيون بالمنطقة المكلّف حديثًا.\nhttps://www.spa.gov.sa/ar/w2695681\n#واس",
+      "createdAt": "2026-10-07T15:45:26Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCfTYcWgAA7acU.jpg"
+        }
+      ],
+      "likes": 3,
+      "views": 13712,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2107852343635071146",
+      "handle": "SPAregions",
+      "text": "أمير منطقة القصيم يرعى تدشين مشروع 100 وحدة سكنية لمستفيدي مؤسسة الملك عبدالله بن عبدالعزيز لوالديه للإسكان التنموي بمحافظة البكيرية.\nhttps://www.spa.gov.sa/N2695690\n#واس",
+      "createdAt": "2026-10-07T15:15:35Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCYeqyWMAAtWuu.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCYfsEWwAE8L_8.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCYgw5W4AEFFKF.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCYhz6WwAAMjFU.jpg"
+        }
+      ],
+      "likes": 8,
+      "views": 17211,
+      "reposts": 3,
+      "featured": true
+    },
+    {
+      "id": "2107852179319263607",
+      "handle": "SPAregions",
+      "text": "رئيس وأعضاء المجلس الأعلى للقضاء يشاركون في حملة التبرع بالدم التي أطلقها سمو ولي العهد.\nhttps://www.spa.gov.sa/ar/w2695695\n#واس",
+      "createdAt": "2026-10-07T15:14:56Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCYK2vXUAAe2TV.jpg"
+        }
+      ],
+      "likes": 9,
+      "views": 15839,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2107847167796990171",
+      "handle": "SPAregions",
+      "text": "أمين المدينة المنورة: الحملة الوطنية للتبرّع بالدم تدعم توفير إمدادات آمنة ومستدامة من الدم ومكوناته.\nhttps://www.spa.gov.sa/ar/w2695620\n#واس",
+      "createdAt": "2026-10-07T14:55:01Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCTuZoWYAA6qvP.jpg"
+        }
+      ],
+      "likes": 10,
+      "views": 19698,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2107843395951415584",
+      "handle": "SPAregions",
+      "text": "نائب أمير المدينة المنورة يستقبل محافظ الهيئة العليا للأمن الصناعي.\nhttps://www.spa.gov.sa/ar/w2695660\n#واس",
+      "createdAt": "2026-10-07T14:40:02Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCQYMLWkAA05Wu.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCQY7cXoAA68VR.jpg"
+        }
+      ],
+      "likes": 10,
+      "views": 20515,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2107843145605980266",
+      "handle": "SPAregions",
+      "text": "نائب أمير منطقة المدينة المنورة يشارك في الحملة الوطنية السنوية للتبرع بالدم لعام 2026م.\nhttps://www.spa.gov.sa/ar/w2695639\n#واس",
+      "createdAt": "2026-10-07T14:39:02Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCQI2LWYAAUpCg.jpg"
+        }
+      ],
+      "likes": 10,
+      "views": 18163,
+      "reposts": 3,
+      "featured": false
+    },
+    {
+      "id": "2107829488017125688",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفيرة جمهورية العراق لدى المملكة السيدة صفية طالب السهيل، ويستعرضان العلاقات الثنائية بين البلدين.",
+      "createdAt": "2026-10-07T13:44:46Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCDvMEXYAEBQxD.jpg"
+        }
+      ],
+      "likes": 31,
+      "views": 19902,
+      "reposts": 8,
+      "featured": false
+    },
+    {
+      "id": "2107829400863699215",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة لشؤون الدبلوماسية العامة الدكتور #رائد_قرملي يستقبل سعادة سفير جمهورية فنلندا لدى المملكة السيد يوكا بايارينين، ويستعرضان سبل تعزيز التعاون والتنسيق بين البلدين الصديقين.",
+      "createdAt": "2026-10-07T13:44:25Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCDqZjWsAA72Vx.jpg"
+        }
+      ],
+      "likes": 31,
+      "views": 16435,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2107828840147927074",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة لشؤون الدبلوماسية العامة الدكتور #رائد_قرملي يستقبل سعادة سفيرة مملكة السويد لدى المملكة السيدة كارينا ماريا هانكسون، ويستعرضان سبل تعزيز التعاون والتنسيق بين البلدين الصديقين.",
+      "createdAt": "2026-10-07T13:42:11Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCDJ04WwAANry_.jpg"
+        }
+      ],
+      "likes": 30,
+      "views": 17190,
+      "reposts": 6,
+      "featured": false
+    },
+    {
+      "id": "2107827336041115922",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفيرة الجمهورية الهيلينية لدى المملكة السيدة كاتارينا فارفاريغو، ويبحثان المواضيع ذات الاهتمام المشترك.",
+      "createdAt": "2026-10-07T13:36:13Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCByR-WEAANTxV.jpg"
+        }
+      ],
+      "likes": 53,
+      "views": 20027,
+      "reposts": 8,
+      "featured": false
+    },
+    {
+      "id": "2107826483968225518",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة لشؤون الدبلوماسية العامة الدكتور #رائد_قرملي يستقبل سعادة سفير جمهورية البرازيل الاتحادية لدى المملكة السيد باولو أوتشوا ريبيرو فيليو، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
+      "createdAt": "2026-10-07T13:32:49Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUCBAVWW8AEwiIV.jpg"
+        }
+      ],
+      "likes": 52,
+      "views": 18696,
+      "reposts": 11,
+      "featured": false
+    },
     {
       "id": "2107758574080348277",
       "handle": "SPAregions",
@@ -18,26 +268,6 @@
       ],
       "likes": 0,
       "views": 8563,
-      "reposts": 0,
-      "featured": false
-    },
-    {
-      "id": "2107756795171164463",
-      "handle": "SPAregions",
-      "text": "مُحافظ حفر الباطن يُثمّن مبادرة سمو ولي العهد.. ويحثّ المجتمع على المشاركة.\nhttps://www.spa.gov.sa/ar/w2695280\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-07T08:55:54Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUBBoXbXgAAo1_V.jpg"
-        }
-      ],
-      "likes": 1,
-      "views": 8657,
       "reposts": 0,
       "featured": false
     },
@@ -62,49 +292,6 @@
       "featured": false
     },
     {
-      "id": "2107747194048852279",
-      "handle": "SPAregions",
-      "text": "نائب أمير نجران يطلق فعاليات موسم التشجير الوطني 2026 لتعزيز الاستدامة البيئية وتنمية الغطاء النباتي بالمنطقة.\nhttps://www.spa.gov.sa/ar/w2695238\n#واس",
-      "createdAt": "2026-10-07T08:17:45Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUA42QvWsAAMgLz.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUA43OGXkAAlnAU.jpg"
-        }
-      ],
-      "likes": 2,
-      "views": 17617,
-      "reposts": 0,
-      "featured": false
-    },
-    {
-      "id": "2107718320330010694",
-      "handle": "SPAregions",
-      "text": "الدكتور عبدالله الربيعة: إطلاق سمو ولي العهد الحملة الوطنية للتبرع بالدم يجسد بُعدًا إنسانيًا نبيلًا ويعزز قيم العطاء.\nhttps://www.spa.gov.sa/N2695202\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-07T06:23:01Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUAeh-oXsAAuvnU.jpg"
-        }
-      ],
-      "likes": 22,
-      "views": 28508,
-      "reposts": 8,
-      "featured": false
-    },
-    {
       "id": "2107682329309450551",
       "handle": "SPAregions",
       "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على جازان، عسير، الباحة، مكة المكرمة، وتكون خفيفة إلى متوسطة على المدينة المنورة، حائل، تبوك، الجوف، الحدود الشمالية. وتكون الضباب الكثيف على الشرقية، وسحب رعدية ممطرة على الأجزاء الجنوبية منها.\n #واس",
@@ -121,26 +308,7 @@
       "likes": 25,
       "views": 37925,
       "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2107652263246483908",
-      "handle": "SPAregions",
-      "text": "التحالف: نتتبع منصة الإطلاق بمنظومة استخبارات التحالف في سماء صنعاء وسندمرها.\n#واس",
-      "createdAt": "2026-10-07T02:00:32Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT_ijnzWgAAPwyk.jpg"
-        }
-      ],
-      "likes": 242,
-      "views": 45367,
-      "reposts": 107,
-      "featured": false
+      "featured": true
     },
     {
       "id": "2107652113274720523",
@@ -160,26 +328,6 @@
       "views": 315083,
       "reposts": 128,
       "featured": true
-    },
-    {
-      "id": "2107628342971396327",
-      "handle": "SPAregions",
-      "text": "سمو الأمير تركي بن محمد بن فهد: تبرع سمو ولي العهد بالدم وإطلاقه الحملة الوطنية للتبرع بالدم تأتي ضمن المبادرات الإنسانية التي تجسد نهج القيادة الرشيدة في دعم الإنسان ورفع جودة حياته.\nhttps://www.spa.gov.sa/ar/w2695116 \n#حملة_ولي_العهد_للتبرع_بالدم\n#واس",
-      "createdAt": "2026-10-07T00:25:29Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT_MqZVXsAAEF1X.jpg"
-        }
-      ],
-      "likes": 41,
-      "views": 41810,
-      "reposts": 20,
-      "featured": false
     },
     {
       "id": "2107589765453267443",
@@ -204,9 +352,9 @@
           "url": "https://pbs.twimg.com/media/HT-pr1gXsAAfU77.jpg"
         }
       ],
-      "likes": 1274,
-      "views": 516147,
-      "reposts": 687,
+      "likes": 1497,
+      "views": 545077,
+      "reposts": 772,
       "featured": true
     },
     {
@@ -218,9 +366,9 @@
         "royal"
       ],
       "media": [],
-      "likes": 397,
-      "views": 233018,
-      "reposts": 311,
+      "likes": 415,
+      "views": 239406,
+      "reposts": 322,
       "featured": false
     },
     {
@@ -232,9 +380,9 @@
         "royal"
       ],
       "media": [],
-      "likes": 450,
-      "views": 219141,
-      "reposts": 358,
+      "likes": 460,
+      "views": 225442,
+      "reposts": 364,
       "featured": false
     },
     {
@@ -255,9 +403,9 @@
           "url": "https://pbs.twimg.com/media/HT9x7bXX0AEfr0H.jpg"
         }
       ],
-      "likes": 7641,
-      "views": 2304068,
-      "reposts": 5564,
+      "likes": 8298,
+      "views": 2581161,
+      "reposts": 5841,
       "featured": true
     },
     {
@@ -275,9 +423,9 @@
           "url": "https://pbs.twimg.com/media/HT9b8tkXIAAcweJ.jpg"
         }
       ],
-      "likes": 91,
-      "views": 47708,
-      "reposts": 35,
+      "likes": 106,
+      "views": 53234,
+      "reposts": 37,
       "featured": false
     },
     {
@@ -295,9 +443,9 @@
           "url": "https://pbs.twimg.com/media/HT9Y-urWUAAQQOm.jpg"
         }
       ],
-      "likes": 135,
-      "views": 31696,
-      "reposts": 56,
+      "likes": 154,
+      "views": 34997,
+      "reposts": 59,
       "featured": true
     },
     {
@@ -314,9 +462,9 @@
           "url": "https://pbs.twimg.com/media/HT9Xch7XoAANyWs.jpg"
         }
       ],
-      "likes": 111,
-      "views": 34699,
-      "reposts": 26,
+      "likes": 127,
+      "views": 37243,
+      "reposts": 30,
       "featured": true
     },
     {
@@ -333,9 +481,9 @@
           "url": "https://video.twimg.com/amplify_video/2107498672539815936/vid/avc1/1920x1080/yDJDW5CU0vq8krn7.mp4"
         }
       ],
-      "likes": 1628,
-      "views": 1145775,
-      "reposts": 491,
+      "likes": 1641,
+      "views": 1158109,
+      "reposts": 437,
       "featured": true
     },
     {
@@ -352,9 +500,9 @@
           "url": "https://pbs.twimg.com/media/HT9WuakXIAEjrhU.jpg"
         }
       ],
-      "likes": 312,
-      "views": 655184,
-      "reposts": 179,
+      "likes": 250,
+      "views": 667396,
+      "reposts": 156,
       "featured": true
     },
     {
@@ -371,43 +519,10 @@
           "url": "https://pbs.twimg.com/media/HT9Wkc1WMAAJzi3.jpg"
         }
       ],
-      "likes": 350,
-      "views": 546918,
-      "reposts": 235,
+      "likes": 287,
+      "views": 552466,
+      "reposts": 214,
       "featured": true
-    },
-    {
-      "id": "2107498203901776198",
-      "handle": "spagov",
-      "text": "سمو #ولي_العهد يرأس جلسة #مجلس_الوزراء. \n#واس",
-      "createdAt": "2026-10-06T15:48:21Z",
-      "topics": [
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT9WZ6bXYAASosL.jpg"
-        }
-      ],
-      "likes": 309,
-      "views": 552624,
-      "reposts": 199,
-      "featured": true
-    },
-    {
-      "id": "2107497142650552435",
-      "handle": "spagov",
-      "text": "#مجلس_الوزراء يُوجِّه بما يلزم بشأن عددٍ من الموضوعات المدرجة على جدول أعماله، من بينها تقارير سنوية لهيئة تطوير المنطقة الشرقية، والهيئة السعودية لتنظيم الكهرباء، وهيئة تطوير محمية الإمام عبدالعزيز بن محمد الملكية، والمركز الوطني للدراسات والبحوث الاجتماعية، ونادي سباقات الخيل، والجامعة الإسلامية بالمدينة المنورة.\n#واس",
-      "createdAt": "2026-10-06T15:44:08Z",
-      "topics": [
-        "royal"
-      ],
-      "media": [],
-      "likes": 243,
-      "views": 197661,
-      "reposts": 84,
-      "featured": false
     },
     {
       "id": "2107476288097464562",
@@ -423,9 +538,9 @@
           "url": "https://pbs.twimg.com/media/HT9CgqMWIAEpVP7.jpg"
         }
       ],
-      "likes": 485,
-      "views": 44376,
-      "reposts": 85,
+      "likes": 516,
+      "views": 46729,
+      "reposts": 89,
       "featured": true
     },
     {
@@ -442,115 +557,10 @@
           "url": "https://pbs.twimg.com/media/HT9CI1BWYAAkckr.jpg"
         }
       ],
-      "likes": 133,
-      "views": 39451,
-      "reposts": 50,
+      "likes": 146,
+      "views": 41971,
+      "reposts": 53,
       "featured": false
-    },
-    {
-      "id": "2107465081625670138",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يستقبل سعادة سفيرة الجمهورية الهيلينية لدى المملكة السيدة أيكاتيريني فارفاريغ، ويستعرضان العلاقات الثنائية بين البلدين، ومناقشة الموضوعات ذات الاهتمام المشترك.",
-      "createdAt": "2026-10-06T13:36:44Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT84MixWgAAxpoS.jpg"
-        }
-      ],
-      "likes": 95,
-      "views": 42980,
-      "reposts": 28,
-      "featured": false
-    },
-    {
-      "id": "2107464736908738672",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون الدولية المتعددة والمشرف العام على وكالة الوزارة لشؤون الاقتصاد والتنمية الدكتور #عبدالرحمن_الرسي يستقبل سعادة سفير الاتحاد الأوروبي لدى المملكة السيد كريستوف فارنو، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
-      "createdAt": "2026-10-06T13:35:22Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT831WYXYAAYW5y.jpg"
-        }
-      ],
-      "likes": 61,
-      "views": 31533,
-      "reposts": 21,
-      "featured": false
-    },
-    {
-      "id": "2107460787111641432",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة لشؤون المراسم السفير #عبدالمجيد_السماري يستقبل سعادة سفير جمهورية الهند المعيّن حديثاً لدى المملكة السيد فيبول، حيث رحّب سعادته بالسفير متمنيًا له التوفيق في مهام عمله الجديدة.",
-      "createdAt": "2026-10-06T13:19:41Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT80YjlWIAA_6dm.jpg"
-        }
-      ],
-      "likes": 73,
-      "views": 41609,
-      "reposts": 18,
-      "featured": false
-    },
-    {
-      "id": "2107459630033154286",
-      "handle": "KSAMOFA",
-      "text": "📹 | سمو #ولي_العهد⁩ يلتقي رئيس الجمهورية العربية السورية.",
-      "createdAt": "2026-10-06T13:15:05Z",
-      "topics": [
-        "diplomacy",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "video",
-          "url": "https://video.twimg.com/amplify_video/2107458565782839297/vid/avc1/1920x1080/QDgLU_bIrdVQn7x2.mp4"
-        }
-      ],
-      "likes": 1529,
-      "views": 228595,
-      "reposts": 263,
-      "featured": true
-    },
-    {
-      "id": "2107459472864014350",
-      "handle": "KSAMOFA",
-      "text": "سمو #ولي_العهد⁩ يلتقي رئيس الجمهورية العربية السورية.",
-      "createdAt": "2026-10-06T13:14:27Z",
-      "topics": [
-        "diplomacy",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT8zGwSXIAED4iv.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT8zJt1X0AA6kl7.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT8zMCCXwAE68B9.jpg"
-        }
-      ],
-      "likes": 1395,
-      "views": 242484,
-      "reposts": 241,
-      "featured": true
     }
   ]
 }
