@@ -1,53 +1,11 @@
 {
-  "lastUpdated": "2026-10-08T11:14:00+03:00",
+  "lastUpdated": "2026-10-08T16:22:35+03:00",
   "posts": [
     {
-      "id": "2108097086784667840",
-      "handle": "SPAregions",
-      "text": "فرنسا تدين اعتداءات الميليشيا الحوثية على المملكة.\nhttps://www.spa.gov.sa/ar/w2696196\n#واس",
-      "createdAt": "2026-10-08T07:28:06Z",
-      "topics": [
-        "local"
-      ],
-      "media": [],
-      "likes": 28,
-      "views": 32258,
-      "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2108096813332885794",
-      "handle": "SPAregions",
-      "text": "سوريا تدين استهداف ميليشيا الحوثي منشآت حيوية وأعيانًا مدنية في المملكة.\nhttps://www.spa.gov.sa/ar/w2696136\n#واس",
-      "createdAt": "2026-10-08T07:27:01Z",
-      "topics": [
-        "local"
-      ],
-      "media": [],
-      "likes": 15,
-      "views": 27117,
-      "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2108096238448959780",
-      "handle": "SPAregions",
-      "text": "مصر تدين وتستنكر بأشد العبارات الاعتداءات على المملكة.\nhttps://www.spa.gov.sa/ar/w2696134\n#واس",
-      "createdAt": "2026-10-08T07:24:44Z",
-      "topics": [
-        "local"
-      ],
-      "media": [],
-      "likes": 25,
-      "views": 27447,
-      "reposts": 10,
-      "featured": false
-    },
-    {
-      "id": "2108066825582100725",
-      "handle": "SPAregions",
-      "text": "بدء عملية فصل التوأم الملتصق المغربي \"سجى وضحى\" بمستشفى الملك عبدالله التخصصي للأطفال في الرياض التي تجرى على 6 مراحل وتستغرق حوالي 10 ساعات -بإذن الله-، ويشارك فيها 23 من الاستشاريين والأخصائيين والكوادر التمريضية والفنية من تخصصات التخدير وجراحة الأطفال وجراحة التجميل.\n#واس",
-      "createdAt": "2026-10-08T05:27:51Z",
+      "id": "2108183930251641141",
+      "handle": "spagov",
+      "text": "إنفاذًا لتوجيهات القيادة.. وصول طائرة إغاثية سعودية يسيّرها مركز الملك سلمان للإغاثة إلى جمهورية نيبال.\nhttps://www.spa.gov.sa/N2696538\n#واس",
+      "createdAt": "2026-10-08T13:13:11Z",
       "topics": [
         "local",
         "royal"
@@ -55,25 +13,247 @@
       "media": [
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUFbLh9WMAElcfE.jpg"
+          "url": "https://pbs.twimg.com/media/HUHGA8VWMAA69Y4.jpg"
         },
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUFbNshWAAAUEKy.jpg"
+          "url": "https://pbs.twimg.com/media/HUHGA8mWYAAUdIY.jpg"
         },
         {
           "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUFbPaTXwAAN7jP.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUFbQcMWoAApcYz.jpg"
+          "url": "https://pbs.twimg.com/media/HUHGGsFXYAAt2YQ.jpg"
         }
       ],
-      "likes": 116,
-      "views": 45120,
-      "reposts": 67,
+      "likes": 43,
+      "views": 22837,
+      "reposts": 53,
       "featured": true
+    },
+    {
+      "id": "2108182931617239348",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين يبعث دعوة لرئيس دولة الإمارات العربية المتحدة للمشاركة في القمة الخليجية الأوروبية الثانية.\nhttps://www.spa.gov.sa/N2696530\n#واس",
+      "createdAt": "2026-10-08T13:09:13Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHFJ0dW8AAY-Gg.jpg"
+        }
+      ],
+      "likes": 68,
+      "views": 26756,
+      "reposts": 60,
+      "featured": true
+    },
+    {
+      "id": "2108174507198337227",
+      "handle": "SPAregions",
+      "text": "الأمين العام لهيئة كبار العلماء يدشّن المقر الجديد لفرع الرئاسة العامة للبحوث العلمية والإفتاء بمنطقة مكة المكرمة.\nhttps://www.spa.gov.sa/ar/w2696434\n#واس",
+      "createdAt": "2026-10-08T12:35:45Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG9bnDWoAAXa4_.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG9gZbWMAAA9RS.jpg"
+        }
+      ],
+      "likes": 11,
+      "views": 18237,
+      "reposts": 6,
+      "featured": false
+    },
+    {
+      "id": "2108173897589993925",
+      "handle": "SPAregions",
+      "text": "التحالف: اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية الإرهابية باتجاه خميس مشيط.\n#واس",
+      "createdAt": "2026-10-08T12:33:19Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG89PkXcAAZOaZ.jpg"
+        }
+      ],
+      "likes": 34,
+      "views": 18096,
+      "reposts": 15,
+      "featured": true
+    },
+    {
+      "id": "2108172729124045007",
+      "handle": "SPAregions",
+      "text": "التحالف: اعتراض وتدمير صاروخين باليستيين أطلقتهما الميليشيا الحوثية الإرهابية باتجاه الرياض.\n#واس",
+      "createdAt": "2026-10-08T12:28:41Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG74nXWsAEwBga.jpg"
+        }
+      ],
+      "likes": 37,
+      "views": 19753,
+      "reposts": 19,
+      "featured": true
+    },
+    {
+      "id": "2108169777302954265",
+      "handle": "SPAregions",
+      "text": "إنجاز طبي جديد.. نجاح عملية فصل التوأم الملتصق المغربي \"سجى وضحى\" بعد ست ساعات.\nhttps://www.spa.gov.sa/ar/w2696453\n#واس",
+      "createdAt": "2026-10-08T12:16:57Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG5MwFWsAAkTxY.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG5N0fXsAATswD.jpg"
+        }
+      ],
+      "likes": 22,
+      "views": 20331,
+      "reposts": 14,
+      "featured": true
+    },
+    {
+      "id": "2108169075977232440",
+      "handle": "SPAregions",
+      "text": "الأمير عبدالعزيز بن سعود ووزير الداخلية البحريني يرأسان الاجتماع الخامس للجنة التنسيق الأمني المنبثقة من مجلس التنسيق السعودي البحريني.\nhttps://www.spa.gov.sa/N2696450\n#واس",
+      "createdAt": "2026-10-08T12:14:10Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG4e5gWYAAOrEM.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG4hNwXEAAkZY9.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG4kJvWUAAzMPD.jpg"
+        }
+      ],
+      "likes": 13,
+      "views": 18870,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2108168456902524994",
+      "handle": "SPAregions",
+      "text": "رئيس البرلمان العربي يؤكد أن هجمات ميليشيا الحوثي ضد المملكة تمثل تهديدًا مباشرًا لأمن المنطقة.\nhttps://www.spa.gov.sa/ar/w2696433\n#واس",
+      "createdAt": "2026-10-08T12:11:42Z",
+      "topics": [
+        "local"
+      ],
+      "media": [],
+      "likes": 3,
+      "views": 13773,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2108167517172809744",
+      "handle": "SPAregions",
+      "text": "نائب أمير المنطقة الشرقية يشارك في الحملة الوطنية للتبرع بالدم التي أطلقها سمو ولي العهد.\nhttps://www.spa.gov.sa/ar/w2696436\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
+      "createdAt": "2026-10-08T12:07:58Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG3KTQW0AA_r5C.jpg"
+        }
+      ],
+      "likes": 4,
+      "views": 18920,
+      "reposts": 0,
+      "featured": false
+    },
+    {
+      "id": "2108166019856437457",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير المجر لدى المملكة السيد أتيلا تار، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
+      "createdAt": "2026-10-08T12:02:01Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG10K1XAAABYu-.jpg"
+        }
+      ],
+      "likes": 22,
+      "views": 15241,
+      "reposts": 8,
+      "featured": false
+    },
+    {
+      "id": "2108161698465042772",
+      "handle": "KSAMOFA",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الدكتورة جوستينا شيروكا ـ بولا بمناسبة فوزها في الانتخابات الرئاسية وأدائها اليمين الدستورية رئيسةً لجمهورية كوسوفا.",
+      "createdAt": "2026-10-08T11:44:51Z",
+      "topics": [
+        "diplomacy",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUGx4x3XUAAdZSF.jpg"
+        }
+      ],
+      "likes": 28,
+      "views": 16355,
+      "reposts": 11,
+      "featured": false
+    },
+    {
+      "id": "2108140279924731915",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الدكتورة جوستينا شيروكا ـ بولا بمناسبة فوزها في الانتخابات الرئاسية وأدائها اليمين الدستورية رئيسةً لجمهورية كوسوفا.\n#واس",
+      "createdAt": "2026-10-08T10:19:44Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUGeXKGWYAAJk9H.jpg"
+        }
+      ],
+      "likes": 110,
+      "views": 70671,
+      "reposts": 42,
+      "featured": false
     },
     {
       "id": "2108064658997588020",
@@ -90,173 +270,9 @@
           "url": "https://pbs.twimg.com/media/HUFZjhsXgAAGv8H.jpg"
         }
       ],
-      "likes": 915,
-      "views": 290317,
-      "reposts": 504,
-      "featured": true
-    },
-    {
-      "id": "2108044719981056384",
-      "handle": "SPAregions",
-      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على عسير، الباحة، مكة المكرمة، كذلك على حائل، تبوك، الجوف، الحدود الشمالية، وتكون خفيفة إلى متوسطة على المدينة المنورة والشرقية.\n#واس",
-      "createdAt": "2026-10-08T04:00:01Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUE2eLmXEAArERA.jpg"
-        }
-      ],
-      "likes": 14,
-      "views": 37499,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2107960126347092412",
-      "handle": "SPAregions",
-      "text": "جامعة الأمير مقرن بن عبدالعزيز بالمدينة المنورة تحتضن أعمال المؤتمر الدولي الأول للابتكار التكنولوجي والهندسي لخدمة الاستدامة (SusTAIN 2026)، بمشاركة نخبة من المختصين والباحثين، لاستعراض أحدث الابتكارات والتقنيات الهندسية الداعمة لمستقبل أكثر استدامة.\n#واس",
-      "createdAt": "2026-10-07T22:23:52Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "video",
-          "url": "https://video.twimg.com/amplify_video/2107959360148144128/vid/avc1/720x1280/0xNmwSn6pLBovvDy.mp4"
-        }
-      ],
-      "likes": 15,
-      "views": 46393,
-      "reposts": 11,
-      "featured": false
-    },
-    {
-      "id": "2107955522569912502",
-      "handle": "SPAregions",
-      "text": "أمير المدينة المنورة يرعى المؤتمر الدولي للابتكار التكنولوجي والهندسي لخدمة الاستدامة.\nhttps://www.spa.gov.sa/ar/w2696030\n#واس",
-      "createdAt": "2026-10-07T22:05:35Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUD1vzEWgAAaOuM.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUD15p8WEAAgkf9.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUD1-MUWsAAFYEd.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUD2GSVXgAAAjjj.jpg"
-        }
-      ],
-      "likes": 32,
-      "views": 47994,
-      "reposts": 7,
-      "featured": false
-    },
-    {
-      "id": "2107948044960596280",
-      "handle": "SPAregions",
-      "text": "نائب أمير الباحة يشارك في الحملة الوطنية التي أطلقها سمو ولي العهد للتبرع بالدم.\nhttps://www.spa.gov.sa/ar/w2696023\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-07T21:35:52Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDvcz3WkAA1oON.jpg"
-        }
-      ],
-      "likes": 29,
-      "views": 51748,
-      "reposts": 10,
-      "featured": false
-    },
-    {
-      "id": "2107947823425860061",
-      "handle": "SPAregions",
-      "text": "أمير منطقة الباحة يشارك في الحملة الوطنية التي أطلقها سمو ولي العهد للتبرع بالدم.\nhttps://www.spa.gov.sa/ar/w2696019\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-07T21:34:59Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDvAtwWEAAY_s1.jpg"
-        }
-      ],
-      "likes": 24,
-      "views": 41753,
-      "reposts": 15,
-      "featured": false
-    },
-    {
-      "id": "2107947330112766202",
-      "handle": "SPAregions",
-      "text": "سمو أمين منطقة الرياض يرعى النسخة الثانية من لقاء أمانة المنطقة مع القطاع الخاص.\nhttps://www.spa.gov.sa/ar/w2696002\n#واس",
-      "createdAt": "2026-10-07T21:33:01Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDuyxxXYAE09du.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDu1B_XEAA3J9o.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDu2PJWgAAfh1v.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDu3guWsAAW0ab.jpg"
-        }
-      ],
-      "likes": 4,
-      "views": 36153,
-      "reposts": 0,
-      "featured": false
-    },
-    {
-      "id": "2107938028371296273",
-      "handle": "SPAregions",
-      "text": "المتحدث الرسمي باسم قوات التحالف: الاعتداءات الوحشية من الميليشيا الحوثية الإرهابية على المدنيين والأعيان المدنية بالمملكة التي كان آخرها استهداف مطار الملك خالد الدولي بالرياض ومطار أبها الدولي لم ولن تمر دون حساب، وعليه فقد نفذت القوات المشتركة للتحالف هجومًا شاملًا تضمن تدمير ما مجموعه (82) هدفًا عسكريًا مشروعًا تتبع للميليشيا الحوثية الإرهابية في محافظات (صعدة، الحديدة، الجوف، مأرب)، وشملت مصادر التهديد للصواريخ الباليستية بعدد (11) مخزنًا للصواريخ الباليستية بمناطق جبلية في صعدة، ومراكز للقيادة والسيطرة ومنظومات الاتصالات ومخازن صواريخ وأسلحة ومقرات للمجاميع الحوثية الإرهابية.\n#واس",
-      "createdAt": "2026-10-07T20:56:04Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDmOoxW8AABdkN.jpg"
-        },
-        {
-          "kind": "video",
-          "url": "https://video.twimg.com/amplify_video/2107938841260630016/vid/avc1/1080x1080/H8ujmnuJwz859bmU.mp4"
-        }
-      ],
-      "likes": 869,
-      "views": 84756,
-      "reposts": 459,
+      "likes": 1192,
+      "views": 398813,
+      "reposts": 572,
       "featured": true
     },
     {
@@ -273,9 +289,9 @@
           "url": "https://pbs.twimg.com/media/HUCDvMEXYAEBQxD.jpg"
         }
       ],
-      "likes": 113,
-      "views": 63802,
-      "reposts": 23,
+      "likes": 125,
+      "views": 71316,
+      "reposts": 28,
       "featured": false
     },
     {
@@ -292,9 +308,9 @@
           "url": "https://pbs.twimg.com/media/HUCDqZjWsAA72Vx.jpg"
         }
       ],
-      "likes": 62,
-      "views": 33147,
-      "reposts": 12,
+      "likes": 70,
+      "views": 36499,
+      "reposts": 14,
       "featured": false
     },
     {
@@ -311,9 +327,9 @@
           "url": "https://pbs.twimg.com/media/HUCDJ04WwAANry_.jpg"
         }
       ],
-      "likes": 74,
-      "views": 37833,
-      "reposts": 14,
+      "likes": 82,
+      "views": 41834,
+      "reposts": 15,
       "featured": false
     },
     {
@@ -330,9 +346,9 @@
           "url": "https://pbs.twimg.com/media/HUCByR-WEAANTxV.jpg"
         }
       ],
-      "likes": 117,
-      "views": 44004,
-      "reposts": 17,
+      "likes": 133,
+      "views": 50202,
+      "reposts": 19,
       "featured": false
     },
     {
@@ -349,29 +365,10 @@
           "url": "https://pbs.twimg.com/media/HUCBAVWW8AEwiIV.jpg"
         }
       ],
-      "likes": 96,
-      "views": 33668,
-      "reposts": 19,
+      "likes": 106,
+      "views": 37003,
+      "reposts": 20,
       "featured": false
-    },
-    {
-      "id": "2107652113274720523",
-      "handle": "SPAregions",
-      "text": "التحالف: اعتراض وتدمير صاروخ باليستي شمال مدينة الرياض أطلقته الميليشيا الحوثية الإرهابية.\n#واس",
-      "createdAt": "2026-10-07T01:59:56Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT_iaEhXcAAtD9q.jpg"
-        }
-      ],
-      "likes": 406,
-      "views": 315083,
-      "reposts": 128,
-      "featured": true
     },
     {
       "id": "2107589765453267443",
@@ -396,9 +393,9 @@
           "url": "https://pbs.twimg.com/media/HT-pr1gXsAAfU77.jpg"
         }
       ],
-      "likes": 1641,
-      "views": 566832,
-      "reposts": 818,
+      "likes": 1655,
+      "views": 572373,
+      "reposts": 822,
       "featured": true
     },
     {
@@ -411,9 +408,9 @@
         "royal"
       ],
       "media": [],
-      "likes": 439,
-      "views": 249972,
-      "reposts": 333,
+      "likes": 448,
+      "views": 253506,
+      "reposts": 335,
       "featured": false
     },
     {
@@ -426,9 +423,9 @@
         "royal"
       ],
       "media": [],
-      "likes": 484,
-      "views": 235551,
-      "reposts": 372,
+      "likes": 491,
+      "views": 238732,
+      "reposts": 373,
       "featured": false
     },
     {
@@ -450,9 +447,9 @@
           "url": "https://pbs.twimg.com/media/HT9x7bXX0AEfr0H.jpg"
         }
       ],
-      "likes": 8784,
-      "views": 2862472,
-      "reposts": 6062,
+      "likes": 8892,
+      "views": 2922198,
+      "reposts": 6125,
       "featured": true
     },
     {
@@ -470,8 +467,8 @@
           "url": "https://pbs.twimg.com/media/HT9b8tkXIAAcweJ.jpg"
         }
       ],
-      "likes": 115,
-      "views": 56345,
+      "likes": 117,
+      "views": 57190,
       "reposts": 39,
       "featured": false
     },
@@ -490,10 +487,10 @@
           "url": "https://pbs.twimg.com/media/HT9Y-urWUAAQQOm.jpg"
         }
       ],
-      "likes": 171,
-      "views": 37024,
-      "reposts": 67,
-      "featured": false
+      "likes": 173,
+      "views": 37650,
+      "reposts": 68,
+      "featured": true
     },
     {
       "id": "2107499306689413622",
@@ -501,8 +498,7 @@
       "text": "سعادة السفير الدكتور فيصل بن سعود المجفل يقدم أوراق اعتماده سفيراً مفوضاً فوق العادة لخادم الحرمين الشريفين لدى الجمهورية الفرنسية، لفخامة السيد إيمانويل ماكرون رئيس الجمهورية الفرنسية.",
       "createdAt": "2026-10-06T15:52:44Z",
       "topics": [
-        "diplomacy",
-        "royal"
+        "diplomacy"
       ],
       "media": [
         {
@@ -510,8 +506,8 @@
           "url": "https://pbs.twimg.com/media/HT9Xch7XoAANyWs.jpg"
         }
       ],
-      "likes": 132,
-      "views": 38802,
+      "likes": 133,
+      "views": 39308,
       "reposts": 31,
       "featured": false
     },
@@ -521,8 +517,8 @@
       "text": "سمو #ولي_العهد يرأس جلسة #مجلس_الوزراء في الرياض.\nhttps://www.spa.gov.sa/N2694659\n#واس",
       "createdAt": "2026-10-06T15:51:29Z",
       "topics": [
-        "local",
-        "royal"
+        "royal",
+        "local"
       ],
       "media": [
         {
@@ -530,68 +526,10 @@
           "url": "https://video.twimg.com/amplify_video/2107498672539815936/vid/avc1/1920x1080/yDJDW5CU0vq8krn7.mp4"
         }
       ],
-      "likes": 1651,
-      "views": 1167224,
+      "likes": 1657,
+      "views": 1169856,
       "reposts": 440,
       "featured": true
-    },
-    {
-      "id": "2107498541556101380",
-      "handle": "spagov",
-      "text": "الترقيات في جلسة #مجلس_الوزراء.\n#واس",
-      "createdAt": "2026-10-06T15:49:42Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT9WuakXIAEjrhU.jpg"
-        }
-      ],
-      "likes": 253,
-      "views": 679812,
-      "reposts": 157,
-      "featured": false
-    },
-    {
-      "id": "2107476288097464562",
-      "handle": "KSAMOFA",
-      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يجري اتصالًا هاتفيًا بمعالي وزير الخارجية والتعاون الدولي والمصريين بالخارج في جمهورية مصر العربية الدكتور بدر عبدالعاطي.",
-      "createdAt": "2026-10-06T14:21:16Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT9CgqMWIAEpVP7.jpg"
-        }
-      ],
-      "likes": 521,
-      "views": 48348,
-      "reposts": 91,
-      "featured": false
-    },
-    {
-      "id": "2107475878913679482",
-      "handle": "KSAMOFA",
-      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يجري اتصالًا هاتفيًا بمعالي نائب رئيس الوزراء ووزير الخارجية وشؤون المغتربين في المملكة الأردنية الهاشمية السيد أيمن الصفدي.",
-      "createdAt": "2026-10-06T14:19:39Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT9CI1BWYAAkckr.jpg"
-        }
-      ],
-      "likes": 150,
-      "views": 44418,
-      "reposts": 54,
-      "featured": false
     }
   ]
 }
