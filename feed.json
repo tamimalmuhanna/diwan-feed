@@ -1,6 +1,119 @@
 {
-  "lastUpdated": "2026-10-08T06:12:00+03:00",
+  "lastUpdated": "2026-10-08T11:14:00+03:00",
   "posts": [
+    {
+      "id": "2108097086784667840",
+      "handle": "SPAregions",
+      "text": "فرنسا تدين اعتداءات الميليشيا الحوثية على المملكة.\nhttps://www.spa.gov.sa/ar/w2696196\n#واس",
+      "createdAt": "2026-10-08T07:28:06Z",
+      "topics": [
+        "local"
+      ],
+      "media": [],
+      "likes": 28,
+      "views": 32258,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2108096813332885794",
+      "handle": "SPAregions",
+      "text": "سوريا تدين استهداف ميليشيا الحوثي منشآت حيوية وأعيانًا مدنية في المملكة.\nhttps://www.spa.gov.sa/ar/w2696136\n#واس",
+      "createdAt": "2026-10-08T07:27:01Z",
+      "topics": [
+        "local"
+      ],
+      "media": [],
+      "likes": 15,
+      "views": 27117,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2108096238448959780",
+      "handle": "SPAregions",
+      "text": "مصر تدين وتستنكر بأشد العبارات الاعتداءات على المملكة.\nhttps://www.spa.gov.sa/ar/w2696134\n#واس",
+      "createdAt": "2026-10-08T07:24:44Z",
+      "topics": [
+        "local"
+      ],
+      "media": [],
+      "likes": 25,
+      "views": 27447,
+      "reposts": 10,
+      "featured": false
+    },
+    {
+      "id": "2108066825582100725",
+      "handle": "SPAregions",
+      "text": "بدء عملية فصل التوأم الملتصق المغربي \"سجى وضحى\" بمستشفى الملك عبدالله التخصصي للأطفال في الرياض التي تجرى على 6 مراحل وتستغرق حوالي 10 ساعات -بإذن الله-، ويشارك فيها 23 من الاستشاريين والأخصائيين والكوادر التمريضية والفنية من تخصصات التخدير وجراحة الأطفال وجراحة التجميل.\n#واس",
+      "createdAt": "2026-10-08T05:27:51Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUFbLh9WMAElcfE.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUFbNshWAAAUEKy.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUFbPaTXwAAN7jP.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUFbQcMWoAApcYz.jpg"
+        }
+      ],
+      "likes": 116,
+      "views": 45120,
+      "reposts": 67,
+      "featured": true
+    },
+    {
+      "id": "2108064658997588020",
+      "handle": "spagov",
+      "text": "إنفاذًا لتوجيهات #خادم_الحرمين_الشريفين وسمو #ولي_العهد..\nبدء عملية فصل التوأم الملتصق المغربي \"سجى وضحى\" بمستشفى الملك عبدالله التخصصي للأطفال في الرياض.\nhttps://www.spa.gov.sa/N2696156\n#واس",
+      "createdAt": "2026-10-08T05:19:15Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUFZjhsXgAAGv8H.jpg"
+        }
+      ],
+      "likes": 915,
+      "views": 290317,
+      "reposts": 504,
+      "featured": true
+    },
+    {
+      "id": "2108044719981056384",
+      "handle": "SPAregions",
+      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على عسير، الباحة، مكة المكرمة، كذلك على حائل، تبوك، الجوف، الحدود الشمالية، وتكون خفيفة إلى متوسطة على المدينة المنورة والشرقية.\n#واس",
+      "createdAt": "2026-10-08T04:00:01Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUE2eLmXEAArERA.jpg"
+        }
+      ],
+      "likes": 14,
+      "views": 37499,
+      "reposts": 9,
+      "featured": false
+    },
     {
       "id": "2107960126347092412",
       "handle": "SPAregions",
@@ -15,9 +128,9 @@
           "url": "https://video.twimg.com/amplify_video/2107959360148144128/vid/avc1/720x1280/0xNmwSn6pLBovvDy.mp4"
         }
       ],
-      "likes": 9,
-      "views": 33427,
-      "reposts": 6,
+      "likes": 15,
+      "views": 46393,
+      "reposts": 11,
       "featured": false
     },
     {
@@ -47,9 +160,9 @@
           "url": "https://pbs.twimg.com/media/HUD2GSVXgAAAjjj.jpg"
         }
       ],
-      "likes": 15,
-      "views": 30969,
-      "reposts": 3,
+      "likes": 32,
+      "views": 47994,
+      "reposts": 7,
       "featured": false
     },
     {
@@ -67,9 +180,9 @@
           "url": "https://pbs.twimg.com/media/HUDvcz3WkAA1oON.jpg"
         }
       ],
-      "likes": 16,
-      "views": 33328,
-      "reposts": 6,
+      "likes": 29,
+      "views": 51748,
+      "reposts": 10,
       "featured": false
     },
     {
@@ -87,9 +200,9 @@
           "url": "https://pbs.twimg.com/media/HUDvAtwWEAAY_s1.jpg"
         }
       ],
-      "likes": 13,
-      "views": 29910,
-      "reposts": 9,
+      "likes": 24,
+      "views": 41753,
+      "reposts": 15,
       "featured": false
     },
     {
@@ -118,41 +231,9 @@
           "url": "https://pbs.twimg.com/media/HUDu3guWsAAW0ab.jpg"
         }
       ],
-      "likes": 3,
-      "views": 28290,
+      "likes": 4,
+      "views": 36153,
       "reposts": 0,
-      "featured": false
-    },
-    {
-      "id": "2107946133754691632",
-      "handle": "SPAregions",
-      "text": "أمير منطقة حائل يرعى حفل تدشين الملتقى القانوني لقطاع الأعمال.\nhttps://www.spa.gov.sa/ar/w2695972\n#واس",
-      "createdAt": "2026-10-07T21:28:16Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDtVwmWMAAVexG.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDtXBeWYAAznqi.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDtYRMW0AI_lN2.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDtankX0AAGxCK.jpg"
-        }
-      ],
-      "likes": 8,
-      "views": 33488,
-      "reposts": 3,
       "featured": false
     },
     {
@@ -179,121 +260,6 @@
       "featured": true
     },
     {
-      "id": "2107930661466042678",
-      "handle": "SPAregions",
-      "text": "سمو الأمير تركي بن محمد بن فهد يزور جناح وزارة الداخلية في معرض الصقور والصيد السعودي الدولي 2026.\nhttps://www.spa.gov.sa/N2695979\n#واس",
-      "createdAt": "2026-10-07T20:26:47Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDfsfmW4AAhVg3.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDftjPXIAAPfRr.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDfu5HWUAAisS0.jpg"
-        }
-      ],
-      "likes": 28,
-      "views": 38636,
-      "reposts": 11,
-      "featured": false
-    },
-    {
-      "id": "2107930139061260492",
-      "handle": "SPAregions",
-      "text": "محافظ الطائف يشارك في الحملة الوطنية بالتبرع بالدم.\nhttps://www.spa.gov.sa/N2695977\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-07T20:24:43Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDfPAyWYAAZFfo.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDfPA4XQAAvuFM.jpg"
-        }
-      ],
-      "likes": 17,
-      "views": 30102,
-      "reposts": 14,
-      "featured": false
-    },
-    {
-      "id": "2107929813285793973",
-      "handle": "SPAregions",
-      "text": "نائب أمير منطقة مكة المكرمة يتبرع بالدم دعمًا للحملة الوطنية السنوية.\nhttps://www.spa.gov.sa/N2695956\n#حملة_ولي_العهد_للتبرع_بالدم\n#واس",
-      "createdAt": "2026-10-07T20:23:25Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDX_s_XMAAjEOE.jpg"
-        }
-      ],
-      "likes": 14,
-      "views": 27448,
-      "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2107929754284290379",
-      "handle": "SPAregions",
-      "text": "محافظ جدة يشارك في الحملة الوطنية السنوية للتبرع بالدم التي أطلقها سمو ولي العهد.\nhttps://www.spa.gov.sa/N2695950\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-07T20:23:11Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDYtc5WsAA2776.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDYuXfWAAAsMuX.jpg"
-        }
-      ],
-      "likes": 14,
-      "views": 28951,
-      "reposts": 1,
-      "featured": false
-    },
-    {
-      "id": "2107922833389256931",
-      "handle": "SPAregions",
-      "text": "برعاية سمو أمين منطقة الرياض.. أمانة المنطقة توقّع مذكرتي تعاون مع \"غرفة الرياض\" و\"منشآت\".\nhttps://www.spa.gov.sa/N2695935\n#واس",
-      "createdAt": "2026-10-07T19:55:41Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUDYi7cWwAE8LB7.jpg"
-        }
-      ],
-      "likes": 5,
-      "views": 29801,
-      "reposts": 0,
-      "featured": false
-    },
-    {
       "id": "2107829488017125688",
       "handle": "KSAMOFA",
       "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفيرة جمهورية العراق لدى المملكة السيدة صفية طالب السهيل، ويستعرضان العلاقات الثنائية بين البلدين.",
@@ -307,9 +273,9 @@
           "url": "https://pbs.twimg.com/media/HUCDvMEXYAEBQxD.jpg"
         }
       ],
-      "likes": 102,
-      "views": 57663,
-      "reposts": 21,
+      "likes": 113,
+      "views": 63802,
+      "reposts": 23,
       "featured": false
     },
     {
@@ -326,9 +292,9 @@
           "url": "https://pbs.twimg.com/media/HUCDqZjWsAA72Vx.jpg"
         }
       ],
-      "likes": 58,
-      "views": 30823,
-      "reposts": 10,
+      "likes": 62,
+      "views": 33147,
+      "reposts": 12,
       "featured": false
     },
     {
@@ -345,9 +311,9 @@
           "url": "https://pbs.twimg.com/media/HUCDJ04WwAANry_.jpg"
         }
       ],
-      "likes": 66,
-      "views": 34782,
-      "reposts": 13,
+      "likes": 74,
+      "views": 37833,
+      "reposts": 14,
       "featured": false
     },
     {
@@ -364,8 +330,8 @@
           "url": "https://pbs.twimg.com/media/HUCByR-WEAANTxV.jpg"
         }
       ],
-      "likes": 106,
-      "views": 39668,
+      "likes": 117,
+      "views": 44004,
       "reposts": 17,
       "featured": false
     },
@@ -383,28 +349,9 @@
           "url": "https://pbs.twimg.com/media/HUCBAVWW8AEwiIV.jpg"
         }
       ],
-      "likes": 92,
-      "views": 31259,
-      "reposts": 17,
-      "featured": false
-    },
-    {
-      "id": "2107682329309450551",
-      "handle": "SPAregions",
-      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على جازان، عسير، الباحة، مكة المكرمة، وتكون خفيفة إلى متوسطة على المدينة المنورة، حائل، تبوك، الجوف، الحدود الشمالية. وتكون الضباب الكثيف على الشرقية، وسحب رعدية ممطرة على الأجزاء الجنوبية منها.\n #واس",
-      "createdAt": "2026-10-07T04:00:00Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HT_l7yEWsAA4rl2.jpg"
-        }
-      ],
-      "likes": 25,
-      "views": 37925,
-      "reposts": 9,
+      "likes": 96,
+      "views": 33668,
+      "reposts": 19,
       "featured": false
     },
     {
@@ -449,9 +396,9 @@
           "url": "https://pbs.twimg.com/media/HT-pr1gXsAAfU77.jpg"
         }
       ],
-      "likes": 1627,
-      "views": 561920,
-      "reposts": 816,
+      "likes": 1641,
+      "views": 566832,
+      "reposts": 818,
       "featured": true
     },
     {
@@ -464,9 +411,9 @@
         "royal"
       ],
       "media": [],
-      "likes": 434,
-      "views": 247176,
-      "reposts": 330,
+      "likes": 439,
+      "views": 249972,
+      "reposts": 333,
       "featured": false
     },
     {
@@ -479,9 +426,9 @@
         "royal"
       ],
       "media": [],
-      "likes": 479,
-      "views": 233038,
-      "reposts": 370,
+      "likes": 484,
+      "views": 235551,
+      "reposts": 372,
       "featured": false
     },
     {
@@ -503,9 +450,9 @@
           "url": "https://pbs.twimg.com/media/HT9x7bXX0AEfr0H.jpg"
         }
       ],
-      "likes": 8685,
-      "views": 2817075,
-      "reposts": 6021,
+      "likes": 8784,
+      "views": 2862472,
+      "reposts": 6062,
       "featured": true
     },
     {
@@ -523,8 +470,8 @@
           "url": "https://pbs.twimg.com/media/HT9b8tkXIAAcweJ.jpg"
         }
       ],
-      "likes": 112,
-      "views": 55590,
+      "likes": 115,
+      "views": 56345,
       "reposts": 39,
       "featured": false
     },
@@ -543,10 +490,10 @@
           "url": "https://pbs.twimg.com/media/HT9Y-urWUAAQQOm.jpg"
         }
       ],
-      "likes": 167,
-      "views": 36568,
+      "likes": 171,
+      "views": 37024,
       "reposts": 67,
-      "featured": true
+      "featured": false
     },
     {
       "id": "2107499306689413622",
@@ -563,8 +510,8 @@
           "url": "https://pbs.twimg.com/media/HT9Xch7XoAANyWs.jpg"
         }
       ],
-      "likes": 131,
-      "views": 38423,
+      "likes": 132,
+      "views": 38802,
       "reposts": 31,
       "featured": false
     },
@@ -583,10 +530,68 @@
           "url": "https://video.twimg.com/amplify_video/2107498672539815936/vid/avc1/1920x1080/yDJDW5CU0vq8krn7.mp4"
         }
       ],
-      "likes": 1650,
-      "views": 1165121,
-      "reposts": 442,
+      "likes": 1651,
+      "views": 1167224,
+      "reposts": 440,
       "featured": true
+    },
+    {
+      "id": "2107498541556101380",
+      "handle": "spagov",
+      "text": "الترقيات في جلسة #مجلس_الوزراء.\n#واس",
+      "createdAt": "2026-10-06T15:49:42Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT9WuakXIAEjrhU.jpg"
+        }
+      ],
+      "likes": 253,
+      "views": 679812,
+      "reposts": 157,
+      "featured": false
+    },
+    {
+      "id": "2107476288097464562",
+      "handle": "KSAMOFA",
+      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يجري اتصالًا هاتفيًا بمعالي وزير الخارجية والتعاون الدولي والمصريين بالخارج في جمهورية مصر العربية الدكتور بدر عبدالعاطي.",
+      "createdAt": "2026-10-06T14:21:16Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT9CgqMWIAEpVP7.jpg"
+        }
+      ],
+      "likes": 521,
+      "views": 48348,
+      "reposts": 91,
+      "featured": false
+    },
+    {
+      "id": "2107475878913679482",
+      "handle": "KSAMOFA",
+      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يجري اتصالًا هاتفيًا بمعالي نائب رئيس الوزراء ووزير الخارجية وشؤون المغتربين في المملكة الأردنية الهاشمية السيد أيمن الصفدي.",
+      "createdAt": "2026-10-06T14:19:39Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HT9CI1BWYAAkckr.jpg"
+        }
+      ],
+      "likes": 150,
+      "views": 44418,
+      "reposts": 54,
+      "featured": false
     }
   ]
 }
