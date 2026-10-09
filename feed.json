@@ -1,6 +1,80 @@
 {
-  "lastUpdated": "2026-10-09T17:06:00+03:00",
+  "lastUpdated": "2026-10-09T22:13:00+03:00",
   "posts": [
+    {
+      "id": "2108622090136125795",
+      "handle": "SPAregions",
+      "text": "موريتانيا تدين الاعتداءات التي استهدفت مطاري الملك خالد الدولي بالرياض وأبها الدولي.\nhttps://www.spa.gov.sa/N2697438\n#واس",
+      "createdAt": "2026-10-09T18:14:17Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 14,
+      "views": 23262,
+      "reposts": 8,
+      "featured": true
+    },
+    {
+      "id": "2108612842765332509",
+      "handle": "SPAregions",
+      "text": "حضور إعلامي دولي وإقليمي واسع في معرض الصقور والصيد السعودي الدولي 2026.\nhttps://www.spa.gov.sa/N2697340\n#واس",
+      "createdAt": "2026-10-09T17:37:32Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUNME-OXkAAc5R4.jpg"
+        }
+      ],
+      "likes": 10,
+      "views": 24259,
+      "reposts": 10,
+      "featured": false
+    },
+    {
+      "id": "2108593904757199110",
+      "handle": "spagov",
+      "text": "تحت رعاية #خادم_الحرمين_الشريفين..\nأمير منطقة الرياض يفتتح الأحد المقبل فعاليات المؤتمر الدولي السابع للإعاقة والتأهيل الذي يتضمن أكبر جائزة عالمية لأبحاث الإعاقة.\nhttps://www.spa.gov.sa/N2697401\n#واس",
+      "createdAt": "2026-10-09T16:22:17Z",
+      "topics": [
+        "royal",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUM6tAZWoAA5ipM.jpg"
+        }
+      ],
+      "likes": 191,
+      "views": 70463,
+      "reposts": 100,
+      "featured": true
+    },
+    {
+      "id": "2108579132049420755",
+      "handle": "SPAregions",
+      "text": "مركز الملك سلمان للإغاثة يوزع مساعدات إيوائية للمتضررين من الفيضانات في مدينة ترسولي بجمهورية نيبال.\nhttps://www.spa.gov.sa/N2697329\n#واس",
+      "createdAt": "2026-10-09T15:23:35Z",
+      "topics": [
+        "royal",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUMtZWrXkAAPxIF.jpg"
+        }
+      ],
+      "likes": 19,
+      "views": 28034,
+      "reposts": 17,
+      "featured": true
+    },
     {
       "id": "2108547980684881976",
       "handle": "SPAregions",
@@ -16,9 +90,9 @@
           "url": "https://pbs.twimg.com/media/HUMRD_rWoAAZTaN.jpg"
         }
       ],
-      "likes": 15,
-      "views": 17282,
-      "reposts": 8,
+      "likes": 31,
+      "views": 30643,
+      "reposts": 17,
       "featured": true
     },
     {
@@ -36,9 +110,9 @@
           "url": "https://pbs.twimg.com/media/HUMLa3sWsAEuIop.jpg"
         }
       ],
-      "likes": 13,
-      "views": 17126,
-      "reposts": 6,
+      "likes": 31,
+      "views": 28139,
+      "reposts": 17,
       "featured": true
     },
     {
@@ -67,9 +141,9 @@
           "url": "https://pbs.twimg.com/media/HUL9tvWWUAAPiw4.jpg"
         }
       ],
-      "likes": 18,
-      "views": 24574,
-      "reposts": 5,
+      "likes": 27,
+      "views": 33587,
+      "reposts": 13,
       "featured": false
     },
     {
@@ -98,9 +172,9 @@
           "url": "https://pbs.twimg.com/media/HUL7gU-W8AAWyCh.jpg"
         }
       ],
-      "likes": 15,
-      "views": 24649,
-      "reposts": 6,
+      "likes": 22,
+      "views": 32304,
+      "reposts": 7,
       "featured": false
     },
     {
@@ -113,9 +187,9 @@
         "local"
       ],
       "media": [],
-      "likes": 18,
-      "views": 24968,
-      "reposts": 7,
+      "likes": 21,
+      "views": 32080,
+      "reposts": 9,
       "featured": false
     },
     {
@@ -144,9 +218,9 @@
           "url": "https://pbs.twimg.com/media/HULxtiCXoAADuIx.jpg"
         }
       ],
-      "likes": 51,
-      "views": 27471,
-      "reposts": 20,
+      "likes": 92,
+      "views": 34982,
+      "reposts": 26,
       "featured": false
     },
     {
@@ -163,9 +237,9 @@
           "url": "https://pbs.twimg.com/media/HULucYDWIAAWrvB.jpg"
         }
       ],
-      "likes": 31,
-      "views": 27224,
-      "reposts": 36,
+      "likes": 42,
+      "views": 32754,
+      "reposts": 50,
       "featured": false
     },
     {
@@ -185,26 +259,6 @@
       "likes": 54,
       "views": 26327,
       "reposts": 55,
-      "featured": true
-    },
-    {
-      "id": "2108507678737874994",
-      "handle": "SPAregions",
-      "text": "رئيس مجلس الشورى: تبرع سمو ولي العهد بالدم وإطلاق الحملة الوطنية السنوية للتبرع بالدم رسالة تجسد قيم العطاء.\nhttps://www.spa.gov.sa/ar/w2697174\n#حملة_ولي_العهد_للتبرع_بالدم\n#واس",
-      "createdAt": "2026-10-09T10:39:39Z",
-      "topics": [
-        "royal",
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HULsjovXoAAN8CW.jpg"
-        }
-      ],
-      "likes": 17,
-      "views": 26794,
-      "reposts": 6,
       "featured": true
     },
     {
@@ -275,26 +329,6 @@
       "featured": true
     },
     {
-      "id": "2108467815393173737",
-      "handle": "SPAregions",
-      "text": "رئيس \"الأمر بالمعروف\" يشارك في الحملة الوطنية للتبرع بالدم التي أطلقها سمو ولي العهد.\nhttps://www.spa.gov.sa/ar/w2697105\n#واس",
-      "createdAt": "2026-10-09T08:01:15Z",
-      "topics": [
-        "royal",
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HULILVoWcAAho2m.jpg"
-        }
-      ],
-      "likes": 44,
-      "views": 35228,
-      "reposts": 10,
-      "featured": false
-    },
-    {
       "id": "2108407108781928621",
       "handle": "SPAregions",
       "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على جازان، عسير، الباحة، مكة المكرمة، تبوك، الجوف، الحدود الشمالية، وتكون خفيفة إلى متوسطة على المدينة المنورة وحائل. وسحب رعدية ممطرة على الشرقية وتكون الضباب على الأجزاء الساحلية منها.\n#واس",
@@ -314,69 +348,18 @@
       "featured": true
     },
     {
-      "id": "2108339919005634925",
-      "handle": "SPAregions",
-      "text": "رئيس ديوان المظالم يشارك في الحملة الوطنية للتبرع بالدم.\nhttps://www.spa.gov.sa/ar/w2697019\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-08T23:33:02Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUJT05iXMAAdt9i.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUJT4VJWsAESyjl.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUJT5SiXEAABEIV.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUJT7UlWIAA65wV.jpg"
-        }
-      ],
-      "likes": 76,
-      "views": 65433,
-      "reposts": 17,
-      "featured": true
-    },
-    {
       "id": "2108334703073734921",
       "handle": "SPAregions",
       "text": "بريطانيا تدين بشدة اعتداءات ميليشيا الحوثي على مطاري أبها والملك خالد الدوليين.\nhttps://www.spa.gov.sa/ar/w2697006\n#واس",
       "createdAt": "2026-10-08T23:12:18Z",
       "topics": [
-        "local",
-        "diplomacy"
+        "diplomacy",
+        "local"
       ],
       "media": [],
       "likes": 35,
       "views": 55955,
       "reposts": 14,
-      "featured": false
-    },
-    {
-      "id": "2108313436224733246",
-      "handle": "SPAregions",
-      "text": "البنك الدولي يشيد بتجربة المملكة في تطوير نماذج الذكاء الاصطناعي والقدرات الحاسوبية وحوكمتها ويعدّها مرجعًا عالميًا في هذا المجال.\nhttps://www.spa.gov.sa/ar/w2697009\n#واس",
-      "createdAt": "2026-10-08T21:47:48Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUI70kmW0AAdOuT.jpg"
-        }
-      ],
-      "likes": 45,
-      "views": 46144,
-      "reposts": 22,
       "featured": false
     },
     {
@@ -393,9 +376,9 @@
           "url": "https://pbs.twimg.com/media/HUILkUkXgAA2-uC.jpg"
         }
       ],
-      "likes": 417,
-      "views": 78179,
-      "reposts": 90,
+      "likes": 447,
+      "views": 107741,
+      "reposts": 98,
       "featured": true
     },
     {
@@ -412,9 +395,9 @@
           "url": "https://pbs.twimg.com/media/HUHuB2uWMAA5I8Z.jpg"
         }
       ],
-      "likes": 194,
-      "views": 45451,
-      "reposts": 72,
+      "likes": 198,
+      "views": 49381,
+      "reposts": 73,
       "featured": false
     },
     {
@@ -431,8 +414,8 @@
           "url": "https://pbs.twimg.com/media/HUHqHXXXUAE12gc.jpg"
         }
       ],
-      "likes": 73,
-      "views": 39613,
+      "likes": 81,
+      "views": 41948,
       "reposts": 23,
       "featured": false
     },
@@ -458,9 +441,9 @@
           "url": "https://pbs.twimg.com/media/HUHGGsFXYAAt2YQ.jpg"
         }
       ],
-      "likes": 507,
-      "views": 166948,
-      "reposts": 255,
+      "likes": 517,
+      "views": 172192,
+      "reposts": 263,
       "featured": true
     },
     {
@@ -478,9 +461,9 @@
           "url": "https://pbs.twimg.com/media/HUHFJ0dW8AAY-Gg.jpg"
         }
       ],
-      "likes": 1303,
-      "views": 453159,
-      "reposts": 473,
+      "likes": 1315,
+      "views": 464080,
+      "reposts": 483,
       "featured": true
     },
     {
@@ -497,9 +480,9 @@
           "url": "https://pbs.twimg.com/media/HUG10K1XAAABYu-.jpg"
         }
       ],
-      "likes": 84,
-      "views": 41262,
-      "reposts": 20,
+      "likes": 87,
+      "views": 42585,
+      "reposts": 21,
       "featured": false
     },
     {
@@ -517,29 +500,9 @@
           "url": "https://pbs.twimg.com/media/HUGx4x3XUAAdZSF.jpg"
         }
       ],
-      "likes": 121,
-      "views": 38073,
+      "likes": 123,
+      "views": 39244,
       "reposts": 35,
-      "featured": true
-    },
-    {
-      "id": "2108140279924731915",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الدكتورة جوستينا شيروكا ـ بولا بمناسبة فوزها في الانتخابات الرئاسية وأدائها اليمين الدستورية رئيسةً لجمهورية كوسوفا.\n#واس",
-      "createdAt": "2026-10-08T10:19:44Z",
-      "topics": [
-        "royal",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUGeXKGWYAAJk9H.jpg"
-        }
-      ],
-      "likes": 217,
-      "views": 138411,
-      "reposts": 73,
       "featured": true
     },
     {
@@ -556,9 +519,9 @@
           "url": "https://pbs.twimg.com/media/HUFZjhsXgAAGv8H.jpg"
         }
       ],
-      "likes": 1259,
-      "views": 497671,
-      "reposts": 530,
+      "likes": 1108,
+      "views": 502693,
+      "reposts": 533,
       "featured": true
     }
   ]
