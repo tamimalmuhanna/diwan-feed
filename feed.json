@@ -1,6 +1,25 @@
 {
-  "lastUpdated": "2026-10-09T04:05:00+03:00",
+  "lastUpdated": "2026-10-09T10:14:00+03:00",
   "posts": [
+    {
+      "id": "2108407108781928621",
+      "handle": "SPAregions",
+      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على جازان، عسير، الباحة، مكة المكرمة، تبوك، الجوف، الحدود الشمالية، وتكون خفيفة إلى متوسطة على المدينة المنورة وحائل. وسحب رعدية ممطرة على الشرقية وتكون الضباب على الأجزاء الساحلية منها.\n#واس",
+      "createdAt": "2026-10-09T04:00:01Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUJLHVGWkAAWkgk.jpg"
+        }
+      ],
+      "likes": 7,
+      "views": 22122,
+      "reposts": 5,
+      "featured": true
+    },
     {
       "id": "2108339919005634925",
       "handle": "SPAregions",
@@ -28,9 +47,9 @@
           "url": "https://pbs.twimg.com/media/HUJT7UlWIAA65wV.jpg"
         }
       ],
-      "likes": 21,
-      "views": 22757,
-      "reposts": 7,
+      "likes": 48,
+      "views": 45248,
+      "reposts": 13,
       "featured": true
     },
     {
@@ -43,9 +62,9 @@
         "diplomacy"
       ],
       "media": [],
-      "likes": 12,
-      "views": 20559,
-      "reposts": 9,
+      "likes": 23,
+      "views": 36988,
+      "reposts": 11,
       "featured": false
     },
     {
@@ -62,9 +81,9 @@
           "url": "https://pbs.twimg.com/media/HUI70kmW0AAdOuT.jpg"
         }
       ],
-      "likes": 18,
-      "views": 28481,
-      "reposts": 12,
+      "likes": 30,
+      "views": 36617,
+      "reposts": 17,
       "featured": true
     },
     {
@@ -89,9 +108,9 @@
           "url": "https://pbs.twimg.com/media/HUI5TmvW0AEbAsL.jpg"
         }
       ],
-      "likes": 10,
-      "views": 24991,
-      "reposts": 7,
+      "likes": 15,
+      "views": 33177,
+      "reposts": 9,
       "featured": false
     },
     {
@@ -104,9 +123,9 @@
         "diplomacy"
       ],
       "media": [],
-      "likes": 18,
-      "views": 31517,
-      "reposts": 6,
+      "likes": 23,
+      "views": 44586,
+      "reposts": 8,
       "featured": false
     },
     {
@@ -123,9 +142,9 @@
           "url": "https://video.twimg.com/amplify_video/2108284009922908160/vid/avc1/1920x1080/vKQahJRKdBL_OJrc.mp4"
         }
       ],
-      "likes": 97,
-      "views": 39088,
-      "reposts": 61,
+      "likes": 162,
+      "views": 47970,
+      "reposts": 88,
       "featured": true
     },
     {
@@ -138,9 +157,9 @@
         "diplomacy"
       ],
       "media": [],
-      "likes": 17,
-      "views": 31796,
-      "reposts": 6,
+      "likes": 21,
+      "views": 45489,
+      "reposts": 7,
       "featured": false
     },
     {
@@ -158,9 +177,9 @@
           "url": "https://pbs.twimg.com/media/HUIa6LcW0AAHV6a.jpg"
         }
       ],
-      "likes": 9,
-      "views": 31053,
-      "reposts": 2,
+      "likes": 14,
+      "views": 36134,
+      "reposts": 4,
       "featured": false
     },
     {
@@ -173,9 +192,54 @@
         "diplomacy"
       ],
       "media": [],
-      "likes": 21,
-      "views": 32270,
+      "likes": 25,
+      "views": 36842,
+      "reposts": 11,
+      "featured": true
+    },
+    {
+      "id": "2108276307586941025",
+      "handle": "SPAregions",
+      "text": "سلطنةُ عُمان تُدين استهداف مطاري أبها والملك خالد الدّوليين\nhttps://www.spa.gov.sa/N2696882\n#واس",
+      "createdAt": "2026-10-08T19:20:16Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 24,
+      "views": 34775,
       "reposts": 9,
+      "featured": false
+    },
+    {
+      "id": "2108276201538363402",
+      "handle": "SPAregions",
+      "text": "السودان يدين استهداف مطاري أبها والملك خالد الدولي بالمملكة\nhttps://www.spa.gov.sa/N2696901\n#واس",
+      "createdAt": "2026-10-08T19:19:50Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 19,
+      "views": 32964,
+      "reposts": 7,
+      "featured": false
+    },
+    {
+      "id": "2108276105547219205",
+      "handle": "SPAregions",
+      "text": "الأمم المتحدة تدين استمرار اعتداءات الحوثيين على المملكة\nhttps://www.spa.gov.sa/N2696931\n#واس",
+      "createdAt": "2026-10-08T19:19:28Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 69,
+      "views": 33993,
+      "reposts": 30,
       "featured": true
     },
     {
@@ -193,10 +257,29 @@
           "url": "https://pbs.twimg.com/media/HUILkUkXgAA2-uC.jpg"
         }
       ],
-      "likes": 255,
-      "views": 41329,
-      "reposts": 60,
+      "likes": 329,
+      "views": 48206,
+      "reposts": 80,
       "featured": true
+    },
+    {
+      "id": "2108257879149207935",
+      "handle": "SPAregions",
+      "text": "اكتمال الأعمال الرئيسة لجسر طريق الثمامة.. وإتاحته للحركة المرورية صباح غدٍ الجمعة.\nhttps://www.spa.gov.sa/N2696812\n#واس",
+      "createdAt": "2026-10-08T18:07:02Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUIJUMGXMAAxNCg.jpg"
+        }
+      ],
+      "likes": 39,
+      "views": 36507,
+      "reposts": 24,
+      "featured": false
     },
     {
       "id": "2108256108968091757",
@@ -212,9 +295,9 @@
           "url": "https://video.twimg.com/amplify_video/2108220961497464833/vid/avc1/720x1280/YTD9_GvSDTLXiTl7.mp4"
         }
       ],
-      "likes": 3,
-      "views": 7424,
-      "reposts": 1,
+      "likes": 13,
+      "views": 32858,
+      "reposts": 8,
       "featured": false
     },
     {
@@ -231,9 +314,9 @@
           "url": "https://pbs.twimg.com/media/HUIBzPKXYAAmeRV.jpg"
         }
       ],
-      "likes": 9,
-      "views": 16416,
-      "reposts": 7,
+      "likes": 68,
+      "views": 86617,
+      "reposts": 28,
       "featured": false
     },
     {
@@ -252,9 +335,9 @@
           "url": "https://pbs.twimg.com/media/HUH_0CkXoAAIvWr.jpg"
         }
       ],
-      "likes": 30,
-      "views": 20479,
-      "reposts": 12,
+      "likes": 276,
+      "views": 46933,
+      "reposts": 68,
       "featured": true
     },
     {
@@ -271,81 +354,9 @@
           "url": "https://pbs.twimg.com/media/HUH_IgeWgAAYW9g.jpg"
         }
       ],
-      "likes": 7,
-      "views": 17885,
-      "reposts": 9,
-      "featured": false
-    },
-    {
-      "id": "2108246037450174518",
-      "handle": "SPAregions",
-      "text": "\"سير\" تفتتح أول متجر متنقل لها في الدرعية معلنةً بدء استقبال طلبات حجز \"إكزوبوت – أول إصدار\".\nhttps://www.spa.gov.sa/N2696765\n#واس",
-      "createdAt": "2026-10-08T17:19:59Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUH-lX2WcAADZya.jpg"
-        }
-      ],
-      "likes": 8,
-      "views": 17127,
-      "reposts": 7,
-      "featured": false
-    },
-    {
-      "id": "2108241723776462996",
-      "handle": "SPAregions",
-      "text": "الجمعية الوطنية لحقوق الإنسان تدعو إلى إجراءات حازمة لوقف تجنيد الأطفال واستغلالهم من قبل ميليشيا الحوثي الإرهابية في اليمن.\nhttps://www.spa.gov.sa/N2696718\n#واس",
-      "createdAt": "2026-10-08T17:02:50Z",
-      "topics": [
-        "local"
-      ],
-      "media": [],
-      "likes": 8,
-      "views": 20309,
-      "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2108236427578470460",
-      "handle": "SPAregions",
-      "text": "الرئيس التنفيذي للمركز الوطني للأرصاد: استعدادات مبكرة لموسم الأمطار ورفع الجاهزية لمواجهة الظواهر الجوية المحتملة.\nhttps://www.spa.gov.sa/N2696670\n#واس",
-      "createdAt": "2026-10-08T16:41:48Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUH1Us1WoAAwB4H.jpg"
-        }
-      ],
-      "likes": 11,
-      "views": 23006,
-      "reposts": 8,
-      "featured": false
-    },
-    {
-      "id": "2108235067998810373",
-      "handle": "SPAregions",
-      "text": "نائب وزير الخارجية يستقبل سفير بنغلاديش لدى المملكة\nhttps://www.spa.gov.sa/N2696704\n#واس",
-      "createdAt": "2026-10-08T16:36:23Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUH0nZoWcAAKPYQ.jpg"
-        }
-      ],
-      "likes": 6,
-      "views": 22967,
-      "reposts": 0,
+      "likes": 32,
+      "views": 34134,
+      "reposts": 24,
       "featured": false
     },
     {
@@ -363,9 +374,9 @@
           "url": "https://pbs.twimg.com/media/HUHuB2uWMAA5I8Z.jpg"
         }
       ],
-      "likes": 157,
-      "views": 33683,
-      "reposts": 60,
+      "likes": 173,
+      "views": 36246,
+      "reposts": 66,
       "featured": true
     },
     {
@@ -383,8 +394,8 @@
           "url": "https://pbs.twimg.com/media/HUHqHXXXUAE12gc.jpg"
         }
       ],
-      "likes": 58,
-      "views": 31551,
+      "likes": 59,
+      "views": 34340,
       "reposts": 20,
       "featured": false
     },
@@ -411,9 +422,9 @@
           "url": "https://pbs.twimg.com/media/HUHGGsFXYAAt2YQ.jpg"
         }
       ],
-      "likes": 378,
-      "views": 119516,
-      "reposts": 218,
+      "likes": 435,
+      "views": 136325,
+      "reposts": 234,
       "featured": true
     },
     {
@@ -432,9 +443,9 @@
           "url": "https://pbs.twimg.com/media/HUHFJ0dW8AAY-Gg.jpg"
         }
       ],
-      "likes": 1169,
-      "views": 397402,
-      "reposts": 429,
+      "likes": 1246,
+      "views": 426386,
+      "reposts": 453,
       "featured": true
     },
     {
@@ -490,9 +501,9 @@
           "url": "https://pbs.twimg.com/media/HUG10K1XAAABYu-.jpg"
         }
       ],
-      "likes": 71,
-      "views": 36469,
-      "reposts": 19,
+      "likes": 74,
+      "views": 38337,
+      "reposts": 20,
       "featured": false
     },
     {
@@ -510,8 +521,8 @@
           "url": "https://pbs.twimg.com/media/HUGx4x3XUAAdZSF.jpg"
         }
       ],
-      "likes": 104,
-      "views": 34122,
+      "likes": 112,
+      "views": 35484,
       "reposts": 35,
       "featured": false
     },
@@ -530,9 +541,9 @@
           "url": "https://pbs.twimg.com/media/HUGeXKGWYAAJk9H.jpg"
         }
       ],
-      "likes": 195,
-      "views": 124840,
-      "reposts": 66,
+      "likes": 207,
+      "views": 130537,
+      "reposts": 68,
       "featured": false
     },
     {
@@ -550,9 +561,9 @@
           "url": "https://pbs.twimg.com/media/HUFZjhsXgAAGv8H.jpg"
         }
       ],
-      "likes": 1368,
-      "views": 479777,
-      "reposts": 530,
+      "likes": 1253,
+      "views": 488094,
+      "reposts": 534,
       "featured": true
     }
   ]
