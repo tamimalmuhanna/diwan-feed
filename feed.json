@@ -1,6 +1,203 @@
 {
-  "lastUpdated": "2026-10-08T21:06:37+03:00",
+  "lastUpdated": "2026-10-09T04:05:00+03:00",
   "posts": [
+    {
+      "id": "2108339919005634925",
+      "handle": "SPAregions",
+      "text": "رئيس ديوان المظالم يشارك في الحملة الوطنية للتبرع بالدم.\nhttps://www.spa.gov.sa/ar/w2697019\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
+      "createdAt": "2026-10-08T23:33:02Z",
+      "topics": [
+        "local",
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUJT05iXMAAdt9i.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUJT4VJWsAESyjl.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUJT5SiXEAABEIV.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUJT7UlWIAA65wV.jpg"
+        }
+      ],
+      "likes": 21,
+      "views": 22757,
+      "reposts": 7,
+      "featured": true
+    },
+    {
+      "id": "2108334703073734921",
+      "handle": "SPAregions",
+      "text": "بريطانيا تدين بشدة اعتداءات ميليشيا الحوثي على مطاري أبها والملك خالد الدوليين.\nhttps://www.spa.gov.sa/ar/w2697006\n#واس",
+      "createdAt": "2026-10-08T23:12:18Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 12,
+      "views": 20559,
+      "reposts": 9,
+      "featured": false
+    },
+    {
+      "id": "2108313436224733246",
+      "handle": "SPAregions",
+      "text": "البنك الدولي يشيد بتجربة المملكة في تطوير نماذج الذكاء الاصطناعي والقدرات الحاسوبية وحوكمتها ويعدّها مرجعًا عالميًا في هذا المجال.\nhttps://www.spa.gov.sa/ar/w2697009\n#واس",
+      "createdAt": "2026-10-08T21:47:48Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUI70kmW0AAdOuT.jpg"
+        }
+      ],
+      "likes": 18,
+      "views": 28481,
+      "reposts": 12,
+      "featured": true
+    },
+    {
+      "id": "2108313286735511646",
+      "handle": "SPAregions",
+      "text": "بيع ثلاثة صقور بأكثر من مليون ريال في مزاد الصقور المنغولية بمعرض الصقور والصيد.\nhttps://www.spa.gov.sa/ar/w2696985\n#واس",
+      "createdAt": "2026-10-08T21:47:12Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUI5OG5XAAAXxAQ.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUI5QG1WYAMECOr.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUI5TmvW0AEbAsL.jpg"
+        }
+      ],
+      "likes": 10,
+      "views": 24991,
+      "reposts": 7,
+      "featured": false
+    },
+    {
+      "id": "2108288015307087974",
+      "handle": "SPAregions",
+      "text": "الرئاسة الفلسطينية تدين الهجمات الإرهابية على المملكة.\nhttps://www.spa.gov.sa/N2696962\n#واس",
+      "createdAt": "2026-10-08T20:06:47Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 18,
+      "views": 31517,
+      "reposts": 6,
+      "featured": false
+    },
+    {
+      "id": "2108284365352636561",
+      "handle": "SPAregions",
+      "text": "احتفاءً بإطلاق أول سيارة سعودية .. \"سير\" تطلق نسخة \"إكزوبوت\" - أول إصدار\" الحصرية.\n#واس",
+      "createdAt": "2026-10-08T19:52:17Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2108284009922908160/vid/avc1/1920x1080/vKQahJRKdBL_OJrc.mp4"
+        }
+      ],
+      "likes": 97,
+      "views": 39088,
+      "reposts": 61,
+      "featured": true
+    },
+    {
+      "id": "2108277471736947049",
+      "handle": "SPAregions",
+      "text": "الأزهر يدين الاعتداءات على مطاري أبها والملك خالد\nhttps://www.spa.gov.sa/N2696788\n#واس",
+      "createdAt": "2026-10-08T19:24:53Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 17,
+      "views": 31796,
+      "reposts": 6,
+      "featured": false
+    },
+    {
+      "id": "2108277175426408487",
+      "handle": "SPAregions",
+      "text": "وزير الموارد البشرية والتنمية الاجتماعية يرأس وفد المملكة في اجتماعات اللجان الوزارية لمجلس التعاون لدول الخليج العربية بمملكة البحرين\nhttps://www.spa.gov.sa/N2696795\n#واس",
+      "createdAt": "2026-10-08T19:23:43Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUIa6LcW0AAHV6a.jpg"
+        }
+      ],
+      "likes": 9,
+      "views": 31053,
+      "reposts": 2,
+      "featured": false
+    },
+    {
+      "id": "2108276500352880680",
+      "handle": "SPAregions",
+      "text": "قطر تدين استهداف جماعة الحوثي مطاري أبها والملك خالد\nhttps://www.spa.gov.sa/N2696798\n#واس",
+      "createdAt": "2026-10-08T19:21:02Z",
+      "topics": [
+        "local",
+        "diplomacy"
+      ],
+      "media": [],
+      "likes": 21,
+      "views": 32270,
+      "reposts": 9,
+      "featured": true
+    },
+    {
+      "id": "2108260307105984774",
+      "handle": "KSAMOFA",
+      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يتلقى اتصالًا هاتفيًا من معالي وزير الخارجية والتعاون الدولي والمصريين بالخارج في جمهورية مصر العربية الدكتور بدر عبدالعاطي.",
+      "createdAt": "2026-10-08T18:16:41Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUILkUkXgAA2-uC.jpg"
+        }
+      ],
+      "likes": 255,
+      "views": 41329,
+      "reposts": 60,
+      "featured": true
+    },
     {
       "id": "2108256108968091757",
       "handle": "SPAregions",
@@ -166,9 +363,9 @@
           "url": "https://pbs.twimg.com/media/HUHuB2uWMAA5I8Z.jpg"
         }
       ],
-      "likes": 107,
-      "views": 20719,
-      "reposts": 41,
+      "likes": 157,
+      "views": 33683,
+      "reposts": 60,
       "featured": true
     },
     {
@@ -186,9 +383,9 @@
           "url": "https://pbs.twimg.com/media/HUHqHXXXUAE12gc.jpg"
         }
       ],
-      "likes": 41,
-      "views": 19963,
-      "reposts": 11,
+      "likes": 58,
+      "views": 31551,
+      "reposts": 20,
       "featured": false
     },
     {
@@ -214,9 +411,9 @@
           "url": "https://pbs.twimg.com/media/HUHGGsFXYAAt2YQ.jpg"
         }
       ],
-      "likes": 234,
-      "views": 85978,
-      "reposts": 157,
+      "likes": 378,
+      "views": 119516,
+      "reposts": 218,
       "featured": true
     },
     {
@@ -235,33 +432,10 @@
           "url": "https://pbs.twimg.com/media/HUHFJ0dW8AAY-Gg.jpg"
         }
       ],
-      "likes": 786,
-      "views": 262635,
-      "reposts": 320,
+      "likes": 1169,
+      "views": 397402,
+      "reposts": 429,
       "featured": true
-    },
-    {
-      "id": "2108174507198337227",
-      "handle": "SPAregions",
-      "text": "الأمين العام لهيئة كبار العلماء يدشّن المقر الجديد لفرع الرئاسة العامة للبحوث العلمية والإفتاء بمنطقة مكة المكرمة.\nhttps://www.spa.gov.sa/ar/w2696434\n#واس",
-      "createdAt": "2026-10-08T12:35:45Z",
-      "topics": [
-        "local"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG9bnDWoAAXa4_.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG9gZbWMAAA9RS.jpg"
-        }
-      ],
-      "likes": 11,
-      "views": 18237,
-      "reposts": 6,
-      "featured": false
     },
     {
       "id": "2108173897589993925",
@@ -302,92 +476,6 @@
       "featured": true
     },
     {
-      "id": "2108169777302954265",
-      "handle": "SPAregions",
-      "text": "إنجاز طبي جديد.. نجاح عملية فصل التوأم الملتصق المغربي \"سجى وضحى\" بعد ست ساعات.\nhttps://www.spa.gov.sa/ar/w2696453\n#واس",
-      "createdAt": "2026-10-08T12:16:57Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG5MwFWsAAkTxY.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG5N0fXsAATswD.jpg"
-        }
-      ],
-      "likes": 22,
-      "views": 20331,
-      "reposts": 14,
-      "featured": true
-    },
-    {
-      "id": "2108169075977232440",
-      "handle": "SPAregions",
-      "text": "الأمير عبدالعزيز بن سعود ووزير الداخلية البحريني يرأسان الاجتماع الخامس للجنة التنسيق الأمني المنبثقة من مجلس التنسيق السعودي البحريني.\nhttps://www.spa.gov.sa/N2696450\n#واس",
-      "createdAt": "2026-10-08T12:14:10Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG4e5gWYAAOrEM.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG4hNwXEAAkZY9.jpg"
-        },
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG4kJvWUAAzMPD.jpg"
-        }
-      ],
-      "likes": 13,
-      "views": 18870,
-      "reposts": 5,
-      "featured": false
-    },
-    {
-      "id": "2108168456902524994",
-      "handle": "SPAregions",
-      "text": "رئيس البرلمان العربي يؤكد أن هجمات ميليشيا الحوثي ضد المملكة تمثل تهديدًا مباشرًا لأمن المنطقة.\nhttps://www.spa.gov.sa/ar/w2696433\n#واس",
-      "createdAt": "2026-10-08T12:11:42Z",
-      "topics": [
-        "local"
-      ],
-      "media": [],
-      "likes": 3,
-      "views": 13773,
-      "reposts": 2,
-      "featured": false
-    },
-    {
-      "id": "2108167517172809744",
-      "handle": "SPAregions",
-      "text": "نائب أمير المنطقة الشرقية يشارك في الحملة الوطنية للتبرع بالدم التي أطلقها سمو ولي العهد.\nhttps://www.spa.gov.sa/ar/w2696436\n#حملة_ولي_العهد_للتبرع_بالدم \n#واس",
-      "createdAt": "2026-10-08T12:07:58Z",
-      "topics": [
-        "local",
-        "royal"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUG3KTQW0AA_r5C.jpg"
-        }
-      ],
-      "likes": 4,
-      "views": 18920,
-      "reposts": 0,
-      "featured": false
-    },
-    {
       "id": "2108166019856437457",
       "handle": "KSAMOFA",
       "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير المجر لدى المملكة السيد أتيلا تار، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
@@ -402,9 +490,9 @@
           "url": "https://pbs.twimg.com/media/HUG10K1XAAABYu-.jpg"
         }
       ],
-      "likes": 51,
-      "views": 28685,
-      "reposts": 14,
+      "likes": 71,
+      "views": 36469,
+      "reposts": 19,
       "featured": false
     },
     {
@@ -422,9 +510,9 @@
           "url": "https://pbs.twimg.com/media/HUGx4x3XUAAdZSF.jpg"
         }
       ],
-      "likes": 74,
-      "views": 28026,
-      "reposts": 23,
+      "likes": 104,
+      "views": 34122,
+      "reposts": 35,
       "featured": false
     },
     {
@@ -442,9 +530,9 @@
           "url": "https://pbs.twimg.com/media/HUGeXKGWYAAJk9H.jpg"
         }
       ],
-      "likes": 153,
-      "views": 90975,
-      "reposts": 52,
+      "likes": 195,
+      "views": 124840,
+      "reposts": 66,
       "featured": false
     },
     {
@@ -462,109 +550,10 @@
           "url": "https://pbs.twimg.com/media/HUFZjhsXgAAGv8H.jpg"
         }
       ],
-      "likes": 1296,
-      "views": 444354,
-      "reposts": 564,
+      "likes": 1368,
+      "views": 479777,
+      "reposts": 530,
       "featured": true
-    },
-    {
-      "id": "2107829488017125688",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفيرة جمهورية العراق لدى المملكة السيدة صفية طالب السهيل، ويستعرضان العلاقات الثنائية بين البلدين.",
-      "createdAt": "2026-10-07T13:44:46Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUCDvMEXYAEBQxD.jpg"
-        }
-      ],
-      "likes": 128,
-      "views": 73117,
-      "reposts": 29,
-      "featured": false
-    },
-    {
-      "id": "2107829400863699215",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة لشؤون الدبلوماسية العامة الدكتور #رائد_قرملي يستقبل سعادة سفير جمهورية فنلندا لدى المملكة السيد يوكا بايارينين، ويستعرضان سبل تعزيز التعاون والتنسيق بين البلدين الصديقين.",
-      "createdAt": "2026-10-07T13:44:25Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUCDqZjWsAA72Vx.jpg"
-        }
-      ],
-      "likes": 71,
-      "views": 37551,
-      "reposts": 16,
-      "featured": false
-    },
-    {
-      "id": "2107828840147927074",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة لشؤون الدبلوماسية العامة الدكتور #رائد_قرملي يستقبل سعادة سفيرة مملكة السويد لدى المملكة السيدة كارينا ماريا هانكسون، ويستعرضان سبل تعزيز التعاون والتنسيق بين البلدين الصديقين.",
-      "createdAt": "2026-10-07T13:42:11Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUCDJ04WwAANry_.jpg"
-        }
-      ],
-      "likes": 83,
-      "views": 42878,
-      "reposts": 16,
-      "featured": false
-    },
-    {
-      "id": "2107827336041115922",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفيرة الجمهورية الهيلينية لدى المملكة السيدة كاتارينا فارفاريغو، ويبحثان المواضيع ذات الاهتمام المشترك.",
-      "createdAt": "2026-10-07T13:36:13Z",
-      "topics": [
-        "local",
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUCByR-WEAANTxV.jpg"
-        }
-      ],
-      "likes": 135,
-      "views": 51374,
-      "reposts": 21,
-      "featured": false
-    },
-    {
-      "id": "2107826483968225518",
-      "handle": "KSAMOFA",
-      "text": "#الرياض | سعادة وكيل الوزارة لشؤون الدبلوماسية العامة الدكتور #رائد_قرملي يستقبل سعادة سفير جمهورية البرازيل الاتحادية لدى المملكة السيد باولو أوتشوا ريبيرو فيليو، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
-      "createdAt": "2026-10-07T13:32:49Z",
-      "topics": [
-        "diplomacy"
-      ],
-      "media": [
-        {
-          "kind": "photo",
-          "url": "https://pbs.twimg.com/media/HUCBAVWW8AEwiIV.jpg"
-        }
-      ],
-      "likes": 106,
-      "views": 37003,
-      "reposts": 20,
-      "featured": false
     }
   ]
 }
