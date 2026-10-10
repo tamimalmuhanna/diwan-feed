@@ -1,1 +1,589 @@
-{"lastUpdated": "2026-10-10T03:15:00+03:00", "posts": [{"id": "2108708589066211376", "handle": "SPAregions", "text": "مزاد الصقور المنغولية يسجّل أعلى صفقة في تاريخه بـ1.4 مليون ريال.\nhttps://www.spa.gov.sa/N2697567\n#واس", "createdAt": "2026-10-09T23:58:00Z", "topics": ["local"], "media": [{"kind": "photo", "url": "https://pbs.twimg.com/media/HUOc4NDWkAARN7d.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HUOc4P6XkAA_t14.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HUOc4O0XoAAXml-.jpg"}, {"kind": "photo", "url": "https://pbs.twimg.com/media/HUOc4M_WgAE93Y2.jpg"}], "likes": 3, "views": 10928, "reposts": 1, "featured": false}, {"id": "2108701330323787983", "handle": "SPAregions", "text": "الهيئة الدائمة المستقلة لحقوق الإنسان تدين الهجمات الإرهابية الحوثية على المنشآت المدنية في المملكة.\nhttps://www.spa.gov.sa/N2697556\n#واس", "createdAt": "2026-10-09T23:29:09Z", "topics": ["diplomacy", "local"], "media": [], "likes": 4, "views": 17248, "reposts": 3, "featured": false}]}
+{
+  "lastUpdated": "2026-10-10T03:15:00+03:00",
+  "posts": [
+    {
+      "id": "2108708589066211376",
+      "handle": "SPAregions",
+      "text": "مزاد الصقور المنغولية يسجّل أعلى صفقة في تاريخه بـ1.4 مليون ريال.\nhttps://www.spa.gov.sa/N2697567\n#واس",
+      "createdAt": "2026-10-09T23:58:00Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUOc4NDWkAARN7d.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUOc4P6XkAA_t14.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUOc4O0XoAAXml-.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUOc4M_WgAE93Y2.jpg"
+        }
+      ],
+      "likes": 3,
+      "views": 10928,
+      "reposts": 1,
+      "featured": false
+    },
+    {
+      "id": "2108701330323787983",
+      "handle": "SPAregions",
+      "text": "الهيئة الدائمة المستقلة لحقوق الإنسان تدين الهجمات الإرهابية الحوثية على المنشآت المدنية في المملكة.\nhttps://www.spa.gov.sa/N2697556\n#واس",
+      "createdAt": "2026-10-09T23:29:09Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 4,
+      "views": 17248,
+      "reposts": 3,
+      "featured": false
+    },
+    {
+      "id": "2108687118734340473",
+      "handle": "SPAregions",
+      "text": "الإمارات تدين بشدة الهجمات الحوثية على مطار الملك خالد الدولي.\nhttps://www.spa.gov.sa/N2697533\n#واس",
+      "createdAt": "2026-10-09T22:32:41Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 12,
+      "views": 25696,
+      "reposts": 5,
+      "featured": false
+    },
+    {
+      "id": "2108622090136125795",
+      "handle": "SPAregions",
+      "text": "موريتانيا تدين الاعتداءات التي استهدفت مطاري الملك خالد الدولي بالرياض وأبها الدولي.\nhttps://www.spa.gov.sa/N2697438\n#واس",
+      "createdAt": "2026-10-09T18:14:17Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 14,
+      "views": 23262,
+      "reposts": 8,
+      "featured": true
+    },
+    {
+      "id": "2108612842765332509",
+      "handle": "SPAregions",
+      "text": "حضور إعلامي دولي وإقليمي واسع في معرض الصقور والصيد السعودي الدولي 2026.\nhttps://www.spa.gov.sa/N2697340\n#واس",
+      "createdAt": "2026-10-09T17:37:32Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUNME-OXkAAc5R4.jpg"
+        }
+      ],
+      "likes": 10,
+      "views": 24259,
+      "reposts": 10,
+      "featured": false
+    },
+    {
+      "id": "2108593904757199110",
+      "handle": "spagov",
+      "text": "تحت رعاية #خادم_الحرمين_الشريفين..\nأمير منطقة الرياض يفتتح الأحد المقبل فعاليات المؤتمر الدولي السابع للإعاقة والتأهيل الذي يتضمن أكبر جائزة عالمية لأبحاث الإعاقة.\nhttps://www.spa.gov.sa/N2697401\n#واس",
+      "createdAt": "2026-10-09T16:22:17Z",
+      "topics": [
+        "royal",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUM6tAZWoAA5ipM.jpg"
+        }
+      ],
+      "likes": 191,
+      "views": 70463,
+      "reposts": 100,
+      "featured": true
+    },
+    {
+      "id": "2108579132049420755",
+      "handle": "SPAregions",
+      "text": "مركز الملك سلمان للإغاثة يوزع مساعدات إيوائية للمتضررين من الفيضانات في مدينة ترسولي بجمهورية نيبال.\nhttps://www.spa.gov.sa/N2697329\n#واس",
+      "createdAt": "2026-10-09T15:23:35Z",
+      "topics": [
+        "royal",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUMtZWrXkAAPxIF.jpg"
+        }
+      ],
+      "likes": 19,
+      "views": 28034,
+      "reposts": 17,
+      "featured": true
+    },
+    {
+      "id": "2108547980684881976",
+      "handle": "SPAregions",
+      "text": "رابطةُ العالم الإسلامي تُدين مواصلة ميليشيا الحوثي الإرهابية اعتداءاتها الآثمة على المملكة واستهدافها مطار الملك خالد الدولي.\nhttps://www.spa.gov.sa/N2697280\n#واس",
+      "createdAt": "2026-10-09T13:19:48Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUMRD_rWoAAZTaN.jpg"
+        }
+      ],
+      "likes": 31,
+      "views": 30643,
+      "reposts": 17,
+      "featured": true
+    },
+    {
+      "id": "2108543383996420454",
+      "handle": "SPAregions",
+      "text": "الأمين العام لمجلس التعاون: استهداف ميليشيات الحوثي لمطار الملك خالد الدولي جريمة إرهابية مدانة وتجاوز خطير.\nhttps://www.spa.gov.sa/N2697260\n#واس",
+      "createdAt": "2026-10-09T13:01:32Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUMLa3sWsAEuIop.jpg"
+        }
+      ],
+      "likes": 31,
+      "views": 28139,
+      "reposts": 17,
+      "featured": true
+    },
+    {
+      "id": "2108526573330768320",
+      "handle": "SPAregions",
+      "text": "أي وادٍ يصل شمال المدينة المنورة بالبحر الأحمر.\nhttps://www.spa.gov.sa/ar/w2697218\n#واس",
+      "createdAt": "2026-10-09T11:54:44Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL9fZYXYAA37Dr.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL9gkYWIAAVGzt.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL9hVEXwAAQLNN.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL9tvWWUAAPiw4.jpg"
+        }
+      ],
+      "likes": 27,
+      "views": 33587,
+      "reposts": 13,
+      "featured": false
+    },
+    {
+      "id": "2108524129624158445",
+      "handle": "SPAregions",
+      "text": "خطبة الجمعة من المسجد النبوي.\n#واس",
+      "createdAt": "2026-10-09T11:45:01Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL7cX7XsAECs82.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL7dJNWMAA2SH0.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL7eo_WoAE2z-D.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUL7gU-W8AAWyCh.jpg"
+        }
+      ],
+      "likes": 22,
+      "views": 32304,
+      "reposts": 7,
+      "featured": false
+    },
+    {
+      "id": "2108522257739866389",
+      "handle": "SPAregions",
+      "text": "رومانيا تدين بأشد العبارات الهجمات الحوثية التي استهدفت مطاري أبها والملك خالد الدوليين.\nhttps://www.spa.gov.sa/ar/w2697187\n#واس",
+      "createdAt": "2026-10-09T11:37:35Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 21,
+      "views": 32080,
+      "reposts": 9,
+      "featured": false
+    },
+    {
+      "id": "2108513358702162232",
+      "handle": "SPAregions",
+      "text": "خطبة الجمعة من المسجد الحرام.\n#واس",
+      "createdAt": "2026-10-09T11:02:13Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULxjj6W0AA2j8f.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULxofKX0AAXZy8.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULxrH_XAAAynXr.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULxtiCXoAADuIx.jpg"
+        }
+      ],
+      "likes": 92,
+      "views": 34982,
+      "reposts": 26,
+      "featured": false
+    },
+    {
+      "id": "2108509820332462513",
+      "handle": "SPAregions",
+      "text": "الشيخ الدكتور خالد المهنا في خطبة الجمعة من المسجد النبوي: الكلمة الطيبة من أسباب نيل رضوان الله تعالى.\n#واس",
+      "createdAt": "2026-10-09T10:48:10Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULucYDWIAAWrvB.jpg"
+        }
+      ],
+      "likes": 42,
+      "views": 32754,
+      "reposts": 50,
+      "featured": false
+    },
+    {
+      "id": "2108509579969777850",
+      "handle": "SPAregions",
+      "text": "الشيخ عبدالرحمن السديس في خطبة الجمعة من المسجد الحرام: الحذر من استغلال تقنيات الذكاء الاصطناعي في التزوير والتضليل.\n#واس",
+      "createdAt": "2026-10-09T10:47:12Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULuMu0XsAAqYc0.jpg"
+        }
+      ],
+      "likes": 54,
+      "views": 26327,
+      "reposts": 55,
+      "featured": true
+    },
+    {
+      "id": "2108499835150123480",
+      "handle": "SPAregions",
+      "text": "الأردن تدين استهداف ميليشيا الحوثي مطار الملك خالد الدولي.\nhttps://www.spa.gov.sa/ar/w2697165\n#واس",
+      "createdAt": "2026-10-09T10:08:29Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 26,
+      "views": 29949,
+      "reposts": 10,
+      "featured": false
+    },
+    {
+      "id": "2108476549414486303",
+      "handle": "SPAregions",
+      "text": "الطيران المدني: أسفر الاعتداءان عن استشهاد (3) مواطنين سعوديين – رحمهم الله – وإصابة عدد من المواطنين والمقيمين من جنسيات مختلفة؛ تراوحت إصاباتهم من الطفيفة إلى البليغة، وقد تم نقلهم بشكل فوري إلى المستشفى لتلقي الرعاية الطبية اللازمة، هذا ونتج عن الاعتداءين بعض الأضرار المادية.\n#واس",
+      "createdAt": "2026-10-09T08:35:57Z",
+      "topics": [
+        "local"
+      ],
+      "media": [],
+      "likes": 56,
+      "views": 32522,
+      "reposts": 39,
+      "featured": true
+    },
+    {
+      "id": "2108476419382649316",
+      "handle": "SPAregions",
+      "text": "الهيئة العامة للطيران المدني: تعرّض مطار الملك خالد الدولي لاعتداءين، استهدف الاعتداء الأول مرافق المطار، فيما استهدف الاعتداء الثاني طائرة تابعة للخطوط السعودية، وقد باشرت فرق الطوارئ والجهات المختصة التعامل مع الاعتداءين فور وقوعهما وفق الإجراءات والخطط المعتمدة.\n#واس",
+      "createdAt": "2026-10-09T08:35:26Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HULQEv2XkAE2PcC.jpg"
+        }
+      ],
+      "likes": 259,
+      "views": 58541,
+      "reposts": 174,
+      "featured": true
+    },
+    {
+      "id": "2108472384412058087",
+      "handle": "SPAregions",
+      "text": "التحالف: دمرنا 3 منصات إطلاق للصواريخ تستخدمها الميليشيا الحوثية لتهديد الأمن الإقليمي، الاعتداءات الحوثية على المدنيين والأعيان المدنية سيتم الرد عليها بحزم.\n#واس",
+      "createdAt": "2026-10-09T08:19:24Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2108472015434784768/vid/avc1/640x360/9irzaxQaMnDDe0Kz.mp4"
+        }
+      ],
+      "likes": 306,
+      "views": 49913,
+      "reposts": 130,
+      "featured": true
+    },
+    {
+      "id": "2108407108781928621",
+      "handle": "SPAregions",
+      "text": "#الأرصاد: توقعات هطول أمطار رعدية متوسطة إلى غزيرة تؤدي لجريان السيول مصحوبة بزخات من البرد ورياح نشطة على جازان، عسير، الباحة، مكة المكرمة، تبوك، الجوف، الحدود الشمالية، وتكون خفيفة إلى متوسطة على المدينة المنورة وحائل. وسحب رعدية ممطرة على الشرقية وتكون الضباب على الأجزاء الساحلية منها.\n#واس",
+      "createdAt": "2026-10-09T04:00:01Z",
+      "topics": [
+        "local"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUJLHVGWkAAWkgk.jpg"
+        }
+      ],
+      "likes": 17,
+      "views": 40523,
+      "reposts": 10,
+      "featured": true
+    },
+    {
+      "id": "2108334703073734921",
+      "handle": "SPAregions",
+      "text": "بريطانيا تدين بشدة اعتداءات ميليشيا الحوثي على مطاري أبها والملك خالد الدوليين.\nhttps://www.spa.gov.sa/ar/w2697006\n#واس",
+      "createdAt": "2026-10-08T23:12:18Z",
+      "topics": [
+        "diplomacy",
+        "local"
+      ],
+      "media": [],
+      "likes": 35,
+      "views": 55955,
+      "reposts": 14,
+      "featured": false
+    },
+    {
+      "id": "2108260307105984774",
+      "handle": "KSAMOFA",
+      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يتلقى اتصالًا هاتفيًا من معالي وزير الخارجية والتعاون الدولي والمصريين بالخارج في جمهورية مصر العربية الدكتور بدر عبدالعاطي.",
+      "createdAt": "2026-10-08T18:16:41Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUILkUkXgAA2-uC.jpg"
+        }
+      ],
+      "likes": 447,
+      "views": 107741,
+      "reposts": 98,
+      "featured": true
+    },
+    {
+      "id": "2108227824599630295",
+      "handle": "KSAMOFA",
+      "text": "سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يتلقى اتصالًا هاتفيًا من الأمين العام لجامعة الدول العربية السيد نبيل فهمي.",
+      "createdAt": "2026-10-08T16:07:37Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHuB2uWMAA5I8Z.jpg"
+        }
+      ],
+      "likes": 198,
+      "views": 49381,
+      "reposts": 73,
+      "featured": false
+    },
+    {
+      "id": "2108223525517447483",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | معالي نائب وزير الخارجية #وليد_الخريجي @W_Elkhereiji يستقبل سعادة سفير جمهورية بنغلاديش الشعبية لدى المملكة السيد دلوار حسين. \nوجرى خلال الاستقبال، استعراض العلاقات الثنائية بين البلدين، ومناقشة الموضوعات ذات الاهتمام المشترك.",
+      "createdAt": "2026-10-08T15:50:32Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHqHXXXUAE12gc.jpg"
+        }
+      ],
+      "likes": 81,
+      "views": 41948,
+      "reposts": 23,
+      "featured": false
+    },
+    {
+      "id": "2108183930251641141",
+      "handle": "spagov",
+      "text": "إنفاذًا لتوجيهات القيادة.. وصول طائرة إغاثية سعودية يسيّرها مركز الملك سلمان للإغاثة إلى جمهورية نيبال.\nhttps://www.spa.gov.sa/N2696538\n#واس",
+      "createdAt": "2026-10-08T13:13:11Z",
+      "topics": [
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHGA8VWMAA69Y4.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHGA8mWYAAUdIY.jpg"
+        },
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHGGsFXYAAt2YQ.jpg"
+        }
+      ],
+      "likes": 517,
+      "views": 172192,
+      "reposts": 263,
+      "featured": true
+    },
+    {
+      "id": "2108182931617239348",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين يبعث دعوة لرئيس دولة الإمارات العربية المتحدة للمشاركة في القمة الخليجية الأوروبية الثانية.\nhttps://www.spa.gov.sa/N2696530\n#واس",
+      "createdAt": "2026-10-08T13:09:13Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUHFJ0dW8AAY-Gg.jpg"
+        }
+      ],
+      "likes": 1315,
+      "views": 464080,
+      "reposts": 483,
+      "featured": true
+    },
+    {
+      "id": "2108166019856437457",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سعادة وكيل الوزارة للشؤون السياسية السفير الدكتور #سعود_الساطي يستقبل سعادة سفير المجر لدى المملكة السيد أتيلا تار، ويستعرضان الموضوعات ذات الاهتمام المشترك.",
+      "createdAt": "2026-10-08T12:02:01Z",
+      "topics": [
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUG10K1XAAABYu-.jpg"
+        }
+      ],
+      "likes": 87,
+      "views": 42585,
+      "reposts": 21,
+      "featured": false
+    },
+    {
+      "id": "2108161698465042772",
+      "handle": "KSAMOFA",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الدكتورة جوستينا شيروكا ـ بولا بمناسبة فوزها في الانتخابات الرئاسية وأدائها اليمين الدستورية رئيسةً لجمهورية كوسوفا.",
+      "createdAt": "2026-10-08T11:44:51Z",
+      "topics": [
+        "royal",
+        "diplomacy"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUGx4x3XUAAdZSF.jpg"
+        }
+      ],
+      "likes": 123,
+      "views": 39244,
+      "reposts": 35,
+      "featured": true
+    },
+    {
+      "id": "2108064658997588020",
+      "handle": "spagov",
+      "text": "إنفاذًا لتوجيهات #خادم_الحرمين_الشريفين وسمو #ولي_العهد..\nبدء عملية فصل التوأم الملتصق المغربي \"سجى وضحى\" بمستشفى الملك عبدالله التخصصي للأطفال في الرياض.\nhttps://www.spa.gov.sa/N2696156\n#واس",
+      "createdAt": "2026-10-08T05:19:15Z",
+      "topics": [
+        "royal"
+      ],
+      "media": [
+        {
+          "kind": "photo",
+          "url": "https://pbs.twimg.com/media/HUFZjhsXgAAGv8H.jpg"
+        }
+      ],
+      "likes": 1108,
+      "views": 502693,
+      "reposts": 533,
+      "featured": true
+    }
+  ]
+}
