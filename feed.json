@@ -1,6 +1,69 @@
 {
-  "LAST_UPDATED": "2026-10-18T02:12:00+03:00",
+  "LAST_UPDATED": "2026-10-18T07:15:00+03:00",
   "posts": [
+    {
+      "id": "2111652209410838682",
+      "author": "Foreign Ministry 🇸🇦",
+      "handle": "KSAmofaEN",
+      "text": "🇸🇦📞🇯🇴 | Foreign Minister HH Prince @FaisalbinFarhan received a phone call from Jordan’s Deputy Prime Minister and Foreign Minister Ayman Safadi.",
+      "timestamp": "2026-10-18T02:54:53Z",
+      "url": "https://x.com/KSAmofaEN/status/2111652209410838682",
+      "media": true
+    },
+    {
+      "id": "2111645945368899886",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "A Chinese court sentenced a kindergarten operator to life imprisonment on Friday after 247 preschool children were found to have abnormally high blood lead levels from consuming food contaminated with toxic substances.\nhttps://saudigazette.com.sa/article/665483/world/china-kindergarten-operator-jailed-for-life-after-247-children-suffer-lead-poisoning",
+      "timestamp": "2026-10-18T02:30:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111645945368899886",
+      "media": false
+    },
+    {
+      "id": "2111617096899838216",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#VIDEO: Protesters loot a Louis Vuitton store in Bordeaux, France, amid ongoing unrest across the country.",
+      "timestamp": "2026-10-18T00:35:22Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111617096899838216",
+      "media": true
+    },
+    {
+      "id": "2111615371807699170",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#VIDEO: The bell tower of Limoges’ historic 143-year-old City Hall collapses after a fire reportedly set by protesters engulfed the building during nationwide demonstrations in France.",
+      "timestamp": "2026-10-18T00:28:31Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111615371807699170",
+      "media": true
+    },
+    {
+      "id": "2111612825521017331",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#BREAKING: Coalition intercepts and destroys a drone in the Riyadh region.",
+      "timestamp": "2026-10-18T00:18:24Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111612825521017331",
+      "media": true
+    },
+    {
+      "id": "2111611034595418387",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#BREAKING: Coalition intercepts and destroys a drone in Saudi Arabia’s Eastern Province.",
+      "timestamp": "2026-10-18T00:11:17Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111611034595418387",
+      "media": true
+    },
+    {
+      "id": "2111608196716491087",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "India's Supreme Court has ruled that children, regardless of age, have a fundamental right to access and use the internet, stressing that protecting minors from online harm must not come at the expense of their constitutional freedoms.\nhttps://saudigazette.com.sa/article/665480/world/indias-supreme-court-rules-internet-access-is-a-fundamental-right-for-children",
+      "timestamp": "2026-10-18T00:00:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111608196716491087",
+      "media": false
+    },
     {
       "id": "2111588707669094517",
       "author": "Saudi Gazette",
@@ -65,33 +128,6 @@
       "media": true
     },
     {
-      "id": "2111564526189457826",
-      "author": "الدفاع المدني السعودي",
-      "handle": "SaudiDCD",
-      "text": "تم إطلاق إنذار من المنصة الوطنية للإنذار المبكر في حالات الطوارئ في مدينة أبها للتحذير من خطر، اتبع الآتي:\n\nA warning has been issued by the National Early Warning Platform in Abha City to alert of a potential danger. Please follow the instructions below:",
-      "timestamp": "2026-10-17T21:06:28Z",
-      "url": "https://x.com/SaudiDCD/status/2111564526189457826",
-      "media": true
-    },
-    {
-      "id": "2111564405469241563",
-      "author": "الدفاع المدني السعودي",
-      "handle": "SaudiDCD",
-      "text": "تم إطلاق إنذار من المنصة الوطنية للإنذار المبكر في حالات الطوارئ في مدينة الرياض للتحذير من خطر، اتبع الآتي:\n\nA warning has been issued by the National Early Warning Platform in Riyadh City to alert of a potential danger. Please follow the instructions below:",
-      "timestamp": "2026-10-17T21:05:59Z",
-      "url": "https://x.com/SaudiDCD/status/2111564405469241563",
-      "media": true
-    },
-    {
-      "id": "2111564155463340515",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "#FRONTPAGE: El-Sisi: Egypt ready to take all necessary measures to defend Saudi Arabia",
-      "timestamp": "2026-10-17T21:05:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111564155463340515",
-      "media": true
-    },
-    {
       "id": "2111557243514781879",
       "author": "ديوان المظالم",
       "handle": "saudibogrv",
@@ -108,33 +144,6 @@
       "timestamp": "2026-10-17T19:45:00Z",
       "url": "https://x.com/MOISaudiArabia/status/2111544022665929215",
       "media": true
-    },
-    {
-      "id": "2111450169921417505",
-      "author": "الدفاع المدني السعودي",
-      "handle": "SaudiDCD",
-      "text": "خدمة تمديد مدة تراخيص الدفاع المدني عبر #بوابة_سلامة .",
-      "timestamp": "2026-10-17T13:32:04Z",
-      "url": "https://x.com/SaudiDCD/status/2111450169921417505",
-      "media": true
-    },
-    {
-      "id": "2111463070690082894",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "#BREAKING: Coalition intercepts and destroys four drones over Saudi Arabia’s Riyadh, Eastern and southern regions in the past few hours.",
-      "timestamp": "2026-10-17T14:23:19Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111463070690082894",
-      "media": true
-    },
-    {
-      "id": "2111480407971750314",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "President of Senegal Bassirou Diomaye Faye has awarded Saudi Ambassador to Kenya Saad Al-Nofaia the rank of Commander of the National Order of the Lion, one of Senegal's highest national honors.\nhttps://saudigazette.com.sa/article/665487/saudi-arabia/saudi-ambassador-awarded-with-senegals-highest-national-honor",
-      "timestamp": "2026-10-17T15:32:13Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111480407971750314",
-      "media": false
     },
     {
       "id": "2111487055272222722",
@@ -155,48 +164,12 @@
       "media": true
     },
     {
-      "id": "2111494334952689677",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "Prime Minister of Pakistan Muhammad Shehbaz Sharif received the new Saudi Ambassador to Pakistan Dr. Rajeh Albugamy in Islamabad on Friday.\nhttps://saudigazette.com.sa/article/665489/saudi-arabia/pakistani-pm-sharif-receives-new-saudi-ambassador",
-      "timestamp": "2026-10-17T16:27:33Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111494334952689677",
-      "media": false
-    },
-    {
-      "id": "2111412446976196824",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "#VIDEO: Egyptian President Abdel Fattah El-Sisi says his country will take “whatever measures are necessary” to protect Saudi Arabia.",
-      "timestamp": "2026-10-17T11:02:10Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111412446976196824",
-      "media": true
-    },
-    {
-      "id": "2111409766123888855",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "#VIDEO: From waiting in an airport queue to holding each other in fear. Emotional footage captures a mother and daughter at King Khalid International Airport in Riyadh before and after the Houthi attack, showing them embracing amid scenes of panic and distress.",
-      "timestamp": "2026-10-17T10:51:30Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111409766123888855",
-      "media": true
-    },
-    {
       "id": "2111396807398044014",
       "author": "وزارة الداخلية",
       "handle": "MOISaudiArabia",
       "text": "خلال أسبوع.. ضبط 13822 مخالفًا لأنظمة الإقامة والعمل وأمن الحدود.\n\n#وطن_بلا_مخالف",
       "timestamp": "2026-10-17T10:00:01Z",
       "url": "https://x.com/MOISaudiArabia/status/2111396807398044014",
-      "media": true
-    },
-    {
-      "id": "2111396874624331956",
-      "author": "الدفاع المدني السعودي",
-      "handle": "SaudiDCD",
-      "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #الباحة .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
-      "timestamp": "2026-10-17T10:00:17Z",
-      "url": "https://x.com/SaudiDCD/status/2111396874624331956",
       "media": true
     },
     {
@@ -209,31 +182,40 @@
       "media": true
     },
     {
-      "id": "2111389254408606125",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "European Union leaders rallied around President Volodymyr Zelensky at a summit ​ on Friday as US President Donald Trump fired another salvo at Ukraine, calling its strikes on Russian refineries a \"disgrace\".\nhttps://saudigazette.com.sa/article/665473/world/zelensky-rallies-eu-support-as-trump-says-ukraine-leader-more-difficult-to-deal-with-than-putin",
-      "timestamp": "2026-10-17T09:30:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111389254408606125",
-      "media": false
+      "id": "2111111979440206208",
+      "author": "واس الأخبار الملكية",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين يصدر أمرًا ملكيًا بترقية وتعيين 26 قاضيًا بديوان المظالم.\nhttps://www.spa.gov.sa/N2703090\n#واس",
+      "timestamp": "2026-10-16T15:08:13Z",
+      "url": "https://x.com/spagov/status/2111111979440206208",
+      "media": true
     },
     {
-      "id": "2111374154847129758",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "At least 12 people died after a boat carrying an unknown number of migrants sank off the coast of Gambia, the Red Cross said.\nhttps://saudigazette.com.sa/article/665472/world/migrant-boat-sinks-off-gambia-killing-at-least-12",
-      "timestamp": "2026-10-17T08:30:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111374154847129758",
-      "media": false
+      "id": "2111034460158525761",
+      "author": "ديوان المظالم",
+      "handle": "saudibogrv",
+      "text": "خادم الحرمين الشريفين يصدر أمرًا ملكيًا بترقية وتعيين (26) قاضيًا في #ديوان_المظالم",
+      "timestamp": "2026-10-16T10:00:11Z",
+      "url": "https://x.com/saudibogrv/status/2111034460158525761",
+      "media": true
     },
     {
-      "id": "2111344205935108338",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "New White House press secretary Katie Zacharia said on Thursday she did ​ not pass the bar exam after facing scrutiny ­ about her legal career before becoming the top spokeswoman for US President Donald Trump.\nhttps://saudigazette.com.sa/article/665471/world/white-house-press-secretary-katie-zacharia-admits-she-didnt-pass-bar-exam",
-      "timestamp": "2026-10-17T06:31:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2111344205935108338",
-      "media": false
+      "id": "2111171835358573020",
+      "author": "وزارة الصحة السعودية",
+      "handle": "SaudiMOH",
+      "text": "الكشف المبكر عن سرطان الثدي يختصر الطريق للشفاء، ويمنح العلاج فرصة أكبر للنجاح -بإذن الله-.\n#دربك_وردي",
+      "timestamp": "2026-10-16T19:06:03Z",
+      "url": "https://x.com/SaudiMOH/status/2111171835358573020",
+      "media": true
+    },
+    {
+      "id": "2111064158045360484",
+      "author": "واس الأخبار الملكية",
+      "handle": "spagov",
+      "text": "#الديوان_الملكي: وفاة صاحبة السمو الأميرة الجوهره بنت فهد بن مشاري بن سعود بن جلوي آل سعود، وسيصلى عليها - إن شاء الله - يوم غدٍ السبت، بعد صلاة العصر في جامع الإمام تركي بن عبدالله في مدينة الرياض.\n#واس",
+      "timestamp": "2026-10-16T11:58:11Z",
+      "url": "https://x.com/spagov/status/2111064158045360484",
+      "media": true
     },
     {
       "id": "2111197008472019173",
@@ -243,15 +225,6 @@
       "timestamp": "2026-10-16T20:46:05Z",
       "url": "https://x.com/KSAmofaEN/status/2111197008472019173",
       "media": false
-    },
-    {
-      "id": "2111111979440206208",
-      "author": "واس الأخبار الملكية",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين يصدر أمرًا ملكيًا بترقية وتعيين 26 قاضيًا بديوان المظالم.\nhttps://www.spa.gov.sa/N2703090\n#واس",
-      "timestamp": "2026-10-16T15:08:13Z",
-      "url": "https://x.com/spagov/status/2111111979440206208",
-      "media": true
     }
   ]
 }
