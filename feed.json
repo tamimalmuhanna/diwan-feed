@@ -1,1 +1,230 @@
-$(cat /tmp/feed.json)
+{
+  "LAST_UPDATED": "2026-10-18T13:11:00+03:00",
+  "posts": [
+    {
+      "id": "2111761367070040576",
+      "author": "وزارة الخارجية 🇸🇦",
+      "handle": "KSAMOFA",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية أذربيجان بمناسبة ذكرى يوم إعادة الاستقلال لبلاده.",
+      "timestamp": "2026-10-18T10:08:39Z",
+      "url": "https://x.com/KSAMOFA/status/2111761367070040576",
+      "media": true
+    },
+    {
+      "id": "2111759200300810444",
+      "author": "وزارة الداخلية 🇸🇦",
+      "handle": "MOISaudiArabia",
+      "text": "خلال أسبوع.. ضبط (27) مخالفًا لنظام البيئة في عدد من مناطق المملكة.\\n\\n@SFES_KSA\\n@BG994 \\n\\n#لأجل_بيئة_مستدامة",
+      "timestamp": "2026-10-18T10:00:02Z",
+      "url": "https://x.com/MOISaudiArabia/status/2111759200300810444",
+      "media": true
+    },
+    {
+      "id": "2111759194063773847",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "US Defense Secretary Pete Hegseth warned Saturday that Iran must abandon its nuclear ambitions and reach a negotiated agreement with Washington or face potentially devastating American military action.\\nhttps://saudigazette.com.sa/article/665496/world/hegseth-warns-iran-to-abandon-nuclear-ambitions-or-face-devastating-us-strikes",
+      "timestamp": "2026-10-18T10:00:01Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111759194063773847",
+      "media": false
+    },
+    {
+      "id": "2111754500776030669",
+      "author": "وزارة الصحة السعودية",
+      "handle": "SaudiMOH",
+      "text": "رصدت وزارة الصحة مقطعًا متداولًا يُظهر إعداد الطعام باستخدام جهاز طهي كهربائي داخل غرفة مريض بمنشأة صحية خاصة بالرياض؛ واتخذت الإجراءات النظامية بحق المنشأة، وإحالة الشخص المخالف إلى الجهات المختصة.",
+      "timestamp": "2026-10-18T09:41:22Z",
+      "url": "https://x.com/SaudiMOH/status/2111754500776030669",
+      "media": true
+    },
+    {
+      "id": "2111754410254844406",
+      "author": "واس الأخبار الملكية",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية أذربيجان بمناسبة ذكرى يوم إعادة الاستقلال لبلاده.\\n#واس",
+      "timestamp": "2026-10-18T09:41:00Z",
+      "url": "https://x.com/spagov/status/2111754410254844406",
+      "media": true
+    },
+    {
+      "id": "2111751643108872410",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "Saudi Foreign Minister Prince Faisal bin Farhan received a phone call from his Jordanian counterpart Ayman Safadi to discuss regional developments and ongoing efforts to contain conflicts.\\nhttps://saudigazette.com.sa/article/665504/saudi-arabia/saudi-jordanian-foreign-ministers-discuss-regional-tensions-efforts-to-contain-conflicts",
+      "timestamp": "2026-10-18T09:30:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111751643108872410",
+      "media": false
+    },
+    {
+      "id": "2111744103595536505",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "Russia has dispatched its first oil tanker to international markets following a supply agreement with the United States, Deputy Prime Minister Alexander Novak said Saturday.\\nhttps://saudigazette.com.sa/article/665495/world/russia-dispatches-first-oil-tanker-as-novak-warns-of-global-supply-shortage",
+      "timestamp": "2026-10-18T09:00:03Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111744103595536505",
+      "media": false
+    },
+    {
+      "id": "2111741765158133969",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "Red alerts for heavy rain have been issued across parts of Jazan, Asir, Al-Baha and Makkah on Sunday, as moderate to heavy thunderstorms are forecast across several Saudi regions, according to the National Center for Meteorology (NCM).\\nhttps://saudigazette.com.sa/article/665505/saudi-arabia/red-alerts-issued-for-heavy-rain-flash-flood-risk-across-four-saudi-regions",
+      "timestamp": "2026-10-18T08:50:45Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111741765158133969",
+      "media": false
+    },
+    {
+      "id": "2111736542717002108",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "Palestine called for urgent international action Saturday after Israeli settlers attacked a delegation of European diplomats and Catholic Church representatives near the town of Taybeh, east of Ramallah, in the occupied West Bank.\\nhttps://saudigazette.com.sa/article/665500/world/palestine-demands-action-after-israeli-settlers-attack-european-diplomats-in-west-bank",
+      "timestamp": "2026-10-18T08:30:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111736542717002108",
+      "media": false
+    },
+    {
+      "id": "2111728993565364730",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "Saudi security forces arrested a total of 13,822 illegal residents in a week.\\nhttps://saudigazette.com.sa/article/665493/saudi-arabia/13822-violators-of-residency-labor-and-border-security-laws-arrested-in-a-week",
+      "timestamp": "2026-10-18T08:00:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111728993565364730",
+      "media": false
+    },
+    {
+      "id": "2111652209410838682",
+      "author": "Foreign Ministry 🇸🇦",
+      "handle": "KSAmofaEN",
+      "text": "🇸🇦📞🇯🇴 | Foreign Minister HH Prince @FaisalbinFarhan received a phone call from Jordan’s Deputy Prime Minister and Foreign Minister Ayman Safadi.",
+      "timestamp": "2026-10-18T02:54:53Z",
+      "url": "https://x.com/KSAmofaEN/status/2111652209410838682",
+      "media": true
+    },
+    {
+      "id": "2111645945368899886",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "A Chinese court sentenced a kindergarten operator to life imprisonment on Friday after 247 preschool children were found to have abnormally high blood lead levels from consuming food contaminated with toxic substances.\\nhttps://saudigazette.com.sa/article/665483/world/china-kindergarten-operator-jailed-for-life-after-247-children-suffer-lead-poisoning",
+      "timestamp": "2026-10-18T02:30:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111645945368899886",
+      "media": false
+    },
+    {
+      "id": "2111617096899838216",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#VIDEO: Protesters loot a Louis Vuitton store in Bordeaux, France, amid ongoing unrest across the country.",
+      "timestamp": "2026-10-18T00:35:22Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111617096899838216",
+      "media": true
+    },
+    {
+      "id": "2111615371807699170",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#VIDEO: The bell tower of Limoges’ historic 143-year-old City Hall collapses after a fire reportedly set by protesters engulfed the building during nationwide demonstrations in France.",
+      "timestamp": "2026-10-18T00:28:31Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111615371807699170",
+      "media": true
+    },
+    {
+      "id": "2111612825521017331",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#BREAKING: Coalition intercepts and destroys a drone in the Riyadh region.",
+      "timestamp": "2026-10-18T00:18:24Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111612825521017331",
+      "media": true
+    },
+    {
+      "id": "2111611034595418387",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#BREAKING: Coalition intercepts and destroys a drone in Saudi Arabia’s Eastern Province.",
+      "timestamp": "2026-10-18T00:11:17Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111611034595418387",
+      "media": true
+    },
+    {
+      "id": "2111608196716491087",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "India's Supreme Court has ruled that children, regardless of age, have a fundamental right to access and use the internet, stressing that protecting minors from online harm must not come at the expense of their constitutional freedoms.\\nhttps://saudigazette.com.sa/article/665480/world/indias-supreme-court-rules-internet-access-is-a-fundamental-right-for-children",
+      "timestamp": "2026-10-18T00:00:00Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111608196716491087",
+      "media": false
+    },
+    {
+      "id": "2111588707669094517",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#BREAKING: Coalition intercepts and destroys a drone in the Riyadh region.",
+      "timestamp": "2026-10-17T22:42:33Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111588707669094517",
+      "media": true
+    },
+    {
+      "id": "2111577710577504571",
+      "author": "Saudi Gazette",
+      "handle": "Saudi_Gazette",
+      "text": "#VIDEO: The Coalition to Support Legitimacy in Yemen releases footage showing the targeting and destruction of two ballistic missile launchers after they were detected being used to fire missiles toward Saudi Arabia.",
+      "timestamp": "2026-10-17T21:58:52Z",
+      "url": "https://x.com/Saudi_Gazette/status/2111577710577504571",
+      "media": true
+    },
+    {
+      "id": "2111568563442241693",
+      "author": "الدفاع المدني السعودي",
+      "handle": "SaudiDCD",
+      "text": "تصوير أو نشر أو تداول معلومات ذات صلة بالتصدي للصواريخ والطائرات المسيرة ومواقع سقوطها يعرضك للمساءلة القانونية.\\n\\n #وزارة_الداخلية \\n\\nFilming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability.\\n\\n#Ministry_of_Interior",
+      "timestamp": "2026-10-17T21:22:31Z",
+      "url": "https://x.com/SaudiDCD/status/2111568563442241693",
+      "media": true
+    },
+    {
+      "id": "2111568382038573264",
+      "author": "الدفاع المدني السعودي",
+      "handle": "SaudiDCD",
+      "text": "تنبيه زال الخطر عن محافظة خميس مشيط، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998).\\n\\nAlert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "timestamp": "2026-10-17T21:21:47Z",
+      "url": "https://x.com/SaudiDCD/status/2111568382038573264",
+      "media": true
+    },
+    {
+      "id": "2111568283014950918",
+      "author": "الدفاع المدني السعودي",
+      "handle": "SaudiDCD",
+      "text": "تنبيه زال الخطر عن مدينة أبها، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998).\\n\\nAlert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "timestamp": "2026-10-17T21:21:24Z",
+      "url": "https://x.com/SaudiDCD/status/2111568283014950918",
+      "media": true
+    },
+    {
+      "id": "2111565771499524341",
+      "author": "الدفاع المدني السعودي",
+      "handle": "SaudiDCD",
+      "text": "تنبيه زال الخطر عن مدينة الرياض، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (911).\\n\\nAlert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "timestamp": "2026-10-17T21:11:25Z",
+      "url": "https://x.com/SaudiDCD/status/2111565771499524341",
+      "media": true
+    },
+    {
+      "id": "2111557243514781879",
+      "author": "ديوان المظالم",
+      "handle": "saudibogrv",
+      "text": "معالي د. علي الأحيدب يصل إلى جمهورية مصر العربية؛ لتوقيع وثيقة انضمام #ديوان_المظالم إلى الاتحاد العربي للقضاء الإداري",
+      "timestamp": "2026-10-17T20:37:32Z",
+      "url": "https://x.com/saudibogrv/status/2111557243514781879",
+      "media": true
+    },
+    {
+      "id": "2111544022665929215",
+      "author": "وزارة الداخلية",
+      "handle": "MOISaudiArabia",
+      "text": "درعٌ في الأرض .. وسَدٌّ في البحر.",
+      "timestamp": "2026-10-17T19:45:00Z",
+      "url": "https://x.com/MOISaudiArabia/status/2111544022665929215",
+      "media": true
+    }
+  ]
+}
