@@ -1,47 +1,137 @@
 {
-  "LAST_UPDATED": "2026-10-19T12:10:00+03:00",
+  "LAST_UPDATED": "2026-10-19T19:13:00+03:00",
   "posts": [
     {
-      "id": "2112102703732322782",
+      "id": "2112212183585276214",
       "author": "Saudi Gazette",
       "handle": "Saudi_Gazette",
-      "text": "GCC urges global designation of Houthis as terrorist group\nhttps://saudigazette.com.sa/article/665530/saudi-arabia/gcc-urges-global-designation-of-houthis-as-terrorist-group",
-      "timestamp": "2026-10-19T08:45:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2112102703732322782",
+      "text": "Saudi Arabia’s active commercial registrations for tourist accommodation facility management increased by 29 percent year-on-year by the end of the third quarter of 2026, according to the Ministry of Commerce.\nhttps://saudigazette.com.sa/article/665548/saudi-arabia/saudi-tourist-accommodation-registrations-rise-29-to-20560-in-q3-2026",
+      "timestamp": "2026-10-19T16:00:02Z",
+      "url": "https://x.com/Saudi_Gazette/status/2112212183585276214",
       "media": false
     },
     {
-      "id": "2112098931635081719",
+      "id": "2112202468037968196",
+      "author": "وزارة الخارجية",
+      "handle": "KSAMOFA",
+      "text": "تسلم الرسالة معالي نائب وزير الخارجية #وليد_الخريجي @W_Elkhereiji خلال استقباله في مقر الوزارة بالرياض اليوم، سفير دولة قطر لدى المملكة بندر محمد العطية.",
+      "timestamp": "2026-10-19T15:21:25Z",
+      "url": "https://x.com/KSAMOFA/status/2112202468037968196",
+      "media": true
+    },
+    {
+      "id": "2112202452027990123",
+      "author": "وزارة الخارجية",
+      "handle": "KSAMOFA",
+      "text": "#خادم_الحرمين_الشريفين يتلقى رسالة خطية من أمير دولة قطر، تتصل بالعلاقات الثنائية بين البلدين الشقيقين.",
+      "timestamp": "2026-10-19T15:21:22Z",
+      "url": "https://x.com/KSAMOFA/status/2112202452027990123",
+      "media": true
+    },
+    {
+      "id": "2112197081922261006",
       "author": "Saudi Gazette",
       "handle": "Saudi_Gazette",
-      "text": "Minister of Justice Dr. Walid Al-Samaani affirmed that the rules governing the work of technical offices, recently approved by the Supreme Judicial Council, will enhance institutional maturity and quality of judicial work.\nhttps://saudigazette.com.sa/article/665526/saudi-arabia/al-samaani-new-rules-will-enhance-institutional-maturity-and-quality-of-judicial-work",
-      "timestamp": "2026-10-19T08:30:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2112098931635081719",
+      "text": "Saudi Arabia’s railway passenger numbers surged by 266.5 percent to approximately 156.4 million in 2025, compared with 42.7 million in 2024, according to the General Authority for Statistics (GASTAT).\nhttps://saudigazette.com.sa/article/665545/saudi-arabia/saudi-railway-passenger-numbers-surge-2665-to-1564-million-in-2025",
+      "timestamp": "2026-10-19T15:00:01Z",
+      "url": "https://x.com/Saudi_Gazette/status/2112197081922261006",
       "media": false
     },
     {
-      "id": "2112095154022850743",
+      "id": "2112195272935669894",
+      "author": "واس الأخبار الملكية",
+      "handle": "spagov",
+      "text": "تسلم الرسالة نائب وزير الخارجية، خلال استقباله بمقر الوزارة في الرياض، سفير دولة قطر لدى المملكة.\n#واس",
+      "timestamp": "2026-10-19T14:52:50Z",
+      "url": "https://x.com/spagov/status/2112195272935669894",
+      "media": true
+    },
+    {
+      "id": "2112194984870850710",
+      "author": "واس الأخبار الملكية",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين يتلقى رسالة خطية من أمير دولة قطر، تتصل بالعلاقات الثنائية بين البلدين الشقيقين.\nhttps://www.spa.gov.sa/N2705191\n#واس",
+      "timestamp": "2026-10-19T14:51:41Z",
+      "url": "https://x.com/spagov/status/2112194984870850710",
+      "media": true
+    },
+    {
+      "id": "2112191211431678160",
       "author": "Saudi Gazette",
       "handle": "Saudi_Gazette",
-      "text": "Minister of Defense Prince Khalid bin Salman met with United Arab Emirates Vice President, Deputy Prime Minister, and Chairman of the Presidential Court Sheikh Mansour bin Zayed Al Nahyan in Abu Dhabi on Sunday.\nhttps://saudigazette.com.sa/article/665536/saudi-arabia/saudi-defense-minister-meets-with-uae-vice-president-in-abu-dhabi",
-      "timestamp": "2026-10-19T08:15:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2112095154022850743",
-      "media": false
+      "text": "#VIDEO: Students from the École du Louvre blocked entrances to the Paris museum on Oct. 19 in solidarity with nationwide student protests against school conditions and alleged police repression. The blockade disrupted visits, leaving ticket-holding tourists frustrated.",
+      "timestamp": "2026-10-19T14:36:42Z",
+      "url": "https://x.com/Saudi_Gazette/status/2112191211431678160",
+      "media": true
+    },
+    {
+      "id": "2112185068106158392",
+      "author": "Foreign Ministry",
+      "handle": "KSAmofaEN",
+      "text": "#Riyadh | Foreign Minister HH Prince @FaisalbinFarhan receives French Foreign Minister @jnbarrot.\n🔗 https://www.mofa.gov.sa/en/ministry/news/Pages/...",
+      "timestamp": "2026-10-19T14:12:17Z",
+      "url": "https://x.com/KSAmofaEN/status/2112185068106158392",
+      "media": true
+    },
+    {
+      "id": "2112183393924333684",
+      "author": "ديوان المظالم",
+      "handle": "saudibogrv",
+      "text": "فيديو | معالي رئيس #ديوان_المظالم د. علي الأحيدب يوقّع وثيقة انضمام المملكة إلى الاتحاد العربي للقضاء الإداري",
+      "timestamp": "2026-10-19T14:05:38Z",
+      "url": "https://x.com/saudibogrv/status/2112183393924333684",
+      "media": true
+    },
+    {
+      "id": "2112137844521415134",
+      "author": "وزارة الخارجية",
+      "handle": "KSAMOFA",
+      "text": "#الرياض | سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يستقبل معالي وزير أوروبا والشؤون الخارجية في الجمهورية الفرنسية السيد جان نويل بارو، ويبحثان العلاقات الثنائية والتطورات الإقليمية.",
+      "timestamp": "2026-10-19T11:04:38Z",
+      "url": "https://x.com/KSAMOFA/status/2112137844521415134",
+      "media": true
+    },
+    {
+      "id": "2112131192745025933",
+      "author": "وزارة الدفاع",
+      "handle": "modgovksa",
+      "text": "يشهد لها الميدان وفعل الأبطال.",
+      "timestamp": "2026-10-19T10:38:12Z",
+      "url": "https://x.com/modgovksa/status/2112131192745025933",
+      "media": true
+    },
+    {
+      "id": "2112123604112465924",
+      "author": "وزارة التجارة",
+      "handle": "MCgovSA",
+      "text": "نمو 13% في السجلات التجارية \"لبيع أجهزة ومعدات الطاقة الشمسية\" بنهاية الربع الثالث 2026م.\nللإطلاع على نشرة قطاع الأعمال:\nhttps://mc.gov.sa/ar/mediacenter/Pages/newslettes.aspx",
+      "timestamp": "2026-10-19T10:08:03Z",
+      "url": "https://x.com/MCgovSA/status/2112123604112465924",
+      "media": true
+    },
+    {
+      "id": "2112120721509871785",
+      "author": "Foreign Ministry",
+      "handle": "KSAmofaEN",
+      "text": "#Riyadh | Deputy Minister for Political Affairs Ambassador Dr. Saud Al-Sati held a meeting with ambassadors of Asian, North American, Latin American, and Oceanian countries accredited to the Kingdom of Saudi Arabia.",
+      "timestamp": "2026-10-19T09:56:35Z",
+      "url": "https://x.com/KSAmofaEN/status/2112120721509871785",
+      "media": true
     },
     {
       "id": "2112092024690073813",
-      "author": "وزارة التجارة | Ministry of Commerce",
+      "author": "وزارة التجارة",
       "handle": "MCgovSA",
-      "text": "نمو 29% في السجلات التجارية \"لإدارة مرافق الإيواء السياحي\"\nبنهاية الربع الثالث 2026م.\n\nللإطلاع على نشرة قطاع الأعمال:\nhttps://mc.gov.sa/ar/mediacenter/Pages/newslettes.aspx",
+      "text": "نمو 29% في السجلات التجارية \"لإدارة مرافق الإيواء السياحي\" بنهاية الربع الثالث 2026م.\nللإطلاع على نشرة قطاع الأعمال:\nhttps://mc.gov.sa/ar/mediacenter/Pages/newslettes.aspx",
       "timestamp": "2026-10-19T08:02:34Z",
       "url": "https://x.com/MCgovSA/status/2112092024690073813",
       "media": true
     },
     {
       "id": "2112082627683377499",
-      "author": "Foreign Ministry 🇸🇦",
+      "author": "Foreign Ministry",
       "handle": "KSAmofaEN",
-      "text": "#Riyadh | Vice Minister of Foreign Affairs H.E. @W_Elkhereiji held a meeting with Arab ambassadors accredited to the Kingdom of Saudi Arabia.\n\n🔗 https://www.spa.gov.sa/en/N2704363",
+      "text": "#Riyadh | Vice Minister of Foreign Affairs H.E. @W_Elkhereiji held a meeting with Arab ambassadors accredited to the Kingdom of Saudi Arabia.\n🔗 https://www.spa.gov.sa/en/N2704363",
       "timestamp": "2026-10-19T07:25:13Z",
       "url": "https://x.com/KSAmofaEN/status/2112082627683377499",
       "media": true
@@ -53,6 +143,15 @@
       "text": "التقى صاحب السمو الملكي الأمير خالد بن سلمان بن عبدالعزيز وزير الدفاع، في العاصمة الإماراتية أبوظبي، اليوم، سمو الشيخ منصور بن زايد آل نهيان نائب رئيس دولة الإمارات العربية المتحدة الشقيقة نائب رئيس مجلس الوزراء رئيس ديوان الرئاسة.\n\nوجرى خلال اللقاء استعراض العلاقات السعودية الإماراتية، والتأكيد على أهمية مواصلة التنسيق والتعاون المشترك؛ بما يسهم في دعم أمن المنطقة واستقرارها.",
       "timestamp": "2026-10-18T17:15:10Z",
       "url": "https://x.com/modgovksa/status/2111868706305307055",
+      "media": true
+    },
+    {
+      "id": "2111863625778626893",
+      "author": "واس الأخبار الملكية",
+      "handle": "spagov",
+      "text": "#واس",
+      "timestamp": "2026-10-18T16:54:59Z",
+      "url": "https://x.com/spagov/status/2111863625778626893",
       "media": true
     },
     {
@@ -74,19 +173,19 @@
       "media": true
     },
     {
-      "id": "2111829088721670288",
-      "author": "وزارة الخارجية 🇸🇦",
-      "handle": "KSAMOFA",
-      "text": "#المنامة | سمو وزير الخارجية الأمير #فيصل_بن_فرحان @FaisalbinFarhan يشارك في الاجتماع الوزاري المشترك التاسع للحوار الاستراتيجي بين دول مجلس التعاون الخليجي وروسيا الاتحادية، بحضور أصحاب السمو والمعالي والسعادة وزراء خارجية دول مجلس التعاون لدول الخليج العربية، ومعالي الأمين العام للمجلس، ومعالي وزير خارجية روسيا الاتحادية السيد سيرجي لافروف.",
-      "timestamp": "2026-10-18T14:37:45Z",
-      "url": "https://x.com/KSAMOFA/status/2111829088721670288",
+      "id": "2111943585616597215",
+      "author": "ديوان المظالم",
+      "handle": "saudibogrv",
+      "text": "#ديوان_المظالم ينضم إلى الاتحاد العربي للقضاء الإداري؛ لنقل تجربته الريادية والإسهام في تطوير القضاء الإداري عربيًا",
+      "timestamp": "2026-10-18T22:12:43Z",
+      "url": "https://x.com/saudibogrv/status/2111943585616597215",
       "media": true
     },
     {
       "id": "2111759200300810444",
-      "author": "وزارة الداخلية 🇸🇦",
+      "author": "وزارة الداخلية",
       "handle": "MOISaudiArabia",
-      "text": "خلال أسبوع.. ضبط (27) مخالفًا لنظام البيئة في عدد من مناطق المملكة.\n\n@SFES_KSA\n@BG994 \n\n#لأجل_بيئة_مستدامة",
+      "text": "خلال أسبوع.. ضبط (27) مخالفًا لنظام البيئة في عدد من مناطق المملكة.\n@SFES_KSA\n@BG994\n\n#لأجل_بيئة_مستدامة",
       "timestamp": "2026-10-18T10:00:02Z",
       "url": "https://x.com/MOISaudiArabia/status/2111759200300810444",
       "media": true
@@ -101,103 +200,13 @@
       "media": true
     },
     {
-      "id": "2111544022665929215",
-      "author": "وزارة الداخلية 🇸🇦",
-      "handle": "MOISaudiArabia",
-      "text": "درعٌ في الأرض .. وسَدٌّ في البحر.",
-      "timestamp": "2026-10-17T19:45:00Z",
-      "url": "https://x.com/MOISaudiArabia/status/2111544022665929215",
-      "media": true
-    },
-    {
-      "id": "2111396807398044014",
-      "author": "وزارة الداخلية 🇸🇦",
-      "handle": "MOISaudiArabia",
-      "text": "خلال أسبوع.. ضبط 13822 مخالفًا لأنظمة الإقامة والعمل وأمن الحدود.\n\n#وطن_بلا_مخالف",
-      "timestamp": "2026-10-17T10:00:01Z",
-      "url": "https://x.com/MOISaudiArabia/status/2111396807398044014",
-      "media": true
-    },
-    {
-      "id": "2111111979440206208",
-      "author": "واس الأخبار الملكية",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين يصدر أمرًا ملكيًا بترقية وتعيين 26 قاضيًا بديوان المظالم.\nhttps://www.spa.gov.sa/N2703090\n#واس",
-      "timestamp": "2026-10-16T15:08:13Z",
-      "url": "https://x.com/spagov/status/2111111979440206208",
-      "media": true
-    },
-    {
-      "id": "2111064158045360484",
-      "author": "واس الأخبار الملكية",
-      "handle": "spagov",
-      "text": "#الديوان_الملكي: وفاة صاحبة السمو الأميرة الجوهره بنت فهد بن مشاري بن سعود بن جلوي آل سعود، وسيصلى عليها - إن شاء الله - يوم غدٍ السبت، بعد صلاة العصر في جامع الإمام تركي بن عبدالله في مدينة الرياض.\n#واس",
-      "timestamp": "2026-10-16T11:58:11Z",
-      "url": "https://x.com/spagov/status/2111064158045360484",
-      "media": true
-    },
-    {
-      "id": "2111943585616597215",
-      "author": "ديوان المظالم",
-      "handle": "saudibogrv",
-      "text": "#ديوان_المظالم ينضم إلى الاتحاد العربي للقضاء الإداري؛ لنقل تجربته الريادية والإسهام في تطوير القضاء الإداري عربيًا",
-      "timestamp": "2026-10-18T22:12:43Z",
-      "url": "https://x.com/saudibogrv/status/2111943585616597215",
-      "media": true
-    },
-    {
-      "id": "2111859775382126834",
-      "author": "ديوان المظالم",
-      "handle": "saudibogrv",
-      "text": "معالي رئيس #ديوان_المظالم د. علي الأحيدب يوقّع وثيقة انضمام المملكة إلى الاتحاد العربي للقضاء الإداري، تعزيزًا للتعاون القضائي وتبادل الخبرات بين الدول العربية",
-      "timestamp": "2026-10-18T16:39:41Z",
-      "url": "https://x.com/saudibogrv/status/2111859775382126834",
-      "media": true
-    },
-    {
       "id": "2111786839052808589",
-      "author": "وزارة التجارة | Ministry of Commerce",
+      "author": "وزارة التجارة",
       "handle": "MCgovSA",
-      "text": "نمو 12% في السجلات التجارية \"للأنشطة المالية و أنشطة التأمين\"\nبنهاية الربع الثالث 2026م.\n\nللإطلاع على نشرة قطاع الأعمال:\nhttps://mc.gov.sa/ar/mediacenter/Pages/newslettes.aspx",
+      "text": "نمو 12% في السجلات التجارية \"للأنشطة المالية و أنشطة التأمين\" بنهاية الربع الثالث 2026م.\nللإطلاع على نشرة قطاع الأعمال:\nhttps://mc.gov.sa/ar/mediacenter/Pages/newslettes.aspx",
       "timestamp": "2026-10-18T11:49:52Z",
       "url": "https://x.com/MCgovSA/status/2111786839052808589",
       "media": true
-    },
-    {
-      "id": "2111969400417128616",
-      "author": "Foreign Ministry 🇸🇦",
-      "handle": "KSAmofaEN",
-      "text": "#Riyadh | Vice Minister of Foreign Affairs H.E. @W_Elkhereiji receives Chargé d’Affaires of the U.S. Embassy in the Kingdom, Ms. Jennifer Larson.",
-      "timestamp": "2026-10-18T23:55:18Z",
-      "url": "https://x.com/KSAmofaEN/status/2111969400417128616",
-      "media": true
-    },
-    {
-      "id": "2111935463074263052",
-      "author": "Foreign Ministry 🇸🇦",
-      "handle": "KSAmofaEN",
-      "text": "#Manama | Foreign Minister HH Prince @FaisalbinFarhan participates in the 9th GCC-Russia Joint Ministerial Meeting for Strategic Dialogue.",
-      "timestamp": "2026-10-18T21:40:26Z",
-      "url": "https://x.com/KSAmofaEN/status/2111935463074263052",
-      "media": true
-    },
-    {
-      "id": "2112087604607029492",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "Minister of Foreign Affairs Prince Faisal bin Farhan attended the 168th session of the Ministerial Council of the Gulf Cooperation Council (GCC) in Manama on Sunday.\nhttps://saudigazette.com.sa/article/665531/saudi-arabia/saudi-fm-attends-gcc-ministerial-council-in-manama",
-      "timestamp": "2026-10-19T07:45:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2112087604607029492",
-      "media": false
-    },
-    {
-      "id": "2112083830299611219",
-      "author": "Saudi Gazette",
-      "handle": "Saudi_Gazette",
-      "text": "Saudi economy remains resilient despite Middle East conflict, SAMA governor says\nhttps://saudigazette.com.sa/article/665524/saudi-arabia/saudi-economy-resilient-amid-middle-east-conflict-sama-governor-tells-imf",
-      "timestamp": "2026-10-19T07:30:00Z",
-      "url": "https://x.com/Saudi_Gazette/status/2112083830299611219",
-      "media": false
     }
   ]
 }
