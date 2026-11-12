@@ -1,125 +1,101 @@
 {
-  "LAST_UPDATED": "2026-11-12T01:17:00+03:00",
+  "LAST_UPDATED": "2026-11-12T07:15:08+03:00",
   "posts": [
+    {
+      "id": "2120659869141242237",
+      "handle": "SaudiDCD",
+      "text": "#الدفاع_المدني : سقوط شظايا صاروخين باليستيين بعد اعتراضهما وتدميرهما تم إطلاقهما من قبل الميليشيا الحوثية الإرهابية باتجاه منطقة مكة المكرمة منها شظايا على قرية سبوحة.",
+      "timestamp": "2026-11-11T23:28:07Z",
+      "likes": 3462,
+      "reposts": 1323
+    },
     {
       "id": "2120641450434085248",
       "handle": "KSAmofaEN",
       "text": "#Riyadh | Deputy Minister for International Multilateral Affairs and General Supervisor of the Economic and Development Affairs Deputyship Dr. Abdulrahman Al-Rassi received British Ambassador to the Kingdom Stephen Hitchen. During the meeting, they discussed issues of mutual interest. 🇸🇦🇬🇧",
       "timestamp": "2026-11-11T22:14:56Z",
-      "likes": 1,
-      "reposts": 1
+      "likes": 8,
+      "reposts": 5
     },
     {
       "id": "2120640281897034125",
       "handle": "KSAmofaEN",
       "text": "#Riyadh | Deputy Minister for Political Affairs Ambassador Dr. Saud Al-Sati received Ambassador of Albania to the Kingdom Saimir Bala. They reviewed issues of mutual interest. 🇸🇦🇦🇱",
       "timestamp": "2026-11-11T22:10:17Z",
-      "likes": 1,
-      "reposts": 1
+      "likes": 13,
+      "reposts": 2
     },
     {
       "id": "2120623852422066560",
       "handle": "MOISaudiArabia",
       "text": "أمن الحج .. أمانةٌ نحملها وعهدٌ نفي به، وشرفٌ نفخرُ به ..\n\n#مؤتمر_ومعرض_الحج\n#أمانة_وعهد",
       "timestamp": "2026-11-11T21:05:00Z",
-      "likes": 205,
-      "reposts": 138
+      "likes": 332,
+      "reposts": 192
     },
     {
       "id": "2120623368944656876",
       "handle": "media_ksa",
       "text": "منظومة إعلامية متكاملة تواكب موسم الحج على مدار الساعة؛ مقتطفات من حديث الرئيس التنفيذي لمركز العمليات الإعلامي الموحد للحج خلال مؤتمر ومعرض الحج 2026.",
       "timestamp": "2026-11-11T21:03:05Z",
-      "likes": 9,
-      "reposts": 5
+      "likes": 18,
+      "reposts": 6
     },
     {
       "id": "2120621911998624196",
       "handle": "SaudiDCD",
       "text": "📹 | #الدفاع_المدني يختتم مشاركته في #مؤتمر_ومعرض_خدمات_الحج ، مستعرضًا أبرز خدماته وتقنياته الحديثة لتعزيز السلامة وحماية ضيوف الرحمن.\n\n#أمانة_وعهد",
       "timestamp": "2026-11-11T20:57:17Z",
-      "likes": 17,
-      "reposts": 2
+      "likes": 33,
+      "reposts": 3
     },
     {
       "id": "2120618272378761361",
       "handle": "SaudiDCD",
       "text": "عبور الأودية والشعاب أثناء جريانها تصرف جسيم يعرض حياتك للخطر ويعد مخالفة تصل عقوبتها إلى (10,000) ريال.\n\n#الدفاع_المدني",
       "timestamp": "2026-11-11T20:42:49Z",
-      "likes": 26,
-      "reposts": 9
+      "likes": 40,
+      "reposts": 16
     },
     {
       "id": "2120616698948816973",
       "handle": "SaudiDCD",
       "text": "#الدفاع_المدني بمحافظة الزلفي ينقذ (4) أشخاص احتجزوا في سيل داخل مركبات، وتم تطبيق الأنظمة بحق قائديها لارتكابهم مخالفة “المجازفة بعبور الأودية أثناء جريانها”، بالتنسيق مع @eMoroor .",
       "timestamp": "2026-11-11T20:36:34Z",
-      "likes": 181,
-      "reposts": 41
+      "likes": 444,
+      "reposts": 76
+    },
+    {
+      "id": "2120593763424759984",
+      "handle": "SaudiDCD",
+      "text": "تنبيه زال الخطر عن محافظة خميس مشيط، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998).\n\nAlert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "timestamp": "2026-11-11T19:05:26Z",
+      "likes": 122,
+      "reposts": 34
     },
     {
       "id": "2120574391775862872",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يعزيان رئيس جمهورية النيجر رئيس الدولة في وفاة والده.\n#واس",
       "timestamp": "2026-11-11T17:48:28Z",
-      "likes": 119,
-      "reposts": 51
-    },
-    {
-      "id": "2120560937362960407",
-      "handle": "MOISaudiArabia",
-      "text": "ولي عهد مملكة البحرين يستقبل الأمير عبدالعزيز بن سعود ووزراء الداخلية بدول مجلس التعاون لدول الخليج العربية.",
-      "timestamp": "2026-11-11T16:55:00Z",
-      "likes": 80,
-      "reposts": 55
-    },
-    {
-      "id": "2120559754364043642",
-      "handle": "media_ksa",
-      "text": "الميكروفون لهم، والكاميرا تنتظرهم؛ زوار \"جسر الإعلام\" يعيشون تجربة المذيع وصانع البودكاست.",
-      "timestamp": "2026-11-11T16:50:18Z",
-      "likes": 62,
-      "reposts": 19
-    },
-    {
-      "id": "2120558535054385158",
-      "handle": "MOISaudiArabia",
-      "text": "ملك البحرين يستقبل الأمير عبدالعزيز بن سعود ووزراء الداخلية بدول مجلس التعاون لدول الخليج العربية.",
-      "timestamp": "2026-11-11T16:45:27Z",
-      "likes": 117,
-      "reposts": 82
+      "likes": 157,
+      "reposts": 64
     },
     {
       "id": "2120556946780491982",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الرئيس بيدرو أليانا بمناسبة أدائه اليمين الدستورية رئيسًا لجمهورية الباراغواي.\n#واس",
       "timestamp": "2026-11-11T16:39:08Z",
-      "likes": 148,
-      "reposts": 48
-    },
-    {
-      "id": "2120534891599441969",
-      "handle": "media_ksa",
-      "text": "يواصل \"جسر الإعلام\" استقطاب الزوار، وإتاحة تجارب تفاعلية ولقاءات إعلامية، بتنظيم من مركز العمليات الإعلامي الموحد للحج بوزارة الإعلام.",
-      "timestamp": "2026-11-11T15:11:30Z",
-      "likes": 11,
-      "reposts": 5
-    },
-    {
-      "id": "2120519590635581696",
-      "handle": "media_ksa",
-      "text": "من الصوت والصورة إلى السرد والذكاء الاصطناعي؛ مهارات لصناعة حكاية مؤثرة في ورش \"جسر الإعلام\"، بتنظيم مركز العمليات الإعلامي الموحد للحج بوزارة الإعلام.",
-      "timestamp": "2026-11-11T14:10:42Z",
-      "likes": 33,
-      "reposts": 9
+      "likes": 180,
+      "reposts": 60
     },
     {
       "id": "2120516154602967057",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يعزيان رئيس الجمهورية التركية في ضحايا انفجار مصنع للصلب في ولاية إزمير غرب تركيا.\n#واس",
       "timestamp": "2026-11-11T13:57:03Z",
-      "likes": 217,
-      "reposts": 80
+      "likes": 241,
+      "reposts": 91
     },
     {
       "id": "2120499810101043302",
@@ -138,44 +114,28 @@
       "reposts": 9
     },
     {
-      "id": "2120482449201492089",
-      "handle": "KSAmofaEN",
-      "text": "#Riyadh | Deputy Minister for International Multilateral Affairs and General Supervisor of the Economic and Development Affairs Deputyship Dr. Abdulrahman Al-Rassi received Ambassador of Japan to the Kingdom Yasunari Morino. They reviewed issues of mutual interest. 🇸🇦🇯🇵",
-      "timestamp": "2026-11-11T11:43:07Z",
-      "likes": 18,
-      "reposts": 7
-    },
-    {
       "id": "2120436676338311535",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية أنغولا بمناسبة ذكرى استقلال بلاده.\n#واس",
       "timestamp": "2026-11-11T08:41:14Z",
-      "likes": 139,
-      "reposts": 52
+      "likes": 148,
+      "reposts": 56
     },
     {
       "id": "2120432838134968781",
       "handle": "spagov",
       "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية بولندا بمناسبة ذكرى استقلال بلاده.\n#واس",
       "timestamp": "2026-11-11T08:25:59Z",
-      "likes": 177,
-      "reposts": 59
+      "likes": 184,
+      "reposts": 65
     },
     {
       "id": "2120419204109156770",
       "handle": "HRSD_SA",
       "text": "يمتد مسارك في مسرعة المهارات من التسجيل إلى توثيق مهاراتك، ضمن مسار متكامل يتيح لك تطوير قدراتك ورفع رصيدك من المهارات. سجل الآن:https://skills.qiwa.sa/skill-accelerator/",
       "timestamp": "2026-11-11T07:31:48Z",
-      "likes": 26,
-      "reposts": 12
-    },
-    {
-      "id": "2120280175753515155",
-      "handle": "media_ksa",
-      "text": "من فضول السؤال إلى متعة التجربة؛ يقترب زوار \"جسر الإعلام\" من المهنة وصنّاعها.",
-      "timestamp": "2026-11-10T22:19:21Z",
-      "likes": 40,
-      "reposts": 9
+      "likes": 27,
+      "reposts": 13
     }
   ]
 }
