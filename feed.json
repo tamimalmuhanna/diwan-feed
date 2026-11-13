@@ -1,1 +1,205 @@
-$(cat /tmp/new_feed.json)
+{
+  "LAST_UPDATED": "2026-11-13T21:15:00+03:00",
+  "posts": [
+    {
+      "id": "2121300821870530568",
+      "handle": "SaudiDCD",
+      "text": "السيول المنقولة .. خطر على الأرواح والممتلكات.\n#لا_تجازف",
+      "timestamp": "2026-11-13T17:55:02Z",
+      "likes": 25,
+      "reposts": 8
+    },
+    {
+      "id": "2121253274321875078",
+      "handle": "SaudiDCD",
+      "text": "تنبيه زال الخطر عن منطقة جازان، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998).\n\nAlert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "timestamp": "2026-11-13T14:46:06Z",
+      "likes": 106,
+      "reposts": 30
+    },
+    {
+      "id": "2121251867078668359",
+      "handle": "SaudiDCD",
+      "text": "تم إطلاق إنذار من المنصة الوطنية للإنذار المبكر في حالات الطوارئ في منطقة جازان للتحذير من خطر، اتبع الآتي:\n\nA warning has been issued by the National Early Warning Platform in Jazan Province to alert of a potential danger. Please follow the instructions below:",
+      "timestamp": "2026-11-13T14:40:30Z",
+      "likes": 171,
+      "reposts": 41
+    },
+    {
+      "id": "2121227033845932483",
+      "handle": "SaudiDCD",
+      "text": "#في_ذاكرتنا",
+      "timestamp": "2026-11-13T13:01:50Z",
+      "likes": 232,
+      "reposts": 33
+    },
+    {
+      "id": "2121214168153960655",
+      "handle": "KSAmofaEN",
+      "text": "#Statement | The Foreign Ministry expresses the Kingdom of Saudi Arabia’s solidarity with the brotherly United Arab Emirates following a traffic accident in the Emirate of Fujairah, which resulted in a number of deaths and injuries.",
+      "timestamp": "2026-11-13T12:10:42Z",
+      "likes": 35,
+      "reposts": 8
+    },
+    {
+      "id": "2121213498457767947",
+      "handle": "KSAmofaEN",
+      "text": "#Statement | The Foreign Ministry expresses the Kingdom of Saudi Arabia’s deepest condolences and sincere sympathy to the families of the deceased and to the government and people of the brotherly Republic of Türkiye following the crash of a military helicopter while carrying out routine duties.",
+      "timestamp": "2026-11-13T12:08:02Z",
+      "likes": 13,
+      "reposts": 0
+    },
+    {
+      "id": "2121197854253609083",
+      "handle": "SaudiDCD",
+      "text": "أثناء التنزه يجب مراقبة الأطفال وعدم السماح لهم بالاقتراب من تجمعات المياه.   \n#الوقاية_أمان",
+      "timestamp": "2026-11-13T11:05:53Z",
+      "likes": 44,
+      "reposts": 27
+    },
+    {
+      "id": "2121170343314469209",
+      "handle": "SaudiDCD",
+      "text": "#لسلامتك  ..\nأثناء هطول الأمطار .. ابتعد عن المناطق المنخفضة وتجمعات المياه وبطون الأودية.",
+      "timestamp": "2026-11-13T09:16:33Z",
+      "likes": 34,
+      "reposts": 9
+    },
+    {
+      "id": "2121169722997641516",
+      "handle": "SaudiDCD",
+      "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #الباحة .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
+      "timestamp": "2026-11-13T09:14:06Z",
+      "likes": 14,
+      "reposts": 3
+    },
+    {
+      "id": "2121169593163186541",
+      "handle": "SaudiDCD",
+      "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #المدينة_المنورة .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
+      "timestamp": "2026-11-13T09:13:35Z",
+      "likes": 13,
+      "reposts": 2
+    },
+    {
+      "id": "2121004653487735272",
+      "handle": "KSAmofaEN",
+      "text": "#Riyadh | Foreign Minister HH Prince @FaisalbinFarhan received Special Envoy of the Chinese Government on the Middle East Issue Zhai Jun.",
+      "timestamp": "2026-11-12T22:18:10Z",
+      "likes": 113,
+      "reposts": 26
+    },
+    {
+      "id": "2120920341530710083",
+      "handle": "spagov",
+      "text": "سمو #ولي_العهد يهنئ رئيس وزراء غرينادا بمناسبة إعادة انتخابه رئيسًا للوزراء.\n#واس",
+      "timestamp": "2026-11-12T16:43:08Z",
+      "likes": 309,
+      "reposts": 93
+    },
+    {
+      "id": "2120892834471391252",
+      "handle": "media_ksa",
+      "text": "من تجربة إعلامية تفاعلية إلى أثر يُتوَّج؛ \"جسر الإعلام\" يحصد جائزة HCF للتميّز في فئة الأثر ضمن مؤتمر ومعرض الحج 2026.",
+      "timestamp": "2026-11-12T14:53:50Z",
+      "likes": 51,
+      "reposts": 18
+    },
+    {
+      "id": "2120859413695385788",
+      "handle": "HRSD_SA",
+      "text": "نائب وزير الموارد البشرية والتنمية الاجتماعية للعمل يستقبل وزير العمل والحماية الاجتماعية الكيني ويوقعان ملحقاً فنياً لتنظيم اجراءات وخفض تكاليف استقدام العمالة المنزلية.",
+      "timestamp": "2026-11-12T12:41:02Z",
+      "likes": 31,
+      "reposts": 19
+    },
+    {
+      "id": "2120814698170126508",
+      "handle": "spagov",
+      "text": "امتدادًا للموافقة الكريمة.. وزارة الشؤون الإسلامية تقيم النسخة الثانية من مسابقة خادم الحرمين الشريفين لحفظ القرآن الكريم والسنة النبوية لدول غرب أفريقيا في العاصمة الموريتانية نواكشوط الأحد المقبل بمشاركة 160 متسابقًا من 16 دولة.\nhttps://www.spa.gov.sa/N2725123\n#واس",
+      "timestamp": "2026-11-12T09:43:21Z",
+      "likes": 476,
+      "reposts": 296
+    },
+    {
+      "id": "2121003367061209585",
+      "handle": "KSAmofaEN",
+      "text": "#Riyadh | Deputy Minister for Protocol Affairs Ambassador Abdulmajeed Al-Smari received Ambassador of Türkiye to the Kingdom, Emrullah İşler. They discussed issues of mutual interest. 🇸🇦🇹🇷",
+      "timestamp": "2026-11-12T22:13:03Z",
+      "likes": 4,
+      "reposts": 0
+    },
+    {
+      "id": "2120968326499496110",
+      "handle": "KSAmofaEN",
+      "text": "HRH the Crown Prince congratulates Prime Minister of Grenada on his re-election.",
+      "timestamp": "2026-11-12T19:53:49Z",
+      "likes": 13,
+      "reposts": 2
+    },
+    {
+      "id": "2120886500388700325",
+      "handle": "SaudiDCD",
+      "text": "دعوة للقطاعين (العام والخاص) لتقديم أعمال إبداعية في #مبادرة_بلاغ عبر الرابط:\nhttps://balaghksa.com",
+      "timestamp": "2026-11-12T14:28:40Z",
+      "likes": 44,
+      "reposts": 11
+    },
+    {
+      "id": "2120843531761631274",
+      "handle": "SaudiDCD",
+      "text": "#لسلامتك  ..\nأثناء هطول الأمطار .. ابتعد عن المناطق المنخفضة وتجمعات المياه وبطون الأودية.",
+      "timestamp": "2026-11-12T11:37:55Z",
+      "likes": 46,
+      "reposts": 10
+    },
+    {
+      "id": "2120824622471958828",
+      "handle": "SaudiDCD",
+      "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #جازان .",
+      "timestamp": "2026-11-12T10:22:47Z",
+      "likes": 35,
+      "reposts": 5
+    },
+    {
+      "id": "2120574391775862872",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يعزيان رئيس جمهورية النيجر رئيس الدولة في وفاة والده.\n#واس",
+      "timestamp": "2026-11-11T17:48:28Z",
+      "likes": 260,
+      "reposts": 90
+    },
+    {
+      "id": "2120556946780491982",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الرئيس بيدرو أليانا بمناسبة أدائه اليمين الدستورية رئيسًا لجمهورية الباراغواي.\n#واس",
+      "timestamp": "2026-11-11T16:39:08Z",
+      "likes": 244,
+      "reposts": 80
+    },
+    {
+      "id": "2120516154602967057",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يعزيان رئيس الجمهورية التركية في ضحايا انفجار مصنع للصلب في ولاية إزمير غرب تركيا.\n#واس",
+      "timestamp": "2026-11-11T13:57:03Z",
+      "likes": 217,
+      "reposts": 80
+    },
+    {
+      "id": "2120436676338311535",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية أنغولا بمناسبة ذكرى استقلال بلاده.\n#واس",
+      "timestamp": "2026-11-11T08:41:14Z",
+      "likes": 139,
+      "reposts": 52
+    },
+    {
+      "id": "2120432838134968781",
+      "handle": "spagov",
+      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان رئيس جمهورية بولندا بمناسبة...",
+      "timestamp": "2026-11-11T08:26:00Z",
+      "likes": 100,
+      "reposts": 30
+    }
+  ]
+}
