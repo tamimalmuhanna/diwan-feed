@@ -1,165 +1,141 @@
 {
-  "LAST_UPDATED": "2026-11-15T01:16:00+03:00",
+  "LAST_UPDATED": "2026-11-15T07:20:00+03:00",
   "posts": [
+    {
+      "id": "2121774471237275900",
+      "handle": "SaudiDCD",
+      "text": "تنبيه زال الخطر عن مدينة الرياض، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (911).",
+      "timestamp": "2026-11-15T01:17:09Z",
+      "likes": 438,
+      "reposts": 136
+    },
+    {
+      "id": "2121772053347107230",
+      "handle": "SaudiDCD",
+      "text": "تم إطلاق إنذار من المنصة الوطنية للإنذار المبكر في حالات الطوارئ في مدينة الرياض للتحذير من خطر، اتبع الآتي:",
+      "timestamp": "2026-11-15T01:07:32Z",
+      "likes": 569,
+      "reposts": 142
+    },
+    {
+      "id": "2121683849210192064",
+      "handle": "modgovksa",
+      "text": "جامعة الملك سلمان للدفاع الوطني.. منظومة أكاديمية وبحثية لتعزيز القدرات القيادية ودعم صناعة القرار في مجالات الدفاع والأمن الوطني.",
+      "timestamp": "2026-11-14T19:17:03Z",
+      "likes": 1136,
+      "reposts": 441
+    },
     {
       "id": "2121651197924741237",
       "handle": "media_ksa",
       "text": "الحج كما يراه المؤثرون؛ حكايات يلتقطون تفاصيلها، ويروون كواليس نقلها للعالم في \"حديث إمباك\".",
       "timestamp": "2026-11-14T17:07:18Z",
-      "likes": 19,
-      "reposts": 10
+      "likes": 23,
+      "reposts": 12
     },
     {
       "id": "2121649143449825406",
       "handle": "SaudiDCD",
       "text": "#الدفاع_المدني : استمرار هطول الأمطار الرعدية على معظم مناطق المملكة حتى يوم الخميس المقبل. \n\n#الوقاية_أمان",
       "timestamp": "2026-11-14T16:59:08Z",
-      "likes": 97,
-      "reposts": 25
+      "likes": 113,
+      "reposts": 33
+    },
+    {
+      "id": "2121626711800545474",
+      "handle": "MOISaudiArabia",
+      "text": "إعلان نتائج المرشحين للقبول النهائي للمتقدمين للالتحاق بدورة الضباط الجامعيين الـ(56) بكلية الملك فهد الأمنية للعام الدراسي 1448 هـ عبر منصة (أبشر- توظيف): https://jobs.sa .",
+      "timestamp": "2026-11-14T15:30:00Z",
+      "likes": 235,
+      "reposts": 100
     },
     {
       "id": "2121603274839093543",
       "handle": "SaudiDCD",
       "text": "خدمة إصدار ترخيص سلامة مع رخصة البلدية من خلال منصة بلدي.",
       "timestamp": "2026-11-14T13:56:52Z",
-      "likes": 23,
-      "reposts": 2
+      "likes": 30,
+      "reposts": 4
+    },
+    {
+      "id": "2121588961181380738",
+      "handle": "MOISaudiArabia",
+      "text": "مسابقة الأمير نايف بن عبدالعزيز -رحمه الله- لحفظ القرآن الكريم .. نهج، وأثر.",
+      "timestamp": "2026-11-14T13:00:00Z",
+      "likes": 191,
+      "reposts": 121
     },
     {
       "id": "2121583364427685912",
       "handle": "KSAmofaEN",
       "text": "#Statement | The Foreign Ministers of the Kingdom of Saudi Arabia and several Arab and Islamic countries condemn in the strongest terms the Israeli airstrike on the Nasser Medical Complex in Khan Younis, which caused casualties among patients and medical personnel, in violation of international humanitarian law, which affords special protection to medical facilities and healthcare workers.",
       "timestamp": "2026-11-14T12:37:45Z",
-      "likes": 72,
-      "reposts": 21
+      "likes": 87,
+      "reposts": 27
+    },
+    {
+      "id": "2121582943998980144",
+      "handle": "modgovksa",
+      "text": "صدور موافقة #خادم_الحرمين_الشريفين على تسمية «جامعة الدفاع الوطني» باسم «جامعة الملك سلمان للدفاع الوطني».",
+      "timestamp": "2026-11-14T12:36:05Z",
+      "likes": 1369,
+      "reposts": 587
     },
     {
       "id": "2121581468895920569",
       "handle": "spagov",
       "text": "صدور موافقة #خادم_الحرمين_الشريفين على تسمية (جامعة الدفاع الوطني) باسم (جامعة الملك سلمان للدفاع الوطني).\nhttps://www.spa.gov.sa/N2726393\n#واس",
       "timestamp": "2026-11-14T12:30:13Z",
-      "likes": 2302,
-      "reposts": 1151
+      "likes": 2443,
+      "reposts": 1214
+    },
+    {
+      "id": "2121576625024172481",
+      "handle": "KSAMOFA",
+      "text": "#بيان | وزراء خارجية المملكة وعدد من الدول العربية والإسلامية يدينون بأشد العبارات الغارة الجوية الإسرائيلية التي استهدفت مجمع ناصر الطبي في خان يونس، وأسفرت عن سقوط ضحايا من المرضى وأفراد الطواقم الطبية، في انتهاك للقانون الدولي الإنساني الذي يكفل حماية خاصة للمنشآت الطبية والعاملين في المجال الصحي.",
+      "timestamp": "2026-11-14T12:10:59Z",
+      "likes": 957,
+      "reposts": 301
     },
     {
       "id": "2121559900627054829",
       "handle": "SaudiDCD",
       "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #الباحة .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
       "timestamp": "2026-11-14T11:04:31Z",
-      "likes": 17,
-      "reposts": 6
+      "likes": 20,
+      "reposts": 7
     },
     {
       "id": "2121559773661315388",
       "handle": "SaudiDCD",
       "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #جازان .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
       "timestamp": "2026-11-14T11:04:01Z",
-      "likes": 31,
-      "reposts": 4
+      "likes": 33,
+      "reposts": 5
     },
     {
       "id": "2121559646049546528",
       "handle": "SaudiDCD",
       "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #مكة_المكرمة .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
       "timestamp": "2026-11-14T11:03:30Z",
-      "likes": 26,
-      "reposts": 3
-    },
-    {
-      "id": "2121559462959874290",
-      "handle": "SaudiDCD",
-      "text": "#الدفاع_المدني يدعو إلى توخي الحيطة واتباع الإرشادات إثر الحالة المناخية التي تشهدها أجزاء من منطقة #عسير .\nولمتابعة الحالة عبر الرابط:\nhttps://www.ncm.gov.sa/ar/early-warning",
-      "timestamp": "2026-11-14T11:02:47Z",
-      "likes": 22,
+      "likes": 30,
       "reposts": 4
-    },
-    {
-      "id": "2121374689566052752",
-      "handle": "SaudiDCD",
-      "text": "تنبيه زال الخطر عن منطقة نجران، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998).\n\nAlert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "timestamp": "2026-11-13T22:48:33Z",
-      "likes": 154,
-      "reposts": 34
-    },
-    {
-      "id": "2121373360269541470",
-      "handle": "SaudiDCD",
-      "text": "تم إطلاق إنذار من المنصة الوطنية للإنذار المبكر في حالات الطوارئ في منطقة نجران للتحذير من خطر، اتبع الآتي:\n\nA warning has been issued by the National Early Warning Platform in Najran Province to alert of a potential danger. Please follow the instructions below:",
-      "timestamp": "2026-11-13T22:43:16Z",
-      "likes": 201,
-      "reposts": 44
     },
     {
       "id": "2121322269750542769",
       "handle": "media_ksa",
       "text": "للخبر أمانة، وللخلاف حدود، وللإنسان حرمة؛ في الأزمات تظهر الأخلاق في كلماتنا، وفي الطريقة التي نروي بها ما يحدث.",
       "timestamp": "2026-11-13T19:20:16Z",
-      "likes": 47,
-      "reposts": 29
-    },
-    {
-      "id": "2121300821870530568",
-      "handle": "SaudiDCD",
-      "text": "السيول المنقولة .. خطر على الأرواح والممتلكات.\n#لا_تجازف",
-      "timestamp": "2026-11-13T17:55:02Z",
-      "likes": 56,
-      "reposts": 23
-    },
-    {
-      "id": "2121253274321875078",
-      "handle": "SaudiDCD",
-      "text": "تنبيه زال الخطر عن منطقة جازان، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998).\n\nAlert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "timestamp": "2026-11-13T14:46:06Z",
-      "likes": 136,
-      "reposts": 34
-    },
-    {
-      "id": "2121251867078668359",
-      "handle": "SaudiDCD",
-      "text": "تم إطلاق إنذار من المنصة الوطنية للإنذار المبكر في حالات الطوارئ في منطقة جازان للتحذير من خطر، اتبع الآتي:\n\nA warning has been issued by the National Early Warning Platform in Jazan Province to alert of a potential danger. Please follow the instructions below:",
-      "timestamp": "2026-11-13T14:40:30Z",
-      "likes": 202,
-      "reposts": 50
-    },
-    {
-      "id": "2121214168153960655",
-      "handle": "KSAmofaEN",
-      "text": "#Statement | The Foreign Ministry expresses the Kingdom of Saudi Arabia’s solidarity with the brotherly United Arab Emirates following a traffic accident in the Emirate of Fujairah, which resulted in a number of deaths and injuries.",
-      "timestamp": "2026-11-13T12:10:42Z",
-      "likes": 64,
-      "reposts": 19
-    },
-    {
-      "id": "2121213498457767947",
-      "handle": "KSAmofaEN",
-      "text": "#Statement | The Foreign Ministry expresses the Kingdom of Saudi Arabia’s deepest condolences and sincere sympathy to the families of the deceased and to the government and people of the brotherly Republic of Türkiye following the crash of a military helicopter while carrying out routine duties.",
-      "timestamp": "2026-11-13T12:08:02Z",
-      "likes": 30,
-      "reposts": 8
-    },
-    {
-      "id": "2121004653487735272",
-      "handle": "KSAmofaEN",
-      "text": "#Riyadh | Foreign Minister HH Prince @FaisalbinFarhan received Special Envoy of the Chinese Government on the Middle East Issue Zhai Jun.",
-      "timestamp": "2026-11-12T22:18:10Z",
-      "likes": 130,
-      "reposts": 29
-    },
-    {
-      "id": "2120920341530710083",
-      "handle": "spagov",
-      "text": "سمو #ولي_العهد يهنئ رئيس وزراء غرينادا بمناسبة إعادة انتخابه رئيسًا للوزراء.\n#واس",
-      "timestamp": "2026-11-12T16:43:08Z",
-      "likes": 339,
-      "reposts": 100
+      "likes": 66,
+      "reposts": 38
     },
     {
       "id": "2120892834471391252",
       "handle": "media_ksa",
-      "text": "من تجربة إعلامية تفاعلية إلى أثر يُتوَّج؛ \"جسر الإعلام\" يحصد جائزة HCF للتميّز في فئة الأثر ضمن مؤتمر ومعرض الحج 2026.",
+      "text": "من تجربة إعلامية تفاعلية إلى أثر يُتوَّج؛ \"جسر الإعلام\" يحصد جائزة HCF للتميّز في فئة الأثر ضمن مؤتمر ومعرض الحج 2026.",
       "timestamp": "2026-11-12T14:53:50Z",
-      "likes": 59,
-      "reposts": 21
+      "likes": 63,
+      "reposts": 24
     },
     {
       "id": "2120859413695385788",
@@ -168,30 +144,6 @@
       "timestamp": "2026-11-12T12:41:02Z",
       "likes": 32,
       "reposts": 19
-    },
-    {
-      "id": "2120814698170126508",
-      "handle": "spagov",
-      "text": "امتدادًا للموافقة الكريمة.. وزارة الشؤون الإسلامية تقيم النسخة الثانية من مسابقة خادم الحرمين الشريفين لحفظ القرآن الكريم والسنة النبوية لدول غرب أفريقيا في العاصمة الموريتانية نواكشوط الأحد المقبل بمشاركة 160 متسابقًا من 16 دولة.\nhttps://www.spa.gov.sa/N2725123\n#واس",
-      "timestamp": "2026-11-12T09:43:21Z",
-      "likes": 515,
-      "reposts": 314
-    },
-    {
-      "id": "2120574391775862872",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يعزيان رئيس جمهورية النيجر رئيس الدولة في وفاة والده.\n#واس",
-      "timestamp": "2026-11-11T17:48:28Z",
-      "likes": 278,
-      "reposts": 95
-    },
-    {
-      "id": "2120556946780491982",
-      "handle": "spagov",
-      "text": "#خادم_الحرمين_الشريفين وسمو #ولي_العهد يهنئان الرئيس بيدرو أليانا بمناسبة أدائه اليمين الدستورية رئيسًا لجمهورية الباراغواي.\n#واس",
-      "timestamp": "2026-11-11T16:39:08Z",
-      "likes": 245,
-      "reposts": 80
     }
   ]
 }
